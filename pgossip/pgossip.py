@@ -98,7 +98,11 @@ class PGossip:
             response = session.get(url)
         if response.status_code == 200:
             data = json.loads(response.text)
-            result = data["data"]
+            try:
+                result = data["data"]
+            except KeyError:
+                print(f"ASN {asn} has no data at whois!")
+                raise
         else:
             print("ERROR | HTTP status != 20 - bv_asn_whois")
             sys.exit(1)
