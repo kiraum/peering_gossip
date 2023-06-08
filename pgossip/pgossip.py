@@ -16,8 +16,7 @@ class PGossip:
         filtered_routes_clean = None
         filtered_routes_sum = {}
         text = []
-        # rs_list = self.alice_rs(url)
-        rs_list = ["IGU-rs1-v4"]
+        rs_list = self.alice_rs(url)
         for route_server in rs_list:
             print(route_server)
             filtered_routes = self.alice_neighbours(url, route_server)
