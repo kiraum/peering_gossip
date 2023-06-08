@@ -11,10 +11,13 @@ class PGossip:
     """
 
     def alice_hos(self, url):
-        """ generate hall of shame """
+        """generate hall of shame"""
+        filtered_routes_sorted = None
+        filtered_routes_clean = None
         filtered_routes_sum = {}
-        rs_list = self.alice_rs(url)
-        #rs_list = ["SP-rs2-v4", "SP-rs2-v6", "RJ-rs1-v4"]
+        text = []
+        # rs_list = self.alice_rs(url)
+        rs_list = ["IGU-rs1-v4"]
         for route_server in rs_list:
             print(route_server)
             filtered_routes = self.alice_neighbours(url, route_server)
@@ -28,26 +31,22 @@ class PGossip:
                     filtered_routes_sum[neighbour] = froutes
             time.sleep(30)
 
-        filtered_routes_sorted = None
-        filtered_routes_clean = None
-        filtered_routes_sorted = {
-            k: v
-            for k, v in sorted(
-                filtered_routes_sum.items(), key=lambda item: item[1], reverse=True
-            )
-        }
+        filtered_routes_sorted = dict(
+            sorted(filtered_routes_sum.items(), key=lambda item: item[1], reverse=True)
+        )
         filtered_routes_clean = {
             x: y for x, y in filtered_routes_sorted.items() if y != 0
         }
 
-        text = []
         text.append(
             f"Filtered prefixes @ {url} | ASN | NAME | Contacts | PeeringDB link"
         )
         for asn, pfxs in filtered_routes_clean.items():
             details = self.bv_asn_whois(asn)
             text.append(
-                f"{pfxs} | {asn} | {details['name']} | {','.join(map(str, details['email_contacts']))} | https://www.peeringdb.com/asn/{asn}"
+                f"{pfxs} | {asn} | {details['name']} "
+                f"| {','.join(map(str, details['email_contacts']))} "
+                f"| https://www.peeringdb.com/asn/{asn}"
             )
         print("\n".join(map(str, text)))
         report_link = self.create_report("\n".join(map(str, text)))
@@ -103,7 +102,7 @@ class PGossip:
         return result
 
     def create_report(self, data):
-        """ create a pastebin like report """
+        """create a pastebin like report"""
         url = "https://glot.io/api/snippets"
         headers = {"Content-Type": "application/json; charset=utf-8"}
         payload = {
