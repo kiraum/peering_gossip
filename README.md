@@ -13,11 +13,11 @@ optional arguments:
   -lg ALICE_URL  Check Alice looking glass for top filtered ASNs, and generates a report.
 ```
 
-Example reports:
-- IX.br => 
-- DE-CIX => 
-- AMS-IX => 
-- LINX =>
+### example reports
+- [IX.br](reports/ixbr)
+- [DE-CIX](reports/decix) 
+- [AMS-IX](reports/amsix)
+- [LINX](reports/linx)
 
 ### install
 ```
