@@ -75,7 +75,11 @@ class PGossip:
         if response.status_code == 200:
             neighbour_dict = {}
             data = json.loads(response.text)
-            for neighbour in data["neighbors"]:
+            if "neighbors" in data:
+                neigh = "neighbors"
+            else:
+                neigh = "neighbours"
+            for neighbour in data[neigh]:
                 if neighbour["asn"] in neighbour_dict:
                     neighbour_dict[neighbour["asn"]] = (
                         neighbour_dict[neighbour["asn"]] + neighbour["routes_filtered"]
