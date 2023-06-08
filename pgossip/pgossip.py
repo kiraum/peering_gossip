@@ -1,0 +1,122 @@
+""" Peering Gossip """
+import sys
+import json
+import time
+import requests
+
+
+class PGossip:
+    """
+    Peering Buddy class
+    """
+
+    def alice_hos(self, url):
+        """ generate hall of shame """
+        filtered_routes_sum = {}
+        rs_list = self.alice_rs(url)
+        #rs_list = ["SP-rs2-v4", "SP-rs2-v6", "RJ-rs1-v4"]
+        for route_server in rs_list:
+            print(route_server)
+            filtered_routes = self.alice_neighbours(url, route_server)
+
+            for neighbour, froutes in filtered_routes.items():
+                if neighbour in filtered_routes_sum:
+                    filtered_routes_sum[neighbour] = (
+                        filtered_routes_sum[neighbour] + froutes
+                    )
+                else:
+                    filtered_routes_sum[neighbour] = froutes
+            time.sleep(30)
+
+        filtered_routes_sorted = None
+        filtered_routes_clean = None
+        filtered_routes_sorted = {
+            k: v
+            for k, v in sorted(
+                filtered_routes_sum.items(), key=lambda item: item[1], reverse=True
+            )
+        }
+        filtered_routes_clean = {
+            x: y for x, y in filtered_routes_sorted.items() if y != 0
+        }
+
+        text = []
+        text.append(
+            f"Filtered prefixes @ {url} | ASN | NAME | Contacts | PeeringDB link"
+        )
+        for asn, pfxs in filtered_routes_clean.items():
+            details = self.bv_asn_whois(asn)
+            text.append(
+                f"{pfxs} | {asn} | {details['name']} | {','.join(map(str, details['email_contacts']))} | https://www.peeringdb.com/asn/{asn}"
+            )
+        print("\n".join(map(str, text)))
+        report_link = self.create_report("\n".join(map(str, text)))
+        print("=" * 80)
+        print(f"We created a sharable report link, enjoy => {report_link}")
+
+    def alice_rs(self, url):
+        """get alive lg rs"""
+        url = f"{url}/api/v1/routeservers"
+        with requests.Session() as session:
+            response = session.get(url)
+        if response.status_code == 200:
+            rs_list = []
+            data = json.loads(response.text)
+            for rserver in data["routeservers"]:
+                rs_list.append(rserver["id"])
+        else:
+            print("ERROR | HTTP status != 200 - alice_rs")
+            sys.exit(1)
+        return rs_list
+
+    def alice_neighbours(self, url, route_server):
+        """get alive lg neighbors"""
+        url = f"{url}/api/v1/routeservers/{route_server}/neighbors"
+        with requests.Session() as session:
+            response = session.get(url)
+        if response.status_code == 200:
+            neighbour_dict = {}
+            data = json.loads(response.text)
+            for neighbour in data["neighbors"]:
+                if neighbour["asn"] in neighbour_dict:
+                    neighbour_dict[neighbour["asn"]] = (
+                        neighbour_dict[neighbour["asn"]] + neighbour["routes_filtered"]
+                    )
+                else:
+                    neighbour_dict[neighbour["asn"]] = neighbour["routes_filtered"]
+        else:
+            print("ERROR | HTTP status != 200 - alice_neighbours")
+            sys.exit(1)
+        return neighbour_dict
+
+    def bv_asn_whois(self, asn):
+        """return asn whois information"""
+        url = f"https://api.bgpview.io/asn/{asn}"
+        with requests.Session() as session:
+            response = session.get(url)
+        if response.status_code == 200:
+            data = json.loads(response.text)
+            result = data["data"]
+        else:
+            print("ERROR | HTTP status != 20 - bv_asn_whois")
+            sys.exit(1)
+        return result
+
+    def create_report(self, data):
+        """ create a pastebin like report """
+        url = "https://glot.io/api/snippets"
+        headers = {"Content-Type": "application/json; charset=utf-8"}
+        payload = {
+            "language": "plaintext",
+            "title": "Report",
+            "public": True,
+            "files": [{"name": "report.txt", "content": data}],
+        }
+
+        response = requests.post(url, headers=headers, json=payload, timeout=10)
+        if response.status_code == 200:
+            report_url = f"https://glot.io/snippets/{response.json()['id']}"
+        else:
+            print("ERROR | HTTP status != 200 - create_report")
+            sys.exit(1)
+        return report_url
