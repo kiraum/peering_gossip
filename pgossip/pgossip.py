@@ -28,7 +28,7 @@ class PGossip:
                     )
                 else:
                     filtered_routes_sum[neighbour] = froutes
-            time.sleep(30)
+            time.sleep(300)
 
         filtered_routes_sorted = dict(
             sorted(filtered_routes_sum.items(), key=lambda item: item[1], reverse=True)
@@ -41,7 +41,11 @@ class PGossip:
             f"Filtered prefixes @ {url} | ASN | NAME | Contacts | PeeringDB link"
         )
         for asn, pfxs in filtered_routes_clean.items():
-            details = self.bv_asn_whois(asn)
+            if asn != 64567:
+                details = self.bv_asn_whois(asn)
+            else:
+                details['name'] = "Private ASN"
+                details['email_contacts'] = "noc@mas-ix.net"
             text.append(
                 f"{pfxs} | {asn} | {details['name']} "
                 f"| {','.join(map(str, details['email_contacts']))} "
