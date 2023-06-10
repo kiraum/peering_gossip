@@ -45,7 +45,7 @@ class PGossip:
                 details = self.bv_asn_whois(asn)
             else:
                 details['name'] = "Private ASN"
-                details['email_contacts'] = "noc@mas-ix.net"
+                details['email_contacts'] = [ "noc@mas-ix.net" ]
             text.append(
                 f"{pfxs} | {asn} | {details['name']} "
                 f"| {','.join(map(str, details['email_contacts']))} "
