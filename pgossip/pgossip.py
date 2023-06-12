@@ -21,6 +21,9 @@ class PGossip:
             print(route_server)
             filtered_routes = self.alice_neighbours(url, route_server)
 
+            if filtered_routes is None:
+                continue
+
             for neighbour, froutes in filtered_routes.items():
                 if neighbour in filtered_routes_sum:
                     filtered_routes_sum[neighbour] = (
@@ -91,8 +94,9 @@ class PGossip:
                 else:
                     neighbour_dict[neighbour["asn"]] = neighbour["routes_filtered"]
         else:
-            print("ERROR | HTTP status != 200 - alice_neighbours")
-            sys.exit(1)
+            print(f"ERROR | HTTP status != 200 - alice_neighbours - Error {response.status_code}")
+            if response.status_code == 500:
+                neighbour_dict = None
         return neighbour_dict
 
     def bv_asn_whois(self, asn):
