@@ -1,5 +1,8 @@
 # peering_gossip
 
+![pylint](https://github.com/github/docs/actions/workflows/pylint.yml/badge.svg)
+![daily_reports](https://github.com/github/docs/actions/workflows/cron.yml/badge.svg)
+
 The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
 
 ```
