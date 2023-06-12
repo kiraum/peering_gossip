@@ -2,6 +2,7 @@
 import sys
 import json
 import time
+import yaml
 import requests
 
 
@@ -10,17 +11,18 @@ class PGossip:
     Peering Buddy class
     """
 
+    # pylint: disable=too-many-locals
     def alice_hos(self, url):
         """generate hall of shame"""
         filtered_routes_sorted = None
         filtered_routes_clean = None
         filtered_routes_sum = {}
         text = []
+        fname = url.replace("https://", "")
         rs_list = self.alice_rs(url)
         for route_server in rs_list:
-            print(route_server)
+            print(f"Working on {url} - {route_server}")
             filtered_routes = self.alice_neighbours(url, route_server)
-
             if filtered_routes is None:
                 continue
 
@@ -31,7 +33,7 @@ class PGossip:
                     )
                 else:
                     filtered_routes_sum[neighbour] = froutes
-            time.sleep(300)
+            time.sleep(60)
 
         filtered_routes_sorted = dict(
             sorted(filtered_routes_sum.items(), key=lambda item: item[1], reverse=True)
@@ -47,8 +49,8 @@ class PGossip:
             if asn != 64567:
                 details = self.bv_asn_whois(asn)
             else:
-                details['name'] = "Private ASN"
-                details['email_contacts'] = [ "noc@mas-ix.net" ]
+                details["name"] = "Private ASN"
+                details["email_contacts"] = ["noc@mas-ix.net"]
             text.append(
                 f"{pfxs} | {asn} | {details['name']} "
                 f"| {','.join(map(str, details['email_contacts']))} "
@@ -58,6 +60,9 @@ class PGossip:
         report_link = self.create_report("\n".join(map(str, text)))
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
+        fwrite = f"reports/{fname}"
+        with open(fwrite, "w", encoding="utf8") as tfile:
+            tfile.write("\n".join(map(str, text)))
 
     def alice_rs(self, url):
         """get alive lg rs"""
@@ -94,7 +99,10 @@ class PGossip:
                 else:
                     neighbour_dict[neighbour["asn"]] = neighbour["routes_filtered"]
         else:
-            print(f"ERROR | HTTP status != 200 - alice_neighbours - Error {response.status_code}")
+            print(
+                "ERROR | HTTP status != 200 - alice_neighbours"
+                f" - Error {response.status_code}: {url} - {route_server}"
+            )
             if response.status_code == 500:
                 neighbour_dict = None
         return neighbour_dict
@@ -134,3 +142,9 @@ class PGossip:
             print("ERROR | HTTP status != 200 - create_report")
             sys.exit(1)
         return report_url
+
+    def load_yaml(self):
+        """load yaml config file"""
+        with open("pgossip/config.yaml", "r", encoding="utf8") as file:
+            data = yaml.load(file, Loader=yaml.FullLoader)
+        return data

@@ -21,6 +21,12 @@ def main():
         metavar="ALICE_URL",
         help="Check Alice looking glass for top filtered ASNs, and generates a report.",
     )
+    parser.add_argument(
+        "-a",
+        action="store_true",
+        dest="all",
+        help="Generate report for all ixps from pgossip/config.yaml.",
+    )
 
     args = parser.parse_args()
     options = all(value is True for value in vars(args).values())
@@ -29,6 +35,11 @@ def main():
 
     if args.lg is not None:
         pgossip.alice_hos(args.lg)
+
+    if args.all is not None:
+        ixps = pgossip.load_yaml()
+        for ixp in ixps["ixps"]:
+            pgossip.alice_hos(ixp)
 
     if options is False:
         if len(sys.argv) == 1:
