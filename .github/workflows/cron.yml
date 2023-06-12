@@ -13,8 +13,8 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.8
-      - name: Install dependencies
+          python-version: 3.9
+      - name: install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: execute py script
