@@ -14,10 +14,10 @@ optional arguments:
 ```
 
 ### example reports
-- [IX.br](reports/ixbr)
-- [DE-CIX](reports/decix) 
-- [AMS-IX](reports/amsix)
-- [LINX](reports/linx)
+- [IX.br](reports/ixbr.txt)
+- [DE-CIX](reports/decix.txt) 
+- [AMS-IX](reports/amsix.txt)
+- [LINX](reports/linx.txt)
 
 ### install
 ```
