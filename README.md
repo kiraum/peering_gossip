@@ -3,14 +3,15 @@
 The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
 
 ```
-% ./peering_gossip.py
-usage: peering_gossip.py [-h] [-lg ALICE_URL]
+% ./peering_gossip.py -h
+usage: peering_gossip.py [-h] [-lg ALICE_URL] [-a]
 
 Peering Gossip - Gossiping about bad practices!
 
 optional arguments:
   -h, --help     show this help message and exit
   -lg ALICE_URL  Check Alice looking glass for top filtered ASNs, and generates a report.
+  -a             Generate report for all ixps from pgossip/config.yaml.
 ```
 
 ### example reports

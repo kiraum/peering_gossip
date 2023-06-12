@@ -36,7 +36,7 @@ def main():
     if args.lg is not None:
         pgossip.alice_hos(args.lg)
 
-    if args.all is not None:
+    if args.all is True:
         ixps = pgossip.load_yaml()
         for ixp in ixps["ixps"]:
             pgossip.alice_hos(ixp)
