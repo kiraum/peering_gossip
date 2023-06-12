@@ -94,7 +94,7 @@ class PGossip:
                 else:
                     neighbour_dict[neighbour["asn"]] = neighbour["routes_filtered"]
         else:
-            print(f"ERROR | HTTP status != 200 - alice_neighbours - HTTP_error {response.status_code}")
+            print(f"ERROR | HTTP status != 200 - alice_neighbours - Error {response.status_code}")
             if response.status_code == 500:
                 neighbour_dict = None
         return neighbour_dict
