@@ -40,8 +40,6 @@ def main():
         ixps = pgossip.load_yaml()
         for ixp in ixps["ixps"]:
             pgossip.alice_hos(ixp)
-    
-    print(args)
 
     if options is False:
         if len(sys.argv) == 1:
