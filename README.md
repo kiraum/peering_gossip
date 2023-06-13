@@ -5,6 +5,8 @@
 
 The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
 
+**Reports are being automatically generated and committed daily (or weekly, not clear yet) to this repository.**
+
 ```
 % ./peering_gossip.py -h
 usage: peering_gossip.py [-h] [-lg ALICE_URL] [-a]
@@ -18,10 +20,10 @@ optional arguments:
 ```
 
 ### example reports
-- [IX.br](reports/ixbr.txt)
-- [DE-CIX](reports/decix.txt) 
-- [AMS-IX](reports/amsix.txt)
-- [LINX](reports/linx.txt)
+- [IX.br](reports/lg.ix.br.txt)
+- [DE-CIX](reports/lg.de-cix.net.txt)
+- [AMS-IX](reports/lg.ams-ix.net.txt)
+- [LINX](reports/alice-rs.linx.net.txt)
 
 ### install
 ```

@@ -48,6 +48,7 @@ class PGossip:
         for asn, pfxs in filtered_routes_clean.items():
             if asn != 64567:
                 details = self.bv_asn_whois(asn)
+                time.sleep(0.2)
             else:
                 details["name"] = "Private ASN"
                 details["email_contacts"] = ["noc@mas-ix.net"]
@@ -60,7 +61,7 @@ class PGossip:
         report_link = self.create_report("\n".join(map(str, text)))
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
-        fwrite = f"reports/{fname}"
+        fwrite = f"reports/{fname}.txt"
         with open(fwrite, "w", encoding="utf8") as tfile:
             tfile.write("\n".join(map(str, text)))
 
