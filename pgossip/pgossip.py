@@ -121,7 +121,10 @@ class PGossip:
                 print(f"ASN {asn} has no data at whois!")
                 raise
         else:
-            print("ERROR | HTTP status != 20 - bv_asn_whois")
+            print(
+                "ERROR | HTTP status != 200 - bv_asn_whois"
+                f" - Error {response.status_code}: {asn}"
+            )
             sys.exit(1)
         return result
 
