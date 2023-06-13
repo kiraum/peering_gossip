@@ -1,8 +1,8 @@
-name: Generate daily reports
+name: Generate reports
 
 on:
   schedule:
-    - cron: "0 7 * * *"
+    - cron: "0 18 * * *"
 
 jobs:
   getdataandrefreshmap:
