@@ -2,7 +2,7 @@ name: Generate daily reports
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "10 18 * * *"
 
 jobs:
   getdataandrefreshmap:
