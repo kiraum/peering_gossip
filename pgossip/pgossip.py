@@ -47,8 +47,10 @@ class PGossip:
         )
         for asn, pfxs in filtered_routes_clean.items():
             if asn != 64567:
+                print(asn)
                 details = self.bv_asn_whois(asn)
-                time.sleep(0.2)
+                print(details)
+                time.sleep(0.5)
             else:
                 details["name"] = "Private ASN"
                 details["email_contacts"] = ["noc@mas-ix.net"]
