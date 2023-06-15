@@ -1,7 +1,6 @@
 # peering_gossip
 
 ![pylint](https://github.com/kiraum/peering_gossip/actions/workflows/pylint.yml/badge.svg)
-![daily_reports](https://github.com/kiraum/peering_gossip/actions/workflows/cron.yml/badge.svg)
 ![CodeQL](https://github.com/kiraum/peering_gossip/actions/workflows/github-code-scanning/codeql/badge.svg)
 
 The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
