@@ -1,27 +1,27 @@
-name: Generate daily reports
+#name: Generate daily reports
 
-on:
-  schedule:
-    - cron: "30 18 * * *"
+#on:
+#  schedule:
+#    - cron: "30 18 * * *"
 
-jobs:
-  getdataandrefreshmap:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout repo content
-        uses: actions/checkout@v3
-      - name: setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9
-      - name: install dependencies
-        run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: execute py script
-        run: |
-          python peering_gossip.py -a
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "automatic daily reports"
-          git push
+#jobs:
+#  getdataandrefreshmap:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: checkout repo content
+#        uses: actions/checkout@v3
+#      - name: setup python
+#        uses: actions/setup-python@v4
+#        with:
+#          python-version: 3.9
+#      - name: install dependencies
+#        run: |
+#          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+#      - name: execute py script
+#        run: |
+#          python peering_gossip.py -a
+#          git config user.name github-actions
+#          git config user.email github-actions@github.com
+#          git add .
+#          git commit -m "automatic daily reports"
+#          git push
