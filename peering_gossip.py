@@ -3,14 +3,14 @@
 Peering Gossip - Gossiping about bad practices!
 """
 
-import sys
 import argparse
+import sys
 
 from pgossip.pgossip import PGossip
 
 
 def main():
-    """Peering Gossip main"""
+    """Peering Gossip"""
     parser = argparse.ArgumentParser(
         description="Peering Gossip - Gossiping about bad practices!"
     )

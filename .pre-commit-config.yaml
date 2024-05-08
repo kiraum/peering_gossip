@@ -1,0 +1,37 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: 'v4.5.0'
+  hooks:
+  - id: check-yaml
+  - id: end-of-file-fixer
+  - id: trailing-whitespace
+- repo: local
+  hooks:
+  - id: isort
+    name: isort
+    entry: isort -m3 --tc
+    language: system
+- repo: local
+  hooks:
+  - id: black
+    name: black
+    entry: black
+    language: python
+    types_or: [python, pyi]
+- repo: local
+  hooks:
+  - id: ruff
+    name: ruff
+    entry: ruff check --force-exclude
+    language: python
+    types_or: [python, pyi]
+- repo: local
+  hooks:
+  - id: pylint
+    name: pylint
+    entry: pylint
+    args:
+    - --rcfile=pyproject.toml
+    - -d format
+    language: system
+    types: [python]

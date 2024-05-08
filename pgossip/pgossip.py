@@ -1,19 +1,43 @@
 """ Peering Gossip """
-import sys
+
 import json
+import sys
 import time
-import yaml
+
 import requests
+import yaml
 
 
 class PGossip:
     """
-    Peering Buddy class
+    Peering Buddy main functions for analyzing peering information.
+
+    Provides methods for generating a hall of shame, fetching information about alive route servers
+    and their neighbors, retrieving ASN whois information, creating a report, and loading a YAML config file.
+
+    Attributes:
+        None
+
+    Methods:
+        alice_hos: Generate hall of shame based on provided URL.
+        alice_rs: Get alive looking glass route servers.
+        alice_neighbours: Get alive looking glass neighbors for a specific route server.
+        bv_asn_whois: Return ASN whois information from BGPView API.
+        create_report: Create a pastebin-like report using glot.io API.
+        load_yaml: Load a YAML config file.
     """
 
     # pylint: disable=too-many-locals
     def alice_hos(self, url):
-        """generate hall of shame"""
+        """
+        Generate hall of shame based on provided URL.
+
+        Args:
+            url (str): The URL to fetch data from.
+
+        Returns:
+            None
+        """
         filtered_routes_sorted = None
         filtered_routes_clean = None
         filtered_routes_sum = {}
@@ -68,7 +92,15 @@ class PGossip:
             tfile.write("\n".join(map(str, text)))
 
     def alice_rs(self, url):
-        """get alive lg rs"""
+        """
+        Get alive looking glass route servers.
+
+        Args:
+            url (str): The base URL.
+
+        Returns:
+            list: List of alive route servers.
+        """
         url = f"{url}/api/v1/routeservers"
         with requests.Session() as session:
             response = session.get(url)
@@ -83,7 +115,16 @@ class PGossip:
         return rs_list
 
     def alice_neighbours(self, url, route_server):
-        """get alive lg neighbors"""
+        """
+        Get alive looking glass neighbors for a specific route server.
+
+        Args:
+            url (str): The base URL.
+            route_server (str): The ID of the route server.
+
+        Returns:
+            dict: Dictionary containing neighbor ASNs and their filtered routes.
+        """
         url = f"{url}/api/v1/routeservers/{route_server}/neighbors"
         with requests.Session() as session:
             response = session.get(url)
@@ -111,7 +152,15 @@ class PGossip:
         return neighbour_dict
 
     def bv_asn_whois(self, asn):
-        """return asn whois information"""
+        """
+        Return ASN whois information from BGPView API.
+
+        Args:
+            asn (int): The ASN to retrieve information for.
+
+        Returns:
+            dict: Dictionary containing ASN whois information.
+        """
         url = f"https://api.bgpview.io/asn/{asn}"
         with requests.Session() as session:
             response = session.get(url)
@@ -131,7 +180,15 @@ class PGossip:
         return result
 
     def create_report(self, data):
-        """create a pastebin like report"""
+        """
+        Create a pastebin-like report using glot.io API.
+
+        Args:
+            data (str): The data to include in the report.
+
+        Returns:
+            str: URL of the created report.
+        """
         url = "https://glot.io/api/snippets"
         headers = {"Content-Type": "application/json; charset=utf-8"}
         payload = {
@@ -150,7 +207,12 @@ class PGossip:
         return report_url
 
     def load_yaml(self):
-        """load yaml config file"""
+        """
+        Load a YAML config file.
+
+        Returns:
+            dict: Dictionary containing the YAML config data.
+        """
         with open("pgossip/config.yaml", "r", encoding="utf8") as file:
             data = yaml.load(file, Loader=yaml.FullLoader)
         return data
