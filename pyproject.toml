@@ -1,0 +1,30 @@
+[project]
+name = "peering_gossip"
+description = "The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite."
+version = "0.0.1"
+authors = [{ name = "Tiago Felipe Goncalves", email = "tfgoncalves@xpto.it" }]
+readme = "README.md"
+requires-python = ">=3.12"
+keywords = ["peering", "tool", "shame", "hall"]
+dependencies = [
+    "requests",
+    "black",
+    "isort",
+    "pylint",
+    "ruff",
+    "pytest",
+    "yamllint",
+    "uv",
+]
+
+[project.urls]
+documentation = "https://github.com/kiraum/peering_buddy/blob/main/README.md"
+repository = "https://github.com/kiraum/peering_buddy/"
+
+[tool.pylint.messages_control]
+disable = [
+    "format",
+]
+
+[tool.isort]
+profile = "black"

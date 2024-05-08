@@ -43,15 +43,15 @@ pip install -r requirements.txt
 ```
 i% ./peering_gossip.py -lg https://alice-rs.linx.net
 rs1-in2-lon1-linx-net-v4
-rs1-in2-lon1-linx-net-v6                                                                                                      
+rs1-in2-lon1-linx-net-v6
 rs3-tch-lon1-linx-net-v4
 rs3-tch-lon1-linx-net-v6
 rs2-in2-lon2-linx-net-v4
 rs2-in2-lon2-linx-net-v6
 rs1-tcw-man1-linx-net-v4
 rs1-tcw-man1-linx-net-v6
-rs1-pue-sco1-linx-net-v4                                                                                                      
-rs1-pue-sco1-linx-net-v6                                                                                                      
+rs1-pue-sco1-linx-net-v4
+rs1-pue-sco1-linx-net-v6
 rs1-ngd-car1-linx-net-v4
 rs1-ngd-car1-linx-net-v6
 rs1-imm-nva1-linx-net-v4
@@ -68,7 +68,7 @@ rs2-tcj-man1-linx-net-v4
 rs2-tcj-man1-linx-net-v6
 Filtered prefixes @ https://alice-rs.linx.net | ASN | NAME | Contacts | PeeringDB link
 3066 | 3216 | SOVAM-AS | abuse-b2b@beeline.ru,peering@beeline.ru,wholesale@beeline.ru,noc@sovintel.ru,noc@beeline.ru | https://www.peeringdb.com/asn/3216
-1182 | 39386 | STC-IGW-AS | registry@stc.com.sa,araiyes@stc.com.sa,registry@saudi.net.sa | https://www.peeringdb.com/asn/39386 
+1182 | 39386 | STC-IGW-AS | registry@stc.com.sa,araiyes@stc.com.sa,registry@saudi.net.sa | https://www.peeringdb.com/asn/39386
 783 | 7713 | telkomnet-as-ap | abuse@telkom.co.id,peering@telin.net,yogo@telkom.co.id,torkis@telin.net | https://www.peeringdb.com/asn/7713
 546 | 57463 | NetIX | abuse@netix.net,nmt@netix.net | https://www.peeringdb.com/asn/57463
 ...
