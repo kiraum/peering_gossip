@@ -70,10 +70,9 @@ class PGossip:
             f"Filtered prefixes @ {url} | ASN | NAME | Contacts | PeeringDB link"
         )
         for asn, pfxs in filtered_routes_clean.items():
+            # AMS-IX using private ASN :(
             if asn != 64567:
-                print(asn)
                 details = self.bv_asn_whois(asn)
-                print(details)
                 time.sleep(0.5)
             else:
                 details["name"] = "Private ASN"

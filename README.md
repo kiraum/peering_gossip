@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### example usage
 ```
-i% ./peering_gossip.py -lg https://alice-rs.linx.net
+% ./peering_gossip.py -lg https://alice-rs.linx.net
 rs1-in2-lon1-linx-net-v4
 rs1-in2-lon1-linx-net-v6
 rs3-tch-lon1-linx-net-v4
