@@ -1,6 +1,7 @@
 """ Peering Gossip """
 
 import json
+import os
 import sys
 import time
 
@@ -87,6 +88,7 @@ class PGossip:
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
         fwrite = f"reports/{fname}.txt"
+        os.makedirs(os.path.dirname(fwrite), exist_ok=True)
         with open(fwrite, "w", encoding="utf8") as tfile:
             tfile.write("\n".join(map(str, text)))
 
@@ -161,6 +163,7 @@ class PGossip:
             dict: Dictionary containing ASN whois information.
         """
         url = f"https://api.bgpview.io/asn/{asn}"
+        result = None
         with requests.Session() as session:
             response = session.get(url)
         if response.status_code == 200:
@@ -189,6 +192,7 @@ class PGossip:
             str: URL of the created report.
         """
         url = "https://glot.io/api/snippets"
+        report_url = None
         headers = {"Content-Type": "application/json; charset=utf-8"}
         payload = {
             "language": "plaintext",
