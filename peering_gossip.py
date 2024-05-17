@@ -34,12 +34,12 @@ def main():
     pgossip = PGossip()
 
     if args.lg is not None:
-        pgossip.alice_hos(args.lg)
+        pgossip.alice_host(args.lg)
 
     if args.all is True:
         ixps = pgossip.load_yaml()
         for ixp in ixps["ixps"]:
-            pgossip.alice_hos(ixp)
+            pgossip.alice_host(ixp)
 
     if options is False:
         if len(sys.argv) == 1:
