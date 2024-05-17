@@ -9,6 +9,7 @@ keywords = ["peering", "tool", "shame", "hall"]
 dependencies = [
     "requests",
     "backoff",
+    "aiohttp",
     "black",
     "isort",
     "pylint",
