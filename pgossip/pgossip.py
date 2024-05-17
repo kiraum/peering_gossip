@@ -5,28 +5,61 @@ import os
 import sys
 import time
 
+import backoff
 import requests
 import yaml
 
 
-class PGossip:
+class RetryMeta(type):
     """
-    Peering Buddy main functions for analyzing peering information.
+    A metaclass that applies retry logic to all callable methods of a class using backoff.
 
-    Provides methods for generating a hall of shame, fetching information about alive route servers
-    and their neighbors, retrieving ASN whois information, creating a report, and loading a YAML config file.
+    This metaclass enhances methods to retry up to 5 times upon `requests.exceptions.RequestException`,
+    using an exponential backoff strategy. It automatically decorates all methods that are not special
+    methods (not starting with '__').
 
     Attributes:
-        None
+        name (str): The name of the class.
+        bases (tuple): The base classes of the class.
+        dct (dict): The dictionary containing the class's attributes.
+
+    Returns:
+        type: The new class with modified methods.
+    """
+
+    def __new__(mcs, name, bases, dct):
+        for key, value in dct.items():
+            if callable(value) and not key.startswith("__"):
+                dct[key] = backoff.on_exception(
+                    backoff.expo, requests.exceptions.RequestException, max_tries=5
+                )(value)
+        return type.__new__(mcs, name, bases, dct)
+
+
+class PGossip(metaclass=RetryMeta):
+    """
+    A class to handle peering and routing information gathering and reporting.
+
+    This class provides methods to fetch and analyze routing data from specified URLs,
+    generate reports based on the gathered data, and manage interactions with external APIs
+    for data retrieval and report generation.
 
     Methods:
-        alice_host: Generate hall of shame based on provided URL.
-        alice_rs: Get alive looking glass route servers.
-        alice_neighbours: Get alive looking glass neighbors for a specific route server.
-        bv_asn_whois: Return ASN whois information from BGPView API.
-        create_report: Create a pastebin-like report using glot.io API.
-        load_yaml: Load a YAML config file.
+        alice_host(url): Main method to process routing data for a given URL.
+        parse_text_to_json(data_text): Converts text data into JSON format.
+        write_report_to_file(fname, data, as_json): Writes data to a file in text or JSON format.
+        alice_rs(url): Fetches alive route servers from a given URL.
+        alice_neighbours(url, route_server): Fetches routing neighbors for a specific route server.
+        bv_asn_whois(asn): Retrieves ASN WHOIS information from the BGPView API.
+        create_report(data): Creates a pastebin-like report.
+        load_yaml(): Loads a YAML configuration file.
+
+    Attributes:
+        None explicitly defined; configuration and state are managed internally within methods.
     """
+
+    def __init__(self):
+        pass
 
     # pylint: disable=too-many-locals
     def alice_host(self, url):
@@ -87,10 +120,56 @@ class PGossip:
         report_link = self.create_report("\n".join(map(str, text)))
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
-        fwrite = f"reports/{fname}.txt"
+        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
+        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
+
+    def parse_text_to_json(self, data_text):
+        """
+        Convert a list of delimited text data into a list of dictionaries.
+
+        Args:
+            data_text (str): A string containing multiple lines of data, each line is a delimited record.
+
+        Returns:
+            list: A list of dictionaries with parsed data.
+        """
+        lines = data_text.strip().split("\n")
+        headers = [header.strip() for header in lines[0].split("|")]
+        json_data = []
+
+        for line in lines[1:]:
+            values = [value.strip() for value in line.split("|")]
+            entry = dict(zip(headers, values))
+            json_data.append(entry)
+        return json_data
+
+    def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
+        """
+        Write data to a file, creating the necessary directories if they do not exist.
+        The data can be written as plain text or as JSON.
+
+        Args:
+            fname (str): The filename (without extension) where the data will be saved.
+            data (list): A list of data entries, each entry can be a string or a dictionary.
+            as_json (bool): If True, writes the data in JSON format. Otherwise, writes as plain text.
+
+        Example:
+            write_report_to_file("2023-01-01_report", data, as_json=True)
+        """
+        # Construct the full file path with directory and filename
+        extension = "json" if as_json else "txt"
+        fwrite = f"reports/{fname}.{extension}"
+
+        # Ensure the directory exists; if not, create it
         os.makedirs(os.path.dirname(fwrite), exist_ok=True)
+
+        # Open the file and write the data to it
         with open(fwrite, "w", encoding="utf8") as tfile:
-            tfile.write("\n".join(map(str, text)))
+            if as_json:
+                data = self.parse_text_to_json(data)
+                json.dump(data, tfile, indent=4)
+            else:
+                tfile.write(data)
 
     def alice_rs(self, url):
         """
