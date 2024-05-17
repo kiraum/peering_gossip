@@ -164,6 +164,7 @@ class PGossip(metaclass=RetryMeta):
             asn_name = await self.ripe_asn_name(asn)
             await asyncio.sleep(0.5)  # Non-blocking sleep
         else:
+            asn_name = "AMS-IX"
             details = {
                 "asnName": "Private ASN",
                 "rank": "NA",
