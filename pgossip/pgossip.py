@@ -20,7 +20,7 @@ class PGossip:
         None
 
     Methods:
-        alice_hos: Generate hall of shame based on provided URL.
+        alice_host: Generate hall of shame based on provided URL.
         alice_rs: Get alive looking glass route servers.
         alice_neighbours: Get alive looking glass neighbors for a specific route server.
         bv_asn_whois: Return ASN whois information from BGPView API.
@@ -29,7 +29,7 @@ class PGossip:
     """
 
     # pylint: disable=too-many-locals
-    def alice_hos(self, url):
+    def alice_host(self, url):
         """
         Generate hall of shame based on provided URL.
 
