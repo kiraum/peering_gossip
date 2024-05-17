@@ -9,7 +9,7 @@ The idea is to have a gossip tool generating a Hall of Shame for Autonomous Syst
 **Reports are being automatically generated and committed daily to this repository.**
 
 ```
-% ./peering_gossip.py -h
+% python3 peering_gossip.py -h
 usage: peering_gossip.py [-h] [-lg ALICE_URL] [-a]
 
 Peering Gossip - Gossiping about bad practices!
@@ -32,11 +32,11 @@ optional arguments:
 
 ### install
 ```
-git clone git@github.com:kiraum/peering_gossip.git
-python3 -m venv venv
-. venv/bin/activate
-pip install --no-cache-dir -U pip uv
-uv pip install -r requirements.txt
+% git clone git@github.com:kiraum/peering_gossip.git
+% python3 -m venv venv
+% . venv/bin/activate
+% pip install --no-cache-dir -U pip uv
+% uv pip install -r requirements.txt
 ```
 
 ### use it
