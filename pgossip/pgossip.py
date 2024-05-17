@@ -161,6 +161,7 @@ class PGossip(metaclass=RetryMeta):
         """
         if asn != 64567:  # AMS-IX using private ASN
             details = await self.caida_asn_whois(asn)
+            asn_name = await self.ripe_asn_name(asn)
             await asyncio.sleep(0.5)  # Non-blocking sleep
         else:
             details = {
@@ -170,19 +171,18 @@ class PGossip(metaclass=RetryMeta):
                 "country": {"iso": "NL"},
             }
 
-        if details:
-            if not details.get("asnName"):
-                details["asnName"] = "NA"
-        else:
+        if not asn_name:
+            asn_name = "NA"
+
+        if not details:
             details = {
-                "asnName": "NA",
                 "rank": "NA",
                 "source": "NA",
                 "country": {"iso": "NA"},
             }
 
         return (
-            f"{pfxs} | {asn} | {details['asnName']} | {details['rank']} | {details['source']} | {details['country']['iso']} "
+            f"{pfxs} | {asn} | {asn_name} | {details['rank']} | {details['source']} | {details['country']['iso']} "
             f"| https://www.peeringdb.com/asn/{asn}"
         )
 
@@ -270,7 +270,7 @@ class PGossip(metaclass=RetryMeta):
             response = session.get(url)
         if response.status_code == 200:
             neighbour_dict = {}
-            data = json.loads(response.text)
+            data = response.json()
             if "neighbors" in data:
                 neigh = "neighbors"
             else:
@@ -306,7 +306,7 @@ class PGossip(metaclass=RetryMeta):
         with requests.Session() as session:
             response = session.get(url)
         if response.status_code == 200:
-            data = json.loads(response.text)
+            data = response.json()
             try:
                 result = data["data"]
             except KeyError:
@@ -339,7 +339,7 @@ class PGossip(metaclass=RetryMeta):
         with requests.Session() as session:
             response = session.get(url)
         if response.status_code == 200:
-            data = json.loads(response.text)
+            data = response.json()
             try:
                 result = data["data"]["asn"]
             except KeyError:
@@ -348,7 +348,39 @@ class PGossip(metaclass=RetryMeta):
         else:
             print(
                 "ERROR | HTTP status != 200 - caida_asn_whois"
-                f" - Error {response.status_code}: {asn} => {response.reason}"
+                f" - Error {response.status_code}: {asn}"
+            )
+            sys.exit(1)
+        return result
+
+    async def ripe_asn_name(self, asn):
+        """
+        Fetches the holder name of the specified ASN from RIPE's API.
+
+        Args:
+            asn (str): The ASN number as a string.
+
+        Returns:
+            str or None: The holder name of the ASN if available, otherwise None.
+
+        Raises:
+            KeyError: If the ASN data is missing in the API response.
+            SystemExit: If the API response status is not 200.
+        """
+        url = f"https://stat.ripe.net/data/as-overview/data.json?resource={asn}"
+        result = None
+        with requests.Session() as session:
+            response = session.get(url)
+        if response.status_code == 200:
+            try:
+                result = response.json()["data"]["holder"]
+            except KeyError:
+                print(f"ASN {asn} has no data at whois!")
+                raise
+        else:
+            print(
+                "ERROR | HTTP status != 200 - ripe_asn_name"
+                f" - Error {response.status_code}: {asn}"
             )
             sys.exit(1)
         return result
