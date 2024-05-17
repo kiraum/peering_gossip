@@ -2,6 +2,7 @@
 
 ![pylint](https://github.com/kiraum/peering_gossip/actions/workflows/pylint.yml/badge.svg)
 ![CodeQL](https://github.com/kiraum/peering_gossip/actions/workflows/github-code-scanning/codeql/badge.svg)
+[![Generate IXPs reports](https://github.com/kiraum/peering_gossip/actions/workflows/generate_reports.yml/badge.svg)](https://github.com/kiraum/peering_gossip/actions/workflows/generate_reports.yml)
 
 The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
 
