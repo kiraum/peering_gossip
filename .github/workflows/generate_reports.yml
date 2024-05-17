@@ -1,0 +1,81 @@
+---
+name: Generate IXPs reports
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches:
+      - kiraum/generate_reports
+permissions:
+  contents: write
+jobs:
+  report_ixbr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://lg.ix.br
+      - name: Commit report
+        run: |
+          apt-get update
+          apt-get install -y git python3-pip
+          pip install --no-cache-dir -U pip
+          uv pip install -r requirements.txt
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git pull --rebase
+          git commit -am "Automated report generation - IX.br"
+          git push
+  report_amsix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://lg.ams-ix.net
+      - name: Commit report
+        run: |
+          apt-get update
+          apt-get install -y git python3-pip
+          pip install --no-cache-dir -U pip
+          uv pip install -r requirements.txt
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git pull --rebase
+          git commit -am "Automated report generation - AMS-IX"
+          git push
+  report_decix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://lg.de-cix.net
+      - name: Commit report
+        run: |
+          apt-get update
+          apt-get install -y git python3-pip
+          pip install --no-cache-dir -U pip
+          uv pip install -r requirements.txt
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git pull --rebase
+          git commit -am "Automated report generation - DE-CIX"
+          git push
+  report_linx:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://alice-rs.linx.net
+      - name: Commit report
+        run: |
+          apt-get update
+          apt-get install -y git python3-pip
+          pip install --no-cache-dir -U pip
+          uv pip install -r requirements.txt
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git pull --rebase
+          git commit -am "Automated report generation - LINX"
+          git push
