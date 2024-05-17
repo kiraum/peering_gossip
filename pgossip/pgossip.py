@@ -1,10 +1,11 @@
 """ Peering Gossip """
 
+import asyncio
 import json
 import os
 import sys
-import time
 
+import aiohttp
 import backoff
 import requests
 import yaml
@@ -61,37 +62,36 @@ class PGossip(metaclass=RetryMeta):
     def __init__(self):
         pass
 
-    # pylint: disable=too-many-locals
-    def alice_host(self, url):
+    async def alice_host(self, url):
         """
-        Generate hall of shame based on provided URL.
+        Asynchronously generates a report based on route server data from a specified URL.
+
+        This method orchestrates the fetching of route server data, processes each server concurrently,
+        sorts and filters the results, and finally compiles a detailed report which includes ASN details.
 
         Args:
-            url (str): The URL to fetch data from.
+            url (str): The base URL from which to fetch route server data.
 
-        Returns:
-            None
+        Processes:
+            1. Fetches a list of route servers.
+            2. Concurrently processes each route server to accumulate route data.
+            3. Sorts and filters the accumulated data.
+            4. Concurrently fetches detailed ASN information.
+            5. Compiles and prints a detailed report, and saves it both as text and JSON.
+
+        Outputs:
+            Prints the compiled report and creates a shareable report link.
+            Saves the report to a file in both plain text and JSON format.
         """
-        filtered_routes_sorted = None
-        filtered_routes_clean = None
         filtered_routes_sum = {}
         text = []
         fname = url.replace("https://", "")
-        rs_list = self.alice_rs(url)
-        for route_server in rs_list:
-            print(f"Working on {url} - {route_server}")
-            filtered_routes = self.alice_neighbours(url, route_server)
-            if filtered_routes is None:
-                continue
+        rs_list = await self.alice_rs(url)
 
-            for neighbour, froutes in filtered_routes.items():
-                if neighbour in filtered_routes_sum:
-                    filtered_routes_sum[neighbour] = (
-                        filtered_routes_sum[neighbour] + froutes
-                    )
-                else:
-                    filtered_routes_sum[neighbour] = froutes
-            time.sleep(60)
+        tasks = [
+            self.process_route_server(url, rs, filtered_routes_sum) for rs in rs_list
+        ]
+        await asyncio.gather(*tasks)
 
         filtered_routes_sorted = dict(
             sorted(filtered_routes_sum.items(), key=lambda item: item[1], reverse=True)
@@ -103,30 +103,80 @@ class PGossip(metaclass=RetryMeta):
         text.append(
             f"Filtered prefixes @ {url} | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link"
         )
-        for asn, pfxs in filtered_routes_clean.items():
-            # AMS-IX using private ASN :(
-            if asn != 64567:
-                # details = self.bv_asn_whois(asn)
-                details = self.caida_asn_whois(asn)
-                time.sleep(0.5)
-            else:
-                details["asnName"] = "Private ASN"
-                details["rank"] = "NA"
-                details["source"] = "NA"
-                details["country"]["iso"] = "NL"
 
-            if not details["asnName"]:
-                details["asnName"] = "NA"
-            text.append(
-                f"{pfxs} | {asn} | {details['asnName']} | {details['rank']} | {details['source']} | {details['country']['iso']} "
-                f"| https://www.peeringdb.com/asn/{asn}"
-            )
+        asn_details_tasks = [
+            self.get_asn_details(asn, pfxs)
+            for asn, pfxs in filtered_routes_clean.items()
+        ]
+        asn_details = await asyncio.gather(*asn_details_tasks)
+
+        for detail in asn_details:
+            text.append(detail)
+
         print("\n".join(map(str, text)))
-        report_link = self.create_report("\n".join(map(str, text)))
+        report_link = await self.create_report("\n".join(map(str, text)))
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
-        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
-        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
+        await self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
+        await self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
+
+    async def process_route_server(self, url, route_server, filtered_routes_sum):
+        """
+        Processes a route server asynchronously and updates the route summaries.
+
+        Args:
+            url (str): Base URL for route server data.
+            route_server (str): Identifier for the route server.
+            filtered_routes_sum (dict): Dictionary to accumulate route data.
+
+        This method fetches route data, updates the summary dictionary, and includes a delay to manage API calls.
+        """
+        print(f"Working on {url} - {route_server}")
+        filtered_routes = await self.alice_neighbours(url, route_server)
+        if filtered_routes is None:
+            return
+
+        for neighbour, froutes in filtered_routes.items():
+            if neighbour in filtered_routes_sum:
+                filtered_routes_sum[neighbour] += froutes
+            else:
+                filtered_routes_sum[neighbour] = froutes
+        await asyncio.sleep(60)  # Non-blocking sleep
+
+    async def get_asn_details(self, asn, pfxs):
+        """
+        Asynchronously retrieves and formats ASN details for display.
+
+        This method handles special cases for private ASNs and includes a delay to manage API rate limits.
+
+        Args:
+            asn (int): The Autonomous System Number to query.
+            pfxs (int): The number of prefixes associated with the ASN.
+
+        Returns:
+            str: A formatted string with ASN details and a PeeringDB link.
+
+        Note:
+            Assumes `caida_asn_whois` fetches ASN details and `asyncio.sleep` is used to avoid rate limits.
+        """
+        if asn != 64567:  # AMS-IX using private ASN
+            details = await self.caida_asn_whois(asn)
+            await asyncio.sleep(0.5)  # Non-blocking sleep
+        else:
+            details = {
+                "asnName": "Private ASN",
+                "rank": "NA",
+                "source": "NA",
+                "country": {"iso": "NL"},
+            }
+
+        if not details.get("asnName"):
+            details["asnName"] = "NA"
+
+        return (
+            f"{pfxs} | {asn} | {details['asnName']} | {details['rank']} | {details['source']} | {details['country']['iso']} "
+            f"| https://www.peeringdb.com/asn/{asn}"
+        )
 
     def parse_text_to_json(self, data_text):
         """
@@ -148,7 +198,7 @@ class PGossip(metaclass=RetryMeta):
             json_data.append(entry)
         return json_data
 
-    def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
+    async def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
         """
         Write data to a file, creating the necessary directories if they do not exist.
         The data can be written as plain text or as JSON.
@@ -161,14 +211,11 @@ class PGossip(metaclass=RetryMeta):
         Example:
             write_report_to_file("2023-01-01_report", data, as_json=True)
         """
-        # Construct the full file path with directory and filename
         extension = "json" if as_json else "txt"
         fwrite = f"reports/{fname}.{extension}"
 
-        # Ensure the directory exists; if not, create it
         os.makedirs(os.path.dirname(fwrite), exist_ok=True)
 
-        # Open the file and write the data to it
         with open(fwrite, "w", encoding="utf8") as tfile:
             if as_json:
                 data = self.parse_text_to_json(data)
@@ -176,7 +223,7 @@ class PGossip(metaclass=RetryMeta):
             else:
                 tfile.write(data)
 
-    def alice_rs(self, url):
+    async def alice_rs(self, url):
         """
         Get alive looking glass route servers.
 
@@ -187,19 +234,21 @@ class PGossip(metaclass=RetryMeta):
             list: List of alive route servers.
         """
         url = f"{url}/api/v1/routeservers"
-        with requests.Session() as session:
-            response = session.get(url)
-        if response.status_code == 200:
-            rs_list = []
-            data = json.loads(response.text)
-            for rserver in data["routeservers"]:
-                rs_list.append(rserver["id"])
-        else:
-            print("ERROR | HTTP status != 200 - alice_rs")
-            sys.exit(1)
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as response:
+                if response.status == 200:
+                    rs_list = []
+                    data = await response.json()
+                    for rserver in data["routeservers"]:
+                        rs_list.append(rserver["id"])
+                    print(rs_list)
+                    rs_list = ["VIX-rs2-v4", "VIX-rs2-v6"]
+                else:
+                    print("ERROR | HTTP status != 200 - alice_rs")
+                    sys.exit(1)
         return rs_list
 
-    def alice_neighbours(self, url, route_server):
+    async def alice_neighbours(self, url, route_server):
         """
         Get alive looking glass neighbors for a specific route server.
 
@@ -265,7 +314,7 @@ class PGossip(metaclass=RetryMeta):
             sys.exit(1)
         return result
 
-    def caida_asn_whois(self, asn):
+    async def caida_asn_whois(self, asn):
         """
         Fetches WHOIS information for a specified ASN from the CAIDA AS Rank API.
 
@@ -298,7 +347,7 @@ class PGossip(metaclass=RetryMeta):
             sys.exit(1)
         return result
 
-    def create_report(self, data):
+    async def create_report(self, data):
         """
         Create a pastebin-like report using glot.io API.
 
