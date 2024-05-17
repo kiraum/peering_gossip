@@ -3,8 +3,8 @@
 Peering Gossip - Gossiping about bad practices!
 """
 
-import asyncio
 import argparse
+import asyncio
 import sys
 
 from pgossip.pgossip import PGossip
