@@ -241,8 +241,6 @@ class PGossip(metaclass=RetryMeta):
                     data = await response.json()
                     for rserver in data["routeservers"]:
                         rs_list.append(rserver["id"])
-                    print(rs_list)
-                    rs_list = ["VIX-rs2-v4", "VIX-rs2-v6"]
                 else:
                     print("ERROR | HTTP status != 200 - alice_rs")
                     sys.exit(1)
