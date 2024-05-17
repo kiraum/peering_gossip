@@ -424,3 +424,13 @@ class PGossip(metaclass=RetryMeta):
         with open("pgossip/config.yaml", "r", encoding="utf8") as file:
             data = yaml.load(file, Loader=yaml.FullLoader)
         return data
+
+    async def process_all_ixps_concurrently(self, ixps):
+        """
+        Asynchronously processes each IXP in the provided list concurrently by calling the alice_host method.
+
+        Args:
+            ixps (dict): A dictionary containing a list of IXPs under the key "ixps".
+        """
+        tasks = [self.alice_host(ixp) for ixp in ixps["ixps"]]
+        await asyncio.gather(*tasks)

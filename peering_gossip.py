@@ -39,8 +39,7 @@ async def main():
 
     if args.all is True:
         ixps = pgossip.load_yaml()
-        for ixp in ixps["ixps"]:
-            await pgossip.alice_host(ixp)
+        await pgossip.process_all_ixps_concurrently(ixps)
 
     if options is False:
         if len(sys.argv) == 1:
