@@ -1,11 +1,8 @@
 ---
 name: Generate IXPs reports
 on:  # yamllint disable-line rule:truthy
-  # schedule:
-  #   - cron: "0 5 * * 0"
-  push:
-    branches:
-      - main
+  schedule:
+     - cron: "0 14 * * *"
 permissions:
   contents: write
 jobs:

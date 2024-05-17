@@ -3,13 +3,14 @@
 Peering Gossip - Gossiping about bad practices!
 """
 
+import asyncio
 import argparse
 import sys
 
 from pgossip.pgossip import PGossip
 
 
-def main():
+async def main():
     """Peering Gossip"""
     parser = argparse.ArgumentParser(
         description="Peering Gossip - Gossiping about bad practices!"
@@ -34,12 +35,12 @@ def main():
     pgossip = PGossip()
 
     if args.lg is not None:
-        pgossip.alice_host(args.lg)
+        await pgossip.alice_host(args.lg)
 
     if args.all is True:
         ixps = pgossip.load_yaml()
         for ixp in ixps["ixps"]:
-            pgossip.alice_host(ixp)
+            await pgossip.alice_host(ixp)
 
     if options is False:
         if len(sys.argv) == 1:
@@ -49,6 +50,6 @@ def main():
 
 if __name__ == "__main__":
     try:
-        main()
+        asyncio.run(main())
     except KeyboardInterrupt:
         print("Interrupted")
