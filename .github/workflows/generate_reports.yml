@@ -2,7 +2,7 @@
 name: Generate IXPs reports
 on:  # yamllint disable-line rule:truthy
   schedule:
-     - cron: "50 13 * * *"
+     - cron: "25 14 * * *"
 permissions:
   contents: write
 jobs:
@@ -23,6 +23,8 @@ jobs:
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
         run: python3 peering_gossip.py -lg https://lg.ix.br
       - name: Commit report
@@ -50,6 +52,8 @@ jobs:
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
         run: python3 peering_gossip.py -lg https://lg.ams-ix.net
       - name: Commit report
@@ -77,6 +81,8 @@ jobs:
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
         run: python3 peering_gossip.py -lg https://lg.de-cix.net
       - name: Commit report
@@ -104,6 +110,8 @@ jobs:
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
         run: python3 peering_gossip.py -lg https://alice-rs.linx.net
       - name: Commit report
