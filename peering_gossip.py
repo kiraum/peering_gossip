@@ -34,14 +34,14 @@ async def main():
 
     pgossip = PGossip()
 
-    if args.lg is not None:
+    if args.lg:
         await pgossip.alice_host(args.lg)
 
-    if args.all is True:
+    if args.all:
         ixps = pgossip.load_yaml()
         await pgossip.process_all_ixps_concurrently(ixps)
 
-    if options is False:
+    if not options:
         if len(sys.argv) == 1:
             parser.print_help(sys.stderr)
             sys.exit(0)
