@@ -101,19 +101,24 @@ class PGossip(metaclass=RetryMeta):
         }
 
         text.append(
-            f"Filtered prefixes @ {url} | ASN | NAME | Contacts | PeeringDB link"
+            f"Filtered prefixes @ {url} | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link"
         )
         for asn, pfxs in filtered_routes_clean.items():
             # AMS-IX using private ASN :(
             if asn != 64567:
-                details = self.bv_asn_whois(asn)
+                # details = self.bv_asn_whois(asn)
+                details = self.caida_asn_whois(asn)
                 time.sleep(0.5)
             else:
-                details["name"] = "Private ASN"
-                details["email_contacts"] = ["noc@mas-ix.net"]
+                details["asnName"] = "Private ASN"
+                details["rank"] = "NA"
+                details["source"] = "NA"
+                details["country"]["iso"] = "NL"
+
+            if not details["asnName"]:
+                details["asnName"] = "NA"
             text.append(
-                f"{pfxs} | {asn} | {details['name']} "
-                f"| {','.join(map(str, details['email_contacts']))} "
+                f"{pfxs} | {asn} | {details['asnName']} | {details['rank']} | {details['source']} | {details['country']['iso']} "
                 f"| https://www.peeringdb.com/asn/{asn}"
             )
         print("\n".join(map(str, text)))
@@ -255,7 +260,40 @@ class PGossip(metaclass=RetryMeta):
         else:
             print(
                 "ERROR | HTTP status != 200 - bv_asn_whois"
-                f" - Error {response.status_code}: {asn}"
+                f" - Error {response.status_code}: {asn} => {response.reason}"
+            )
+            sys.exit(1)
+        return result
+
+    def caida_asn_whois(self, asn):
+        """
+        Fetches WHOIS information for a specified ASN from the CAIDA AS Rank API.
+
+        Args:
+            asn (int): The Autonomous System Number to query.
+
+        Returns:
+            dict: WHOIS information if the request is successful, None otherwise.
+
+        Raises:
+            KeyError: If expected data keys are missing in the response.
+            SystemExit: If the API response is not successful (non-200 status code).
+        """
+        url = f"https://api.asrank.caida.org/v2/restful/asns/{asn}"
+        result = None
+        with requests.Session() as session:
+            response = session.get(url)
+        if response.status_code == 200:
+            data = json.loads(response.text)
+            try:
+                result = data["data"]["asn"]
+            except KeyError:
+                print(f"ASN {asn} has no data at whois!")
+                raise
+        else:
+            print(
+                "ERROR | HTTP status != 200 - caida_asn_whois"
+                f" - Error {response.status_code}: {asn} => {response.reason}"
             )
             sys.exit(1)
         return result

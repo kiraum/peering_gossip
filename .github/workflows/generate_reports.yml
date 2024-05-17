@@ -1,0 +1,116 @@
+---
+name: Generate IXPs reports
+on:  # yamllint disable-line rule:truthy
+  schedule:
+    - cron: "0 5 * * 0"
+permissions:
+  contents: write
+jobs:
+  report_ixbr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip install --no-cache-dir -U pip uv
+          uv pip install --system --break-system-packages -r requirements.txt
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://lg.ix.br
+      - name: Commit report
+        run: |
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git add reports/
+          git commit -am "Automated report generation - IX.br"
+          git pull --rebase
+          git push -f
+  report_amsix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip install --no-cache-dir -U pip uv
+          uv pip install --system --break-system-packages -r requirements.txt
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://lg.ams-ix.net
+      - name: Commit report
+        run: |
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git add reports/
+          git commit -am "Automated report generation - AMS-IX"
+          git pull --rebase
+          git push -f
+  report_decix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip install --no-cache-dir -U pip uv
+          uv pip install --system --break-system-packages -r requirements.txt
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://lg.de-cix.net
+      - name: Commit report
+        run: |
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git add reports/
+          git commit -am "Automated report generation - DE-CIX"
+          git pull --rebase
+          git push -f
+  report_linx:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip install --no-cache-dir -U pip uv
+          uv pip install --system --break-system-packages -r requirements.txt
+      - uses: actions/checkout@v3
+      - name: Generate reports
+        run: python3 peering_gossip.py -lg https://alice-rs.linx.net
+      - name: Commit report
+        run: |
+          git config --global user.name 'kiraum'
+          git config --global user.email 'kiraum@xpto.it'
+          git add reports/
+          git commit -am "Automated report generation - LINX"
+          git pull --rebase
+          git push -f
