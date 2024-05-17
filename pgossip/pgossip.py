@@ -170,8 +170,16 @@ class PGossip(metaclass=RetryMeta):
                 "country": {"iso": "NL"},
             }
 
-        if not details.get("asnName"):
-            details["asnName"] = "NA"
+        if details:
+            if not details.get("asnName"):
+                details["asnName"] = "NA"
+        else:
+            details = {
+                "asnName": "NA",
+                "rank": "NA",
+                "source": "NA",
+                "country": {"iso": "NA"},
+            }
 
         return (
             f"{pfxs} | {asn} | {details['asnName']} | {details['rank']} | {details['source']} | {details['country']['iso']} "
