@@ -6,7 +6,7 @@
 
 The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
 
-**Reports are being automatically generated and committed daily (or weekly, not clear yet) to this repository.**
+**Reports are being automatically generated and committed daily to this repository.**
 
 ```
 % ./peering_gossip.py -h
@@ -20,69 +20,79 @@ optional arguments:
   -a             Generate report for all ixps from pgossip/config.yaml.
 ```
 
-### example reports
+### daily reports
 - [IX.br](reports/lg.ix.br.txt)
+- [IX.br json](reports/lg.ix.br.json)
 - [DE-CIX](reports/lg.de-cix.net.txt)
+- [DE-CIX json](reports/lg.de-cix.net.json)
 - [AMS-IX](reports/lg.ams-ix.net.txt)
+- [AMS-IX json](reports/lg.ams-ix.net.json)
 - [LINX](reports/alice-rs.linx.net.txt)
+- [LINX json](reports/alice-rs.linx.net.json)
 
 ### install
 ```
 git clone git@github.com:kiraum/peering_gossip.git
 python3 -m venv venv
 . venv/bin/activate
-pip install -r requirements.txt
+pip install --no-cache-dir -U pip uv
+uv pip install -r requirements.txt
 ```
 
 ### use it
 ```
 % . venv/bin/activate
-% pbuddy/pbuddy.py
+% python3 peering_gossip.py -lg https://lg.ams-ix.net
 ```
 
 ### example usage
+to run agains one looking glass:
 ```
-% ./peering_gossip.py -lg https://alice-rs.linx.net
-rs1-in2-lon1-linx-net-v4
-rs1-in2-lon1-linx-net-v6
-rs3-tch-lon1-linx-net-v4
-rs3-tch-lon1-linx-net-v6
-rs2-in2-lon2-linx-net-v4
-rs2-in2-lon2-linx-net-v6
-rs1-tcw-man1-linx-net-v4
-rs1-tcw-man1-linx-net-v6
-rs1-pue-sco1-linx-net-v4
-rs1-pue-sco1-linx-net-v6
-rs1-ngd-car1-linx-net-v4
-rs1-ngd-car1-linx-net-v6
-rs1-imm-nva1-linx-net-v4
-rs1-imm-nva1-linx-net-v6
-rs2-dft-nva1-linx-net-v4
-rs2-dft-nva1-linx-net-v6
-rs2-dvg-sco1-linx-net-v4
-rs2-dvg-sco1-linx-net-v6
-rs2-bts-car1-linx-net-v4
-rs2-bts-car1-linx-net-v6
-rs4-tch-lon2-u22-linx-net-v4
-rs4-tch-lon2-u22-linx-net-v6
-rs2-tcj-man1-linx-net-v4
-rs2-tcj-man1-linx-net-v6
-Filtered prefixes @ https://alice-rs.linx.net | ASN | NAME | Contacts | PeeringDB link
-3066 | 3216 | SOVAM-AS | abuse-b2b@beeline.ru,peering@beeline.ru,wholesale@beeline.ru,noc@sovintel.ru,noc@beeline.ru | https://www.peeringdb.com/asn/3216
-1182 | 39386 | STC-IGW-AS | registry@stc.com.sa,araiyes@stc.com.sa,registry@saudi.net.sa | https://www.peeringdb.com/asn/39386
-783 | 7713 | telkomnet-as-ap | abuse@telkom.co.id,peering@telin.net,yogo@telkom.co.id,torkis@telin.net | https://www.peeringdb.com/asn/7713
-546 | 57463 | NetIX | abuse@netix.net,nmt@netix.net | https://www.peeringdb.com/asn/57463
-...
-2 | 59624 | KIAE-COMPUTING-AS | ip-box@ripn.net,noc@kiae.ru,noc@computing.kiae.ru,andssh@gmail.com | https://www.peeringdb.com/asn/59624
-2 | 60171 | AFRIX-AS | noc@afr-ix.com,engineering@afr-ix.com,nalbi@afr-ix.com | https://www.peeringdb.com/asn/60171
-2 | 61955 | ColocationIX-AS | colocationix.abuse@colocationix.net,hostmaster@consultix.net,hostmaster@colocationix.net | https://www.peeringdb.com/asn/61955
-2 | 396998 | PATH-NETWORK | abuse@path.net,noc@path.net | https://www.peeringdb.com/asn/396998
-2 | 3741 | None |  | https://www.peeringdb.com/asn/3741
-2 | 6894 | KDDI-EUROPE | ipdata@uk.kddi.eu,nameadmin@kew.net | https://www.peeringdb.com/asn/6894
-1 | 3225 | Gulfnet-Kuwait | noc@bonline.com.kw,a.elmirghany@bonline.com.kw,it.core@bonline.com.kw,core@bonline.com.kw | https://www.peeringdb.com/asn/3225
-1 | 20940 | AKAMAI-ASN1 | abuse@akamai.com,ip-admin@akamai.com,ck@akamai.com,nbakker@akamai.com,ripenotify@bakker.net,rmullall@akamai.com,registry@4l.ie,cdabanog@akamai.com | https://www.peeringdb.com/asn/20940
-1 | 29129 | VISPA-ASN | ripe@vispa.net,james@vispa.net | https://www.peeringdb.com/asn/29129
+% python3 peering_gossip.py -lg https://lg.ams-ix.net
+Working on https://lg.ams-ix.net - nl-rc-v4
+Working on https://lg.ams-ix.net - nl-rc-v6
+Working on https://lg.ams-ix.net - hk-rs1-v4
+Working on https://lg.ams-ix.net - hk-rs1-v6
+Working on https://lg.ams-ix.net - hk-rs2-v4
+Working on https://lg.ams-ix.net - hk-rs2-v6
+Working on https://lg.ams-ix.net - cw-rs1-v4
+Working on https://lg.ams-ix.net - cw-rs1-v6
+Working on https://lg.ams-ix.net - cw-rs2-v4
+Working on https://lg.ams-ix.net - cw-rs2-v6
+Working on https://lg.ams-ix.net - mum-rs1-v4
+Working on https://lg.ams-ix.net - mum-rs1-v6
+Working on https://lg.ams-ix.net - mum-rs2-v4
+Working on https://lg.ams-ix.net - mum-rs2-v6
+Working on https://lg.ams-ix.net - chi-rs1-v4
+Working on https://lg.ams-ix.net - chi-rs1-v6
+Working on https://lg.ams-ix.net - chi-rs2-v4
+Working on https://lg.ams-ix.net - chi-rs2-v6
+Working on https://lg.ams-ix.net - ba-rs1-v4
+Working on https://lg.ams-ix.net - ba-rs1-v6
+Working on https://lg.ams-ix.net - ba-rs2-v4
+Working on https://lg.ams-ix.net - ba-rs2-v6
+Filtered prefixes @ https://lg.ams-ix.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
+1634 | 7713 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia | 69 | APNIC | ID | https://www.peeringdb.com/asn/7713
+198 | 134548 | DXTL-HK DXTL Tseung Kwan O Service | 2833 | APNIC | HK | https://www.peeringdb.com/asn/134548
+144 | 24429 | TAOBAO Zhejiang Taobao Network Co. | 2666 | APNIC | US | https://www.peeringdb.com/asn/24429
+28 | 18229 | CTRLS-AS-IN CtrlS | 294 | APNIC | IN | https://www.peeringdb.com/asn/18229
+8 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
+8 | 199524 | GCORE - G-Core Labs S.A. | 345 | RIPE | LU | https://www.peeringdb.com/asn/199524
+8 | 9583 | SIFY-AS-IN Sify Limited | 97 | APNIC | IN | https://www.peeringdb.com/asn/9583
+7 | 58779 | I4HKLIMITED-AS i4HK Limited | 2190 | APNIC | HK | https://www.peeringdb.com/asn/58779
+4 | 9304 | HUTCHISON-AS-AP HGC Global Communications Limited | 86 | APNIC | HK | https://www.peeringdb.com/asn/9304
+4 | 136334 | VNPL-AS Vortex Netsol Private Limited | 694 | APNIC | IN | https://www.peeringdb.com/asn/136334
+2 | 7552 | VIETEL-AS-AP Viettel Group | 219 | APNIC | VN | https://www.peeringdb.com/asn/7552
+2 | 64567 | AMS-IX | NA | NA | NL | https://www.peeringdb.com/asn/64567
+2 | 36351 | SOFTLAYER | 1921 | ARIN | US | https://www.peeringdb.com/asn/36351
+2 | 55352 | MCPL-IN Microscan Infocommtech Private Limited | 677 | APNIC | IN | https://www.peeringdb.com/asn/55352
+2 | 132770 | GAZON-AS-IN Gazon Communications India Limited | 467 | APNIC | IN | https://www.peeringdb.com/asn/132770
 ================================================================================
-We created a sharable report link, enjoy => https://glot.io/snippets/glqb1ka3j8
+We created a sharable report link, enjoy => https://glot.io/snippets/gw9fx0fc4a
+```
 
+or to run againt all ASNs from config.yaml:
+```
+% python3 peering_gossip.py -a
+...
 ```
