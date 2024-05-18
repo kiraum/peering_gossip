@@ -1,0 +1,36 @@
+---
+name: Test (linter/formatter)
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        pip install --upgrade uv
+        uv pip install --system --break-system-packages black flake8 pylint ruff requests aiohttp backoff pyyaml
+    - name: Analysing the code format with black
+      run: |
+        black $(git ls-files '*.py') --check --verbose --diff --color
+    - name: Analysing the code with flake8
+      run: |
+        flake8 --max-line-length 150 $(git ls-files '*.py')
+    - name: Analysing the code with pylint
+      run: |
+        pylint $(git ls-files '*.py')
+    - name: Analysing the code with isort
+      run: |
+        isort -m3 --tc $(git ls-files '*.py')
+    - name: Analysing the code with ruff
+      run: |
+        ruff check --force-exclude $(git ls-files '*.py')
