@@ -1,6 +1,6 @@
 # peering_gossip
 
-![pylint](https://github.com/kiraum/peering_gossip/actions/workflows/pylint.yml/badge.svg)
+[![Test (linter/formatter)](https://github.com/kiraum/peering_gossip/actions/workflows/linter.yml/badge.svg)](https://github.com/kiraum/peering_gossip/actions/workflows/linter.yml)
 ![CodeQL](https://github.com/kiraum/peering_gossip/actions/workflows/github-code-scanning/codeql/badge.svg)
 [![Generate IXPs reports](https://github.com/kiraum/peering_gossip/actions/workflows/generate_reports.yml/badge.svg)](https://github.com/kiraum/peering_gossip/actions/workflows/generate_reports.yml)
 
