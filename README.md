@@ -1,10 +1,12 @@
 # peering_gossip
 
 [![Test (linter/formatter)](https://github.com/kiraum/peering_gossip/actions/workflows/linter.yml/badge.svg)](https://github.com/kiraum/peering_gossip/actions/workflows/linter.yml)
-![CodeQL](https://github.com/kiraum/peering_gossip/actions/workflows/github-code-scanning/codeql/badge.svg)
+[![CodeQL](https://github.com/kiraum/peering_gossip/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/kiraum/peering_gossip/actions/workflows/github-code-scanning/codeql)
 [![Generate IXPs reports](https://github.com/kiraum/peering_gossip/actions/workflows/generate_reports.yml/badge.svg)](https://github.com/kiraum/peering_gossip/actions/workflows/generate_reports.yml)
 
-The idea is to have a gossip tool generating a Hall of Shame for Autonomous Systems that are not so polite.
+### Peering Gossip Tool: Daily Hall of Shame for Autonomous Systems
+
+This tool generates a daily "Hall of Shame" report for Autonomous Systems (AS) that exhibit less-than-courteous behavior in their peering arrangements. It analyzes public looking glass data to collect and aggregate filtered prefixes, providing insights into the practices of these AS. The reports are automatically generated and committed to this repository each day, enhancing transparency and encouraging better practices within the network community.
 
 **Reports are being automatically generated and committed daily to this repository.**
 
@@ -96,3 +98,7 @@ or to run againt all ASNs from config.yaml:
 % python3 peering_gossip.py -a
 ...
 ```
+
+Happy peering! =D
+
+#!
