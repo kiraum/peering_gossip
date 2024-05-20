@@ -6,7 +6,7 @@
 
 ### Peering Gossip Tool: Daily Hall of Shame for Autonomous Systems
 
-This tool generates a daily "Hall of Shame" report for Autonomous Systems (AS) that exhibit less-than-courteous behavior in their peering arrangements. It analyzes public looking glass data to collect and aggregate filtered prefixes, providing insights into the practices of these AS. The reports are automatically generated and committed to this repository each day, enhancing transparency and encouraging better practices within the network community.
+This tool generates a daily "Hall of Shame" report for Autonomous Systems (AS) that exhibit less-than-courteous behavior in their peering arrangements. It analyzes public Alice looking glass data to collect and aggregate filtered prefixes, providing insights into the practices of these AS. The reports are automatically generated and committed to this repository each day, enhancing transparency and encouraging better practices within the network community.
 
 **Reports are being automatically generated and committed daily to this repository.**
 
