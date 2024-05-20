@@ -56,7 +56,7 @@ platformdirs==4.2.2
     #   pylint
 pluggy==1.5.0
     # via pytest
-pylint==3.2.1
+pylint==3.2.2
     # via peering-gossip (pyproject.toml)
 pytest==8.2.0
     # via peering-gossip (pyproject.toml)
