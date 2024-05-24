@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2482",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2478",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "306",
+        "Filtered prefixes @ https://alice-rs.linx.net": "308",
         "ASN": "3225",
         "AS-NAME": "GULFNET-KUWAIT - GULFNET COMMUNICATIONS CO. WLL",
         "AS Rank": "1497",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3225"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "270",
+        "Filtered prefixes @ https://alice-rs.linx.net": "267",
         "ASN": "45899",
         "AS-NAME": "VNPT-AS-VN VNPT Corp",
         "AS Rank": "259",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "168",
+        "Filtered prefixes @ https://alice-rs.linx.net": "166",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "23",
@@ -142,15 +142,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/16164"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "23",
-        "ASN": "48070",
-        "AS-NAME": "DSM - DSM (GB) Limited",
-        "AS Rank": "6945",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/48070"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
@@ -279,6 +270,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "327814",
+        "AS-NAME": "Ecoband",
+        "AS Rank": "2668",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/327814"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "12200",
         "AS-NAME": "RACKSPACE",
@@ -333,15 +333,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "15412",
-        "AS-NAME": "FLAG-AS - FLAG TELECOM UK LIMITED",
-        "AS Rank": "40",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "5459",
         "AS-NAME": "LINX-AS - London Internet Exchange Ltd.",
@@ -352,12 +343,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
-        "ASN": "327814",
-        "AS-NAME": "Ecoband",
-        "AS Rank": "2668",
-        "Source": "AFRINIC",
-        "Country": "GH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/327814"
+        "ASN": "15412",
+        "AS-NAME": "FLAG-AS - FLAG TELECOM UK LIMITED",
+        "AS Rank": "40",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -412,6 +403,15 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/64049"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "4800",
+        "AS-NAME": "LINTASARTA-AS-AP PT Aplikanusa Lintasarta",
+        "AS Rank": "195",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4800"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -504,6 +504,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/62240"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS Rank": "130",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "48605",
         "AS-NAME": "UK27FIBRE - 27Fibre Ltd",
@@ -520,15 +529,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/3213"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "3223",
-        "AS-NAME": "VOXILITY - Voxility LLP",
-        "AS Rank": "87",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/3223"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
