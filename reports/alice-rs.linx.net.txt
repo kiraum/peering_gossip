@@ -1,12 +1,12 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-2478 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 25 | RIPE | RU | https://www.peeringdb.com/asn/3216
+2472 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 25 | RIPE | RU | https://www.peeringdb.com/asn/3216
 1110 | 36868 | EIS | 2903 | AFRINIC | MU | https://www.peeringdb.com/asn/36868
 817 | 7713 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia | 69 | APNIC | ID | https://www.peeringdb.com/asn/7713
-398 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 253 | RIPE | SA | https://www.peeringdb.com/asn/39386
+778 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 23 | APNIC | IN | https://www.peeringdb.com/asn/9498
+424 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 253 | RIPE | SA | https://www.peeringdb.com/asn/39386
 308 | 3225 | GULFNET-KUWAIT - GULFNET COMMUNICATIONS CO. WLL | 1497 | RIPE | KW | https://www.peeringdb.com/asn/3225
-267 | 45899 | VNPT-AS-VN VNPT Corp | 259 | APNIC | VN | https://www.peeringdb.com/asn/45899
-205 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
-166 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 23 | APNIC | IN | https://www.peeringdb.com/asn/9498
+264 | 45899 | VNPT-AS-VN VNPT Corp | 259 | APNIC | VN | https://www.peeringdb.com/asn/45899
+180 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 115 | 36994 | Vodacom-VB | 696 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 103 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 139 | RIPE | GB | https://www.peeringdb.com/asn/30844
 64 | 2018 | TENET-1 | 3120 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
@@ -20,16 +20,16 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 18 | 29119 | SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL | 180 | RIPE | ES | https://www.peeringdb.com/asn/29119
 17 | 42831 | UKSERVERS-AS - UK Dedicated Servers Limited | 989 | RIPE | GB | https://www.peeringdb.com/asn/42831
 16 | 49425 | DIGITAL-REALTY-UK - Digital Realty (UK) Limited | 1947 | RIPE | GB | https://www.peeringdb.com/asn/49425
-15 | 12703 | PULSANT-AS - Pulsant (Scotland) Ltd | 1206 | RIPE | GB | https://www.peeringdb.com/asn/12703
 15 | 20712 | AS20712 - Andrews & Arnold Ltd | 2661 | RIPE | GB | https://www.peeringdb.com/asn/20712
 14 | 8551 | BEZEQ-INTERNATIONAL-AS - Bezeq International Ltd. | 276 | RIPE | IL | https://www.peeringdb.com/asn/8551
 14 | 12491 | IPPLANET-AS - Gilat Telecom Ltd. | 2677 | RIPE | IL | https://www.peeringdb.com/asn/12491
 14 | 15802 | DU-AS1 - Emirates Integrated Telecommunications Company PJSC | 685 | RIPE | AE | https://www.peeringdb.com/asn/15802
 14 | 20804 | ASN-TELENERGO - Exatel S.A. | 123 | RIPE | PL | https://www.peeringdb.com/asn/20804
 14 | 35598 | INETCOM - INETCOM CARRIER LLC | 43 | RIPE | RU | https://www.peeringdb.com/asn/35598
+14 | 327814 | Ecoband | 2668 | AFRINIC | GH | https://www.peeringdb.com/asn/327814
+13 | 12703 | PULSANT-AS - Pulsant (Scotland) Ltd | 1206 | RIPE | GB | https://www.peeringdb.com/asn/12703
 12 | 21859 | ZEN-ECN | 256 | ARIN | US | https://www.peeringdb.com/asn/21859
 12 | 56595 | FLUENCY - Fluency Communications Ltd | 1519 | RIPE | GB | https://www.peeringdb.com/asn/56595
-11 | 327814 | Ecoband | 2668 | AFRINIC | GH | https://www.peeringdb.com/asn/327814
 10 | 12200 | RACKSPACE | 1107 | ARIN | US | https://www.peeringdb.com/asn/12200
 10 | 12713 | OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation) | 457 | RIPE | GR | https://www.peeringdb.com/asn/12713
 10 | 37678 | BOFINET | 1437 | AFRINIC | BW | https://www.peeringdb.com/asn/37678
@@ -38,13 +38,11 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 10 | 44735 | SIP-ASN - Nova hf | 952 | RIPE | IS | https://www.peeringdb.com/asn/44735
 9 | 5459 | LINX-AS - London Internet Exchange Ltd. | 4396 | RIPE | GB | https://www.peeringdb.com/asn/5459
 9 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 40 | RIPE | GB | https://www.peeringdb.com/asn/15412
-8 | 1828 | UNITAS | 111 | ARIN | US | https://www.peeringdb.com/asn/1828
 8 | 4651 | THAI-GATEWAY The Communications Authority of ThailandCAT | 179 | APNIC | TH | https://www.peeringdb.com/asn/4651
 8 | 13037 | ZEN-AS - Zen Internet Ltd | 4561 | RIPE | GB | https://www.peeringdb.com/asn/13037
 8 | 13213 | UK2NET-AS - UK-2 Limited | 2463 | RIPE | GB | https://www.peeringdb.com/asn/13213
 8 | 49505 | SELECTEL - OOO "Network of data-centers "Selectel" | 1938 | RIPE | RU | https://www.peeringdb.com/asn/49505
 8 | 64049 | RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore | 61 | APNIC | SG | https://www.peeringdb.com/asn/64049
-6 | 4800 | LINTASARTA-AS-AP PT Aplikanusa Lintasarta | 195 | APNIC | ID | https://www.peeringdb.com/asn/4800
 6 | 20799 | DATANET-AS - Datanet.co.uk Ltd | 3726 | RIPE | GB | https://www.peeringdb.com/asn/20799
 6 | 24691 | TOGOTEL-AS | 12068 | RIPE | TG | https://www.peeringdb.com/asn/24691
 6 | 31500 | GLOBALNET-AS - Global Network Management Inc | 51 | RIPE | AG | https://www.peeringdb.com/asn/31500
@@ -57,7 +55,9 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 6 | 62240 | CLOUVIDER - Clouvider Limited | 1170 | RIPE | GB | https://www.peeringdb.com/asn/62240
 6 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 130 | APNIC | ID | https://www.peeringdb.com/asn/136106
 5 | 48605 | UK27FIBRE - 27Fibre Ltd | 2135 | RIPE | GB | https://www.peeringdb.com/asn/48605
+4 | 1828 | UNITAS | 111 | ARIN | US | https://www.peeringdb.com/asn/1828
 4 | 3213 | BOGONS-ASN - Bogons Ltd | 4901 | RIPE | GB | https://www.peeringdb.com/asn/3213
+4 | 3223 | VOXILITY - Voxility LLP | 87 | RIPE | GB | https://www.peeringdb.com/asn/3223
 4 | 5377 | MARLINK-EMEA - Marlink AS | 4645 | RIPE | NO | https://www.peeringdb.com/asn/5377
 4 | 5713 | SAIX-NET | 306 | AFRINIC | ZA | https://www.peeringdb.com/asn/5713
 4 | 9002 | RETN-AS - RETN Limited | 12 | RIPE | GB | https://www.peeringdb.com/asn/9002
@@ -81,7 +81,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 8220 | COLT - COLT Technology Services Group Limited | 47 | RIPE | GB | https://www.peeringdb.com/asn/8220
 2 | 8530 | WAVENET-AS8530 - Wavenet Limited | 14890 | RIPE | GB | https://www.peeringdb.com/asn/8530
 2 | 8757 | NSFOCUS - NSFOCUS, Inc. | 1543 | RIPE | US | https://www.peeringdb.com/asn/8757
-2 | 9304 | HUTCHISON-AS-AP HGC Global Communications Limited | 86 | APNIC | HK | https://www.peeringdb.com/asn/9304
 2 | 9381 | HKBNES-AS-AP HKBN Enterprise Solutions HK Limited | 514 | APNIC | HK | https://www.peeringdb.com/asn/9381
 2 | 12552 | IPO-EU - GlobalConnect AB | 88 | RIPE | SE | https://www.peeringdb.com/asn/12552
 2 | 12969 | VODAFONE_ICELAND - Ljosleidarinn ehf | 1389 | RIPE | IS | https://www.peeringdb.com/asn/12969
