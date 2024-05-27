@@ -62,7 +62,7 @@ pytest==8.2.1
     # via peering-gossip (pyproject.toml)
 pyyaml==6.0.1
     # via yamllint
-requests==2.32.1
+requests==2.32.2
     # via peering-gossip (pyproject.toml)
 ruff==0.4.4
     # via peering-gossip (pyproject.toml)
