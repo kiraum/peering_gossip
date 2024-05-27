@@ -1,17 +1,17 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-2474 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 25 | RIPE | RU | https://www.peeringdb.com/asn/3216
-1110 | 36868 | EIS | 2903 | AFRINIC | MU | https://www.peeringdb.com/asn/36868
+2480 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 25 | RIPE | RU | https://www.peeringdb.com/asn/3216
+1086 | 36868 | EIS | 2903 | AFRINIC | MU | https://www.peeringdb.com/asn/36868
 817 | 7713 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia | 69 | APNIC | ID | https://www.peeringdb.com/asn/7713
 785 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 23 | APNIC | IN | https://www.peeringdb.com/asn/9498
 424 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 253 | RIPE | SA | https://www.peeringdb.com/asn/39386
-307 | 3225 | GULFNET-KUWAIT - GULFNET COMMUNICATIONS CO. WLL | 1497 | RIPE | KW | https://www.peeringdb.com/asn/3225
-264 | 45899 | VNPT-AS-VN VNPT Corp | 259 | APNIC | VN | https://www.peeringdb.com/asn/45899
+305 | 3225 | GULFNET-KUWAIT - GULFNET COMMUNICATIONS CO. WLL | 1497 | RIPE | KW | https://www.peeringdb.com/asn/3225
+266 | 45899 | VNPT-AS-VN VNPT Corp | 259 | APNIC | VN | https://www.peeringdb.com/asn/45899
 180 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 115 | 36994 | Vodacom-VB | 696 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 103 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 139 | RIPE | GB | https://www.peeringdb.com/asn/30844
 64 | 2018 | TENET-1 | 3120 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
+58 | 1031 | PEER-1-INTERNET | 41 | ARIN | US | https://www.peeringdb.com/asn/1031
 50 | 16637 | MTNNS-AS | 254 | AFRINIC | ZA | https://www.peeringdb.com/asn/16637
-46 | 1031 | PEER-1-INTERNET | 41 | ARIN | US | https://www.peeringdb.com/asn/1031
 40 | 211501 | HIGHTIDEGROUP-AS - High Tide Group Limited | 47557 | RIPE | GB | https://www.peeringdb.com/asn/211501
 28 | 20764 | RASCOM-AS - CJSC RASCOM | 33 | RIPE | RU | https://www.peeringdb.com/asn/20764
 26 | 16164 | SOHONET-AS - Sohonet Limited | 2501 | RIPE | GB | https://www.peeringdb.com/asn/16164
@@ -53,7 +53,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 6 | 55329 | TELCOTECH-KH Telcotech Ltd. | 1057 | APNIC | KH | https://www.peeringdb.com/asn/55329
 6 | 55685 | JLM-AS-ID PT Jala Lintas Media | 268 | APNIC | ID | https://www.peeringdb.com/asn/55685
 6 | 62240 | CLOUVIDER - Clouvider Limited | 1170 | RIPE | GB | https://www.peeringdb.com/asn/62240
-6 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 130 | APNIC | ID | https://www.peeringdb.com/asn/136106
 5 | 48605 | UK27FIBRE - 27Fibre Ltd | 2135 | RIPE | GB | https://www.peeringdb.com/asn/48605
 4 | 1828 | UNITAS | 111 | ARIN | US | https://www.peeringdb.com/asn/1828
 4 | 3213 | BOGONS-ASN - Bogons Ltd | 4901 | RIPE | GB | https://www.peeringdb.com/asn/3213
@@ -67,6 +66,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 4 | 39180 | LASOTEL - LASOTEL SAS | 1280 | RIPE | FR | https://www.peeringdb.com/asn/39180
 4 | 60171 | AFRIX-AS - AFR-IX TELECOM SAU | 362 | RIPE | ES | https://www.peeringdb.com/asn/60171
 4 | 60610 | EVEREST-AS - Amito Ltd | 1451 | RIPE | GB | https://www.peeringdb.com/asn/60610
+4 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 130 | APNIC | ID | https://www.peeringdb.com/asn/136106
 4 | 199713 | MLL-AS - MLL Telecom Ltd. | 4906 | RIPE | GB | https://www.peeringdb.com/asn/199713
 4 | 262589 | INTERNEXA Brasil Operadora de Telecomunicacoes S.A | 38 | LACNIC | BR | https://www.peeringdb.com/asn/262589
 4 | 22925 | ALLIED-TELECOM | 1043 | ARIN | US | https://www.peeringdb.com/asn/22925
@@ -86,6 +86,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 12552 | IPO-EU - GlobalConnect AB | 88 | RIPE | SE | https://www.peeringdb.com/asn/12552
 2 | 12969 | VODAFONE_ICELAND - Ljosleidarinn ehf | 1389 | RIPE | IS | https://www.peeringdb.com/asn/12969
 2 | 17494 | BTTB-AS-AP Telecom Operator & Internet Service Provider as well | 188 | APNIC | BD | https://www.peeringdb.com/asn/17494
+2 | 21267 | WAVENET-AS - Wavenet Limited | 5686 | RIPE | GB | https://www.peeringdb.com/asn/21267
 2 | 35297 | DATALINE-AS - Dataline LLC | 98 | RIPE | UA | https://www.peeringdb.com/asn/35297
 2 | 36944 | UBUNTU-UNICAST-AS | 1490 | AFRINIC | MW | https://www.peeringdb.com/asn/36944
 2 | 37282 | MAINONE | 279 | AFRINIC | NG | https://www.peeringdb.com/asn/37282
@@ -100,5 +101,4 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 3741 | IS | 289 | AFRINIC | ZA | https://www.peeringdb.com/asn/3741
 2 | 206078 | ULTRANETWORKS - UltraNetworks Limited | 10199 | RIPE | GB | https://www.peeringdb.com/asn/206078
 1 | 13237 | LAMBDANET-AS - euNetworks GmbH | 174 | RIPE | DE | https://www.peeringdb.com/asn/13237
-1 | 21267 | WAVENET-AS - Wavenet Limited | 5686 | RIPE | GB | https://www.peeringdb.com/asn/21267
 1 | 39356 | AVANTI-UK-AS - Avanti Broadband Ltd | 4657 | RIPE | GB | https://www.peeringdb.com/asn/39356
