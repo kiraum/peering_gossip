@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "122",
+        "Filtered prefixes @ https://lg.ams-ix.net": "136",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "2833",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "30",
+        "Filtered prefixes @ https://lg.ams-ix.net": "28",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
         "AS Rank": "294",
@@ -61,15 +61,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "58779",
-        "AS-NAME": "I4HKLIMITED-AS i4HK Limited",
-        "AS Rank": "2190",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58779"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -142,5 +133,14 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/132770"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "58779",
+        "AS-NAME": "I4HKLIMITED-AS i4HK Limited",
+        "AS Rank": "2190",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58779"
     }
 ]
