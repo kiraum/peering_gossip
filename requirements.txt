@@ -70,7 +70,7 @@ tomlkit==0.12.5
     # via pylint
 urllib3==2.2.1
     # via requests
-uv==0.2.10
+uv==0.2.12
     # via peering-gossip (pyproject.toml)
 yamllint==1.35.1
     # via peering-gossip (pyproject.toml)
