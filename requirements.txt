@@ -68,7 +68,7 @@ ruff==0.4.8
     # via peering-gossip (pyproject.toml)
 tomlkit==0.12.5
     # via pylint
-urllib3==2.2.1
+urllib3==2.2.2
     # via requests
 uv==0.2.10
     # via peering-gossip (pyproject.toml)
