@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2754",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2814",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
         "AS Rank": "86",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2492",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2490",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3216"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1036",
+        "Filtered prefixes @ https://alice-rs.linx.net": "1052",
         "ASN": "36868",
         "AS-NAME": "EIS",
         "AS Rank": "2903",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "314",
+        "Filtered prefixes @ https://alice-rs.linx.net": "315",
         "ASN": "3225",
         "AS-NAME": "GULFNET-KUWAIT - GULFNET COMMUNICATIONS CO. WLL",
         "AS Rank": "1497",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45899"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "170",
+        "Filtered prefixes @ https://alice-rs.linx.net": "180",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "124",
+        "Filtered prefixes @ https://alice-rs.linx.net": "127",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
         "AS Rank": "696",
@@ -99,15 +99,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "54",
-        "ASN": "1031",
-        "AS-NAME": "PEER-1-INTERNET",
-        "AS Rank": "41",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "53",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
@@ -115,6 +106,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "52",
+        "ASN": "1031",
+        "AS-NAME": "PEER-1-INTERNET",
+        "AS Rank": "41",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "42",
@@ -151,15 +151,6 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "20",
-        "ASN": "9930",
-        "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14",
-        "AS Rank": "408",
-        "Source": "APNIC",
-        "Country": "MY",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9930"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
@@ -217,6 +208,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
+        "ASN": "12703",
+        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
+        "AS Rank": "1206",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "15",
         "ASN": "20712",
         "AS-NAME": "AS20712 - Andrews & Arnold Ltd",
         "AS Rank": "2661",
@@ -270,15 +270,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/262589"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
-        "ASN": "12703",
-        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
-        "AS Rank": "1206",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "21859",
         "AS-NAME": "ZEN-ECN",
@@ -288,7 +279,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/21859"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "327814",
         "AS-NAME": "Ecoband",
         "AS Rank": "2668",
@@ -349,6 +340,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/5459"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "48605",
+        "AS-NAME": "UK27FIBRE - 27Fibre Ltd",
+        "AS Rank": "2135",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/48605"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
@@ -522,15 +522,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/196881"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "48605",
-        "AS-NAME": "UK27FIBRE - 27Fibre Ltd",
-        "AS Rank": "2135",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/48605"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "3213",
         "AS-NAME": "BOGONS-ASN - Bogons Ltd",
@@ -664,15 +655,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/22925"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "8560",
-        "AS-NAME": "IONOS-AS - IONOS SE",
-        "AS Rank": "733",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -892,12 +874,30 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM SAU",
+        "AS Rank": "362",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "61955",
         "AS-NAME": "COLOCATIONIX-AS - ColocationIX GmbH",
         "AS Rank": "3739",
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/61955"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "212175",
+        "AS-NAME": "STELIA - Stelia Ltd",
+        "AS Rank": "1592",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/212175"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
