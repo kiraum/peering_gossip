@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2518",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2512",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "262",
+        "Filtered prefixes @ https://alice-rs.linx.net": "264",
         "ASN": "45899",
         "AS-NAME": "VNPT-AS-VN VNPT Corp",
         "AS Rank": "259",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45899"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "225",
+        "Filtered prefixes @ https://alice-rs.linx.net": "223",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -307,15 +307,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "4651",
-        "AS-NAME": "THAI-GATEWAY The Communications Authority of ThailandCAT",
-        "AS Rank": "179",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/4651"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "13037",
         "AS-NAME": "ZEN-AS - Zen Internet Ltd",
         "AS Rank": "4561",
@@ -469,6 +460,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "4651",
+        "AS-NAME": "THAI-GATEWAY The Communications Authority of ThailandCAT",
+        "AS Rank": "179",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4651"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "5377",
         "AS-NAME": "MARLINK-EMEA - Marlink AS",
         "AS Rank": "4645",
@@ -520,6 +520,15 @@
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/38182"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "38195",
+        "AS-NAME": "SUPERLOOP-AS-AP Superloop",
+        "AS Rank": "141",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
