@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2508",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2497",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -54,15 +54,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "96",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031",
-        "AS Rank": "41",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "84",
         "ASN": "4775",
         "AS-NAME": "GLOBE-TELECOM-AS Globe Telecoms",
@@ -106,6 +97,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "32",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031",
+        "AS Rank": "41",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "30",
@@ -187,15 +187,6 @@
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20804"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "42831",
-        "AS-NAME": "UKSERVERS-AS - UK Dedicated Servers Limited",
-        "AS Rank": "989",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/42831"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
@@ -505,15 +496,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "16353",
-        "AS-NAME": "MERULA - Merula Limited",
-        "AS Rank": "3655",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16353"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "35598",
         "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
         "AS Rank": "43",
@@ -547,15 +529,6 @@
         "Source": "RIPE",
         "Country": "FR",
         "PeeringDB link": "https://www.peeringdb.com/asn/39180"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "39602",
-        "AS-NAME": "TCG-AS - The Cent.re Group Limited",
-        "AS Rank": "44480",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/39602"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -649,15 +622,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "6204",
-        "AS-NAME": "ZET-NET - INTERKVM HOST SRL",
-        "AS Rank": "331",
-        "Source": "RIPE",
-        "Country": "RO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6204"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "6866",
         "AS-NAME": "CYTA-NETWORK - Cyprus Telecommunications Authority",
         "AS Rank": "1056",
@@ -700,15 +664,6 @@
         "Source": "RIPE",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/8757"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "9002",
-        "AS-NAME": "RETN-AS - RETN Limited",
-        "AS Rank": "12",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9002"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -763,6 +718,15 @@
         "Source": "AFRINIC",
         "Country": "MW",
         "PeeringDB link": "https://www.peeringdb.com/asn/36944"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "42831",
+        "AS-NAME": "UKSERVERS-AS - UK Dedicated Servers Limited",
+        "AS Rank": "989",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/42831"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
