@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2563",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2566",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "800",
+        "Filtered prefixes @ https://alice-rs.linx.net": "802",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "23",
@@ -297,6 +297,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/44356"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "76490",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "12703",
         "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
@@ -340,24 +349,6 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/49505"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "76490",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM SAU",
-        "AS Rank": "362",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -475,6 +466,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM SAU",
+        "AS Rank": "362",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -736,6 +736,15 @@
         "Source": "AFRINIC",
         "Country": "MW",
         "PeeringDB link": "https://www.peeringdb.com/asn/36944"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "41313",
+        "AS-NAME": "NOVATEL-AS - \"NOVATEL\" EOOD",
+        "AS Rank": "632",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/41313"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
