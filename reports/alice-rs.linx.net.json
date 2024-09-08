@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2566",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2567",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3216"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1167",
+        "Filtered prefixes @ https://alice-rs.linx.net": "1169",
         "ASN": "39386",
         "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
         "AS Rank": "252",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45899"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "185",
+        "Filtered prefixes @ https://alice-rs.linx.net": "189",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "5",
@@ -325,15 +325,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "9583",
-        "AS-NAME": "SIFY-AS-IN Sify Limited",
-        "AS Rank": "80",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9583"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "12713",
         "AS-NAME": "OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation)",
         "AS Rank": "381",
@@ -351,6 +342,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/49505"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM SAU",
+        "AS Rank": "362",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "9505",
         "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
@@ -358,6 +358,15 @@
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/9505"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "9583",
+        "AS-NAME": "SIFY-AS-IN Sify Limited",
+        "AS Rank": "80",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -466,15 +475,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM SAU",
-        "AS Rank": "362",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -730,6 +730,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "35598",
+        "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
+        "AS Rank": "47",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/35598"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "36944",
         "AS-NAME": "UBUNTU-UNICAST-AS",
         "AS Rank": "1663",
@@ -781,15 +790,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/49600"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "52025",
-        "AS-NAME": "PARADOXNETWORKS-LIMITED - ParadoxNetworks Limited",
-        "AS Rank": "1254",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52025"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
