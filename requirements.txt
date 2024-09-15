@@ -26,7 +26,7 @@ frozenlist==1.4.1
     # via
     #   aiohttp
     #   aiosignal
-idna==3.8
+idna==3.10
     # via
     #   requests
     #   yarl
@@ -38,7 +38,7 @@ isort==5.13.2
     #   pylint
 mccabe==0.7.0
     # via pylint
-multidict==6.0.5
+multidict==6.1.0
     # via
     #   aiohttp
     #   yarl
@@ -52,7 +52,7 @@ pathspec==0.12.1
     # via
     #   black
     #   yamllint
-platformdirs==4.2.2
+platformdirs==4.3.3
     # via
     #   black
     #   pylint
@@ -60,21 +60,21 @@ pluggy==1.5.0
     # via pytest
 pylint==3.2.7
     # via peering-gossip (pyproject.toml)
-pytest==8.3.2
+pytest==8.3.3
     # via peering-gossip (pyproject.toml)
 pyyaml==6.0.2
     # via yamllint
 requests==2.32.3
     # via peering-gossip (pyproject.toml)
-ruff==0.6.3
+ruff==0.6.5
     # via peering-gossip (pyproject.toml)
 tomlkit==0.13.2
     # via pylint
-urllib3==2.2.2
+urllib3==2.2.3
     # via requests
-uv==0.4.2
+uv==0.4.10
     # via peering-gossip (pyproject.toml)
 yamllint==1.35.1
     # via peering-gossip (pyproject.toml)
-yarl==1.9.7
+yarl==1.11.1
     # via aiohttp
