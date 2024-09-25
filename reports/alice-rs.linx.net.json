@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2584",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2596",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "25",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45899"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "198",
+        "Filtered prefixes @ https://alice-rs.linx.net": "190",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -451,6 +451,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "42831",
+        "AS-NAME": "UKSERVERS-AS - UK Dedicated Servers Limited",
+        "AS Rank": "784",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/42831"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "56595",
         "AS-NAME": "FLUENCY - Fluency Communications Ltd",
         "AS Rank": "1384",
@@ -529,6 +538,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13037"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "35598",
+        "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
+        "AS Rank": "48",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/35598"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -748,30 +766,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "35598",
-        "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
-        "AS Rank": "48",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/35598"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "36944",
         "AS-NAME": "UBUNTU-UNICAST-AS",
         "AS Rank": "1534",
         "Source": "AFRINIC",
         "Country": "MW",
         "PeeringDB link": "https://www.peeringdb.com/asn/36944"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "42831",
-        "AS-NAME": "UKSERVERS-AS - UK Dedicated Servers Limited",
-        "AS Rank": "784",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/42831"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
