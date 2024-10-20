@@ -1,12 +1,12 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-2608 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 25 | RIPE | RU | https://www.peeringdb.com/asn/3216
+2602 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 25 | RIPE | RU | https://www.peeringdb.com/asn/3216
 1469 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 265 | RIPE | SA | https://www.peeringdb.com/asn/39386
-866 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 24 | APNIC | IN | https://www.peeringdb.com/asn/9498
+876 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 24 | APNIC | IN | https://www.peeringdb.com/asn/9498
 278 | 45899 | VNPT-AS-VN VNPT Corp | 264 | APNIC | VN | https://www.peeringdb.com/asn/45899
 188 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 147 | 36994 | Vodacom-VB | 707 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 64 | 2018 | TENET-1 | 3175 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
-46 | 1031 | PEER1-1031 | 38 | ARIN | US | https://www.peeringdb.com/asn/1031
+50 | 1031 | PEER1-1031 | 38 | ARIN | US | https://www.peeringdb.com/asn/1031
 42 | 211501 | HIGHTIDEGROUP-AS - High Tide Group Limited | 11906 | RIPE | GB | https://www.peeringdb.com/asn/211501
 40 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 140 | RIPE | GB | https://www.peeringdb.com/asn/30844
 30 | 16164 | SOHONET-AS - Sohonet Limited | 2553 | RIPE | GB | https://www.peeringdb.com/asn/16164
@@ -41,6 +41,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 8 | 31500 | GLOBALNET-AS - Global Network Management Inc | 54 | RIPE | AG | https://www.peeringdb.com/asn/31500
 8 | 49505 | SELECTEL - JSC Selectel | 2509 | RIPE | RU | https://www.peeringdb.com/asn/49505
 7 | 12703 | PULSANT-AS - Pulsant (Scotland) Ltd | 1234 | RIPE | GB | https://www.peeringdb.com/asn/12703
+7 | 57463 | NETIX - NetIX Communications JSC | 76552 | RIPE | BG | https://www.peeringdb.com/asn/57463
 6 | 9505 | TWGATE-AP Taiwan Internet Gateway | 395 | APNIC | TW | https://www.peeringdb.com/asn/9505
 6 | 9583 | SIFY-AS-IN Sify Limited | 76 | APNIC | IN | https://www.peeringdb.com/asn/9583
 6 | 15802 | DU-AS1 - Emirates Integrated Telecommunications Company PJSC | 661 | RIPE | AE | https://www.peeringdb.com/asn/15802
@@ -66,7 +67,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 4 | 199713 | MLL-AS - MLL Telecom Ltd. | 4978 | RIPE | GB | https://www.peeringdb.com/asn/199713
 4 | 22925 | ALLIED-TELECOM | 1118 | ARIN | US | https://www.peeringdb.com/asn/22925
 3 | 28792 | PUBLIC-INTERNET - Public Internet Ltd | 19061 | RIPE | GB | https://www.peeringdb.com/asn/28792
-3 | 41313 | NOVATEL-AS - "NOVATEL" EOOD | 656 | RIPE | BG | https://www.peeringdb.com/asn/41313
 3 | 51561 | AS-ICUK - ICUK Computing Services Limited | 3650 | RIPE | GB | https://www.peeringdb.com/asn/51561
 3 | 207044 | ENET-AS - Enet Telecommunications Networks Limited | 2230 | RIPE | IE | https://www.peeringdb.com/asn/207044
 2 | 2635 | AUTOMATTIC | 14503 | ARIN | US | https://www.peeringdb.com/asn/2635
@@ -86,6 +86,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 35598 | INETCOM - INETCOM CARRIER LLC | 48 | RIPE | RU | https://www.peeringdb.com/asn/35598
 2 | 36944 | UBUNTU-UNICAST-AS | 1534 | AFRINIC | MW | https://www.peeringdb.com/asn/36944
 2 | 37613 | Dolphin-Telecom-AS | 328 | AFRINIC | GH | https://www.peeringdb.com/asn/37613
+2 | 41313 | NOVATEL-AS - "NOVATEL" EOOD | 656 | RIPE | BG | https://www.peeringdb.com/asn/41313
 2 | 47631 | SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED | 25813 | RIPE | GB | https://www.peeringdb.com/asn/47631
 2 | 49490 | CIRCLENET-AS - Circlenet LLP | 44549 | RIPE | GB | https://www.peeringdb.com/asn/49490
 2 | 49600 | NEARIP - NEAR IP, S.L. | 948 | RIPE | ES | https://www.peeringdb.com/asn/49600
@@ -97,5 +98,4 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 396998 | PATH-NETWORK | 196 | ARIN | US | https://www.peeringdb.com/asn/396998
 2 | 3741 | IS | 247 | AFRINIC | ZA | https://www.peeringdb.com/asn/3741
 1 | 43350 | NFORCE - NForce Entertainment B.V. | 519 | RIPE | NL | https://www.peeringdb.com/asn/43350
-1 | 57463 | NETIX - NetIX Communications JSC | 76552 | RIPE | BG | https://www.peeringdb.com/asn/57463
 1 | 206078 | ULTRANETWORKS - UltraNetworks Limited | 5795 | RIPE | GB | https://www.peeringdb.com/asn/206078
