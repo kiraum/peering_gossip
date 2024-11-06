@@ -18,13 +18,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "104",
+        "Filtered prefixes @ https://lg.ams-ix.net": "82",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4019",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "40",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "5",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
@@ -43,15 +52,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136342"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "24",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "5",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "Filtered prefixes @ https://lg.ams-ix.net": "7",
         "ASN": "272996",
         "AS-NAME": "SINCERE NETWORKS B.V.",
         "AS Rank": "66656",
