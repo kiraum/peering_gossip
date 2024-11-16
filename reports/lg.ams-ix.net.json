@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "242",
+        "Filtered prefixes @ https://lg.ams-ix.net": "244",
         "ASN": "24429",
         "AS-NAME": "TAOBAO Zhejiang Taobao Network Co.",
         "AS Rank": "2938",
@@ -27,15 +27,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "32",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "5648",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
         "ASN": "17408",
         "AS-NAME": "ABOVE-AS-AP AboveNet Communications Taiwan",
@@ -43,6 +34,15 @@
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/17408"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "30",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "5648",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "26",
@@ -106,15 +106,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "3",
-        "ASN": "272996",
-        "AS-NAME": "SINCERE NETWORKS B.V.",
-        "AS Rank": "11184",
-        "Source": "LACNIC",
-        "Country": "CW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/272996"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -196,5 +187,14 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133296"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "151101",
+        "AS-NAME": "SPHATIKNP-AS-IN Sphatik Network Private Limited",
+        "AS Rank": "11156",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/151101"
     }
 ]
