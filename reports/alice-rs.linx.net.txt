@@ -1,8 +1,7 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-2653 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 24 | RIPE | RU | https://www.peeringdb.com/asn/3216
+2642 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 24 | RIPE | RU | https://www.peeringdb.com/asn/3216
 1523 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 245 | RIPE | SA | https://www.peeringdb.com/asn/39386
-866 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 23 | APNIC | IN | https://www.peeringdb.com/asn/9498
-255 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 137 | RIPE | GB | https://www.peeringdb.com/asn/30844
+870 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 23 | APNIC | IN | https://www.peeringdb.com/asn/9498
 200 | 6939 | HURRICANE | 5 | ARIN | US | https://www.peeringdb.com/asn/6939
 147 | 36994 | Vodacom-VB | 714 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 64 | 2018 | TENET-1 | 3182 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
@@ -14,17 +13,19 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 22 | 38158 | CBN-AS-ID PT. Cyberindo Aditama | 118 | APNIC | ID | https://www.peeringdb.com/asn/38158
 20 | 9930 | TTNET-MY TIME dotCom Berhad No. 14 | 407 | APNIC | MY | https://www.peeringdb.com/asn/9930
 20 | 262589 | SAMM TECNOLOGIA E TELECOMUNICACOES S.A | 47 | LACNIC | BR | https://www.peeringdb.com/asn/262589
+19 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 137 | RIPE | GB | https://www.peeringdb.com/asn/30844
 18 | 20764 | RASCOM-AS - CJSC RASCOM | 31 | RIPE | RU | https://www.peeringdb.com/asn/20764
 18 | 24482 | SGGS-AS-AP SG.GS | 92 | APNIC | SG | https://www.peeringdb.com/asn/24482
-16 | 6204 | ZET-NET - INTERKVM HOST SRL | 201 | RIPE | RO | https://www.peeringdb.com/asn/6204
 16 | 33763 | Paratus | 630 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
 15 | 13213 | UK2NET-AS - UK-2 Limited | 2373 | RIPE | GB | https://www.peeringdb.com/asn/13213
 15 | 21859 | ZEN-ECN | 199 | ARIN | US | https://www.peeringdb.com/asn/21859
+14 | 6204 | ZET-NET - INTERKVM HOST SRL | 201 | RIPE | RO | https://www.peeringdb.com/asn/6204
 14 | 29119 | SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL | 172 | RIPE | ES | https://www.peeringdb.com/asn/29119
 14 | 45474 | NEXUSGUARD-AS-AP NEXUSGUARD LIMITED | 788 | APNIC | HK | https://www.peeringdb.com/asn/45474
-13 | 57463 | NETIX - NetIX Communications JSC | 77453 | RIPE | BG | https://www.peeringdb.com/asn/57463
+14 | 57463 | NETIX - NetIX Communications JSC | 77453 | RIPE | BG | https://www.peeringdb.com/asn/57463
 12 | 20804 | ASN-TELENERGO - Exatel S.A. | 123 | RIPE | PL | https://www.peeringdb.com/asn/20804
 12 | 37273 | BCS | 903 | AFRINIC | UG | https://www.peeringdb.com/asn/37273
+10 | 4651 | THAI-GATEWAY The Communications Authority of ThailandCAT | 196 | APNIC | TH | https://www.peeringdb.com/asn/4651
 10 | 12200 | RACKSPACE | 1266 | ARIN | US | https://www.peeringdb.com/asn/12200
 10 | 20712 | AS20712 - Andrews & Arnold Ltd | 3234 | RIPE | GB | https://www.peeringdb.com/asn/20712
 10 | 37468 | ANGOLA-CABLES | 21 | AFRINIC | AO | https://www.peeringdb.com/asn/37468
@@ -58,7 +59,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 4 | 6424 | EDGOO - EDGOO NETWORKS UNIPESSOAL LDA | 427 | RIPE | PT | https://www.peeringdb.com/asn/6424
 4 | 8220 | COLT - COLT Technology Services Group Limited | 45 | RIPE | GB | https://www.peeringdb.com/asn/8220
 4 | 13037 | ZEN-AS - Zen Internet Ltd | 4674 | RIPE | GB | https://www.peeringdb.com/asn/13037
-4 | 35598 | INETCOM - INETCOM CARRIER LLC | 43 | RIPE | RU | https://www.peeringdb.com/asn/35598
 4 | 38182 | EXTREMEBB-AS-MY Extreme Broadband - Total Broadband Experience | 948 | APNIC | MY | https://www.peeringdb.com/asn/38182
 4 | 39180 | LASOTEL - LASOTEL SAS | 1220 | RIPE | FR | https://www.peeringdb.com/asn/39180
 4 | 41313 | NOVATEL-AS - "NOVATEL" EOOD | 606 | RIPE | BG | https://www.peeringdb.com/asn/41313
@@ -86,14 +86,15 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 17494 | BTTB-AS-AP Telecom Operator & Internet Service Provider as well | 185 | APNIC | BD | https://www.peeringdb.com/asn/17494
 2 | 23764 | CTGNET CTGNet | 49 | APNIC | HK | https://www.peeringdb.com/asn/23764
 2 | 35297 | DATALINE-AS - Dataline LLC | 101 | RIPE | UA | https://www.peeringdb.com/asn/35297
+2 | 35598 | INETCOM - INETCOM CARRIER LLC | 43 | RIPE | RU | https://www.peeringdb.com/asn/35598
 2 | 36944 | UBUNTU-UNICAST-AS | 1652 | AFRINIC | MW | https://www.peeringdb.com/asn/36944
 2 | 37100 | SEACOM-AS | 90 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
 2 | 37497 | Network-Platforms | 619 | AFRINIC | ZA | https://www.peeringdb.com/asn/37497
 2 | 37613 | Dolphin-Telecom-AS | 368 | AFRINIC | GH | https://www.peeringdb.com/asn/37613
 2 | 47631 | SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED | 25119 | RIPE | GB | https://www.peeringdb.com/asn/47631
+2 | 49600 | NEARIP - NEAR IP, S.L. | 927 | RIPE | ES | https://www.peeringdb.com/asn/49600
 2 | 59624 | KIAE-COMPUTING-AS - National Research Center "Kurchatov Institute" | 2542 | RIPE | RU | https://www.peeringdb.com/asn/59624
 2 | 200612 | GULFBRIDGEINTERNATIONAL - Gulf Bridge International Inc. | 112 | RIPE | VG | https://www.peeringdb.com/asn/200612
-2 | 203462 | ASNOVACONN - NOVACONN SRL | 5408 | RIPE | IT | https://www.peeringdb.com/asn/203462
 2 | 207594 | CONNECTIVIA - Connectivia S.r.l | 3809 | RIPE | IT | https://www.peeringdb.com/asn/207594
 2 | 396998 | PATH-NETWORK | 208 | ARIN | US | https://www.peeringdb.com/asn/396998
 2 | 3741 | IS | 232 | AFRINIC | ZA | https://www.peeringdb.com/asn/3741
