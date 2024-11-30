@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2648",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2641",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "24",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "868",
+        "Filtered prefixes @ https://alice-rs.linx.net": "870",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "23",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "191",
+        "Filtered prefixes @ https://alice-rs.linx.net": "179",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "5",
@@ -63,6 +63,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/211501"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "32",
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
+        "AS Rank": "274",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "30",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
@@ -79,15 +88,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/16164"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "30",
-        "ASN": "57344",
-        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
-        "AS Rank": "274",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "22",
@@ -349,15 +349,6 @@
         "Source": "RIPE",
         "Country": "AG",
         "PeeringDB link": "https://www.peeringdb.com/asn/31500"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "37273",
-        "AS-NAME": "BCS",
-        "AS Rank": "903",
-        "Source": "AFRINIC",
-        "Country": "UG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37273"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -784,6 +775,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "20562",
+        "AS-NAME": "OPEN-PEERING-AS - Broadband Hosting B.V.",
+        "AS Rank": "110",
+        "Source": "RIPE",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20562"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "23764",
         "AS-NAME": "CTGNET CTGNet",
         "AS Rank": "49",
@@ -826,6 +826,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37100"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "37273",
+        "AS-NAME": "BCS",
+        "AS Rank": "903",
+        "Source": "AFRINIC",
+        "Country": "UG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37273"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
