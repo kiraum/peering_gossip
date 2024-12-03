@@ -76,5 +76,5 @@ uv==0.4.10
     # via peering-gossip (pyproject.toml)
 yamllint==1.35.1
     # via peering-gossip (pyproject.toml)
-yarl==1.11.1
+yarl==1.18.3
     # via aiohttp
