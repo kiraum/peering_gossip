@@ -18,7 +18,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade uv
-        uv pip install --system --break-system-packages black flake8 pylint ruff requests aiohttp backoff pyyaml
+        uv pip install --system --break-system-packages -r requirements.txt
     - name: Analysing the code format with black
       run: |
         black $(git ls-files '*.py') --check --verbose --diff --color
