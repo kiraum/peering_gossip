@@ -1,12 +1,21 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1666",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1702",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "69",
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "831",
+        "ASN": "328092",
+        "AS-NAME": "SUD-TELCOM-AS",
+        "AS Rank": "5621",
+        "Source": "AFRINIC",
+        "Country": "BJ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "268",
@@ -18,22 +27,40 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "180",
+        "Filtered prefixes @ https://lg.ams-ix.net": "179",
         "ASN": "134548",
-        "AS-NAME": "NA",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5644",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "44",
+        "Filtered prefixes @ https://lg.ams-ix.net": "58",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "42",
+        "ASN": "329099",
+        "AS-NAME": "MITL1-AS",
+        "AS Rank": "48009",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/329099"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "36",
+        "ASN": "16637",
+        "AS-NAME": "MTNNS-AS",
+        "AS Rank": "271",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
@@ -45,6 +72,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/17408"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "26",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "106",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "18",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
@@ -54,15 +90,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "14",
-        "ASN": "136342",
-        "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
-        "AS Rank": "9581",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136342"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
@@ -70,6 +97,15 @@
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "10",
+        "ASN": "136342",
+        "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
+        "AS Rank": "9581",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136342"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "8",
@@ -101,7 +137,7 @@
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "55352",
-        "AS-NAME": "MCPL-IN Microscan Infocommtech Private Limited",
+        "AS-NAME": "FIVENET-IN Microscan Internet Limited",
         "AS Rank": "726",
         "Source": "APNIC",
         "Country": "IN",
@@ -115,15 +151,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP Viettel Group",
-        "AS Rank": "209",
-        "Source": "APNIC",
-        "Country": "VN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -142,6 +169,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/36351"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "54994",
+        "AS-NAME": "ML-1432-54994",
+        "AS Rank": "3221",
+        "Source": "ARIN",
+        "Country": "CA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/54994"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -190,6 +226,51 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "29091",
+        "AS-NAME": "IPNXng",
+        "AS Rank": "2029",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37030",
+        "AS-NAME": "Airtel-Ghana",
+        "AS Rank": "6153",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37030"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37347",
+        "AS-NAME": "NGCOM",
+        "AS Rank": "18470",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37347"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "15802",
+        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
+        "AS Rank": "671",
+        "Source": "RIPE",
+        "Country": "AE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "36902",
+        "AS-NAME": "ASINTELVISION",
+        "AS Rank": "5992",
+        "Source": "AFRINIC",
+        "Country": "SC",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
         "ASN": "151101",
         "AS-NAME": "SPHATIKNP-AS-IN Sphatik Network Private Limited",
         "AS Rank": "11186",
