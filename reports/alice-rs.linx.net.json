@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2542",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2541",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "27",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3216"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "892",
+        "Filtered prefixes @ https://alice-rs.linx.net": "890",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "175",
+        "Filtered prefixes @ https://alice-rs.linx.net": "183",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "38",
+        "Filtered prefixes @ https://alice-rs.linx.net": "40",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "143",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "34",
+        "Filtered prefixes @ https://alice-rs.linx.net": "36",
         "ASN": "57344",
         "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
         "AS Rank": "280",
@@ -88,6 +88,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/16164"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "22",
+        "ASN": "33763",
+        "AS-NAME": "Paratus",
+        "AS Rank": "618",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
@@ -154,30 +163,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "16",
-        "ASN": "6204",
-        "AS-NAME": "ZET-NET - INTERKVM HOST SRL",
-        "AS Rank": "214",
-        "Source": "RIPE",
-        "Country": "RO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6204"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "271",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "16",
-        "ASN": "33763",
-        "AS-NAME": "Paratus",
-        "AS Rank": "618",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
@@ -487,15 +478,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "8220",
-        "AS-NAME": "COLT - COLT Technology Services Group Limited",
-        "AS Rank": "45",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8220"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "92",
@@ -649,12 +631,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "5405",
-        "AS-NAME": "INTERDOTLINK - Inter.link GmbH",
-        "AS Rank": "66",
+        "ASN": "6204",
+        "AS-NAME": "ZET-NET - INTERKVM HOST SRL",
+        "AS Rank": "214",
         "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/5405"
+        "Country": "RO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6204"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -664,6 +646,15 @@
         "Source": "RIPE",
         "Country": "CY",
         "PeeringDB link": "https://www.peeringdb.com/asn/6866"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "8220",
+        "AS-NAME": "COLT - COLT Technology Services Group Limited",
+        "AS Rank": "45",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8220"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
