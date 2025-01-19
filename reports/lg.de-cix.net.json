@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "507088",
+        "Filtered prefixes @ https://lg.de-cix.net": "506016",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "160230",
+        "Filtered prefixes @ https://lg.de-cix.net": "160587",
         "ASN": "6762",
         "AS-NAME": "SEABONE-NET - TELECOM ITALIA SPARKLE S.p.A.",
         "AS Rank": "6",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6762"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "52152",
+        "Filtered prefixes @ https://lg.de-cix.net": "51930",
         "ASN": "49028",
         "AS-NAME": "D-LAKE - D-LAKE SAS",
         "AS Rank": "2652",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/49028"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "19498",
+        "Filtered prefixes @ https://lg.de-cix.net": "19458",
         "ASN": "18403",
         "AS-NAME": "FPT-AS-AP FPT Telecom Company",
         "AS Rank": "171",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18403"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "14482",
+        "Filtered prefixes @ https://lg.de-cix.net": "14492",
         "ASN": "2914",
         "AS-NAME": "NTT-LTD-2914",
         "AS Rank": "5",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2914"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "13887",
+        "Filtered prefixes @ https://lg.de-cix.net": "13896",
         "ASN": "12956",
         "AS-NAME": "TELXIUS - TELEFONICA GLOBAL SOLUTIONS SL",
         "AS Rank": "16",
@@ -54,13 +54,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/12956"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "12718",
+        "Filtered prefixes @ https://lg.de-cix.net": "12770",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "3374",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
+        "AS Rank": "87",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "3280",
@@ -72,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4134"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "3174",
+        "Filtered prefixes @ https://lg.de-cix.net": "2956",
         "ASN": "6461",
         "AS-NAME": "ZAYO-6461",
         "AS Rank": "8",
@@ -81,16 +90,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6461"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "3162",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "87",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "2526",
+        "Filtered prefixes @ https://lg.de-cix.net": "2694",
         "ASN": "24482",
         "AS-NAME": "SGGS-AS-AP SG.GS",
         "AS Rank": "97",
@@ -108,16 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35280"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "2240",
-        "ASN": "262589",
-        "AS-NAME": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "AS Rank": "49",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/262589"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "2238",
+        "Filtered prefixes @ https://lg.de-cix.net": "2270",
         "ASN": "45489",
         "AS-NAME": "SLT-GLOBAL Sri Lanka Telecom PLC",
         "AS Rank": "607",
@@ -126,16 +117,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45489"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "2116",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "21",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+        "Filtered prefixes @ https://lg.de-cix.net": "2236",
+        "ASN": "262589",
+        "AS-NAME": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
+        "AS Rank": "49",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/262589"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "2090",
+        "Filtered prefixes @ https://lg.de-cix.net": "2130",
         "ASN": "64049",
         "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
         "AS Rank": "63",
@@ -144,7 +135,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1992",
+        "Filtered prefixes @ https://lg.de-cix.net": "2080",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "21",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "2000",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
         "AS Rank": "83",
@@ -162,7 +162,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1670",
+        "Filtered prefixes @ https://lg.de-cix.net": "1676",
         "ASN": "4788",
         "AS-NAME": "TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD.",
         "AS Rank": "117",
@@ -180,7 +180,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3786"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1546",
+        "Filtered prefixes @ https://lg.de-cix.net": "1550",
         "ASN": "58453",
         "AS-NAME": "CMI-INT-HK China Mobile International Limited",
         "AS Rank": "36",
@@ -189,7 +189,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1496",
+        "Filtered prefixes @ https://lg.de-cix.net": "1461",
         "ASN": "52320",
         "AS-NAME": "GlobeNet Cabos Submarinos Colombia",
         "AS Rank": "25",
@@ -207,7 +207,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6774"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1293",
+        "Filtered prefixes @ https://lg.de-cix.net": "1303",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "143",
@@ -216,7 +216,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1144",
+        "Filtered prefixes @ https://lg.de-cix.net": "1104",
         "ASN": "23764",
         "AS-NAME": "CTGNET CTGNet",
         "AS Rank": "47",
@@ -225,7 +225,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/23764"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "1060",
+        "Filtered prefixes @ https://lg.de-cix.net": "1090",
         "ASN": "9002",
         "AS-NAME": "RETN-AS - RETN Limited",
         "AS Rank": "13",
@@ -234,7 +234,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9002"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "994",
+        "Filtered prefixes @ https://lg.de-cix.net": "1050",
         "ASN": "17557",
         "AS-NAME": "PKTELECOM-AS-PK Pakistan Telecommunication Company Limited",
         "AS Rank": "232",
@@ -243,7 +243,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/17557"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "980",
+        "Filtered prefixes @ https://lg.de-cix.net": "988",
         "ASN": "58299",
         "AS-NAME": "OPENFACTORY-AS - Openfactory GmbH",
         "AS Rank": "650",
@@ -261,7 +261,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/15830"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "890",
+        "Filtered prefixes @ https://lg.de-cix.net": "888",
         "ASN": "20473",
         "AS-NAME": "AS-VULTR",
         "AS Rank": "105",
@@ -279,7 +279,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/1828"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "848",
+        "Filtered prefixes @ https://lg.de-cix.net": "825",
         "ASN": "8551",
         "AS-NAME": "BEZEQ-INTERNATIONAL-AS - Bezeq International Ltd.",
         "AS Rank": "277",
@@ -306,7 +306,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/13194"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "766",
+        "Filtered prefixes @ https://lg.de-cix.net": "778",
+        "ASN": "43727",
+        "AS-NAME": "KVANT-TELECOM - JSC KVANT-TELEKOM",
+        "AS Rank": "134",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/43727"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "772",
         "ASN": "7049",
         "AS-NAME": "Silica Networks Argentina S.A.",
         "AS Rank": "153",
@@ -322,15 +331,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "738",
-        "ASN": "43727",
-        "AS-NAME": "KVANT-TELECOM - JSC KVANT-TELEKOM",
-        "AS Rank": "134",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/43727"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "730",
@@ -351,7 +351,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8881"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "655",
+        "Filtered prefixes @ https://lg.de-cix.net": "656",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "92",
@@ -378,13 +378,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35753"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "578",
-        "ASN": "201053",
-        "AS-NAME": "EPIX-TRANSIT-AS - Stowarzyszenie e-Poludnie",
-        "AS Rank": "141",
+        "Filtered prefixes @ https://lg.de-cix.net": "602",
+        "ASN": "16276",
+        "AS-NAME": "OVH - OVH SAS",
+        "AS Rank": "557",
         "Source": "RIPE",
-        "Country": "PL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/201053"
+        "Country": "FR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16276"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "572",
@@ -396,13 +396,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/5713"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "560",
-        "ASN": "16276",
-        "AS-NAME": "OVH - OVH SAS",
-        "AS Rank": "557",
+        "Filtered prefixes @ https://lg.de-cix.net": "552",
+        "ASN": "201053",
+        "AS-NAME": "EPIX-TRANSIT-AS - Stowarzyszenie e-Poludnie",
+        "AS Rank": "141",
         "Source": "RIPE",
-        "Country": "FR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16276"
+        "Country": "PL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/201053"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "498",
@@ -459,7 +459,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "423",
+        "Filtered prefixes @ https://lg.de-cix.net": "422",
         "ASN": "202766",
         "AS-NAME": "AS-CODINET - LYNTIA NETWORKS S.A.",
         "AS Rank": "584",
@@ -468,7 +468,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/202766"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "410",
+        "Filtered prefixes @ https://lg.de-cix.net": "418",
+        "ASN": "49666",
+        "AS-NAME": "TIC-GW-AS - Telecommunication Infrastructure Company",
+        "AS Rank": "132",
+        "Source": "RIPE",
+        "Country": "IR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/49666"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "414",
         "ASN": "140951",
         "AS-NAME": "IPTP IPTP Networks",
         "AS Rank": "703",
@@ -504,7 +513,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35297"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "356",
+        "Filtered prefixes @ https://lg.de-cix.net": "352",
         "ASN": "20485",
         "AS-NAME": "TRANSTELECOM - Joint Stock Company TransTeleCom",
         "AS Rank": "35",
@@ -513,7 +522,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20485"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "354",
+        "Filtered prefixes @ https://lg.de-cix.net": "352",
         "ASN": "22356",
         "AS-NAME": "Durand do Brasil Ltda",
         "AS Rank": "82",
@@ -531,13 +540,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/31027"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "350",
-        "ASN": "61832",
-        "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
-        "AS Rank": "67",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/61832"
+        "Filtered prefixes @ https://lg.de-cix.net": "348",
+        "ASN": "8529",
+        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
+        "AS Rank": "90",
+        "Source": "RIPE",
+        "Country": "AE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "348",
@@ -549,6 +558,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/15958"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "347",
+        "ASN": "61832",
+        "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+        "AS Rank": "67",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/61832"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "340",
         "ASN": "60171",
         "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
@@ -558,16 +576,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "333",
-        "ASN": "24748",
-        "AS-NAME": "THINX_POLAND - Atman Sp. z o.o.",
-        "AS Rank": "184",
-        "Source": "RIPE",
-        "Country": "PL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/24748"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "328",
+        "Filtered prefixes @ https://lg.de-cix.net": "338",
         "ASN": "20764",
         "AS-NAME": "RASCOM-AS - CJSC RASCOM",
         "AS Rank": "32",
@@ -594,7 +603,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3209"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "320",
+        "Filtered prefixes @ https://lg.de-cix.net": "316",
         "ASN": "6663",
         "AS-NAME": "TTI-NET - Euroweb Romania S.R.L.",
         "AS Rank": "62",
@@ -648,15 +657,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/12400"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "296",
-        "ASN": "8529",
-        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
-        "AS Rank": "90",
-        "Source": "RIPE",
-        "Country": "AE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
-    },
-    {
         "Filtered prefixes @ https://lg.de-cix.net": "292",
         "ASN": "14840",
         "AS-NAME": "BR.Digital Provider",
@@ -664,6 +664,15 @@
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/14840"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "279",
+        "ASN": "24748",
+        "AS-NAME": "THINX_POLAND - Atman Sp. z o.o.",
+        "AS Rank": "184",
+        "Source": "RIPE",
+        "Country": "PL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/24748"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "274",
@@ -685,15 +694,6 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "252",
-        "ASN": "57344",
-        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
-        "AS Rank": "280",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "250",
         "ASN": "61135",
         "AS-NAME": "COMNET-DATACENTER-ISTANBUL - COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",
         "AS Rank": "369",
@@ -720,6 +720,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/19551"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "244",
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
+        "AS Rank": "280",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "242",
         "ASN": "34984",
         "AS-NAME": "TELLCOM-AS - Superonline Iletisim Hizmetleri A.S.",
@@ -727,6 +736,15 @@
         "Source": "RIPE",
         "Country": "TR",
         "PeeringDB link": "https://www.peeringdb.com/asn/34984"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "242",
+        "ASN": "36994",
+        "AS-NAME": "Vodacom-VB",
+        "AS Rank": "720",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "242",
@@ -745,15 +763,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/35699"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "238",
-        "ASN": "36994",
-        "AS-NAME": "Vodacom-VB",
-        "AS Rank": "720",
-        "Source": "AFRINIC",
-        "Country": "ZA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "236",
@@ -801,6 +810,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/62240"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "218",
+        "ASN": "4230",
+        "AS-NAME": "CLARO S.A.",
+        "AS Rank": "43",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4230"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "213",
         "ASN": "4775",
         "AS-NAME": "GLOBE-TELECOM-AS Globe Telecoms",
@@ -808,15 +826,6 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "208",
-        "ASN": "49666",
-        "AS-NAME": "TIC-GW-AS - Telecommunication Infrastructure Company",
-        "AS Rank": "132",
-        "Source": "RIPE",
-        "Country": "IR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/49666"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "206",
@@ -864,6 +873,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35598"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "186",
+        "ASN": "29049",
+        "AS-NAME": "DELTA-TELECOM-AS - Delta Telecom Ltd",
+        "AS Rank": "160",
+        "Source": "RIPE",
+        "Country": "AZ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29049"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "184",
         "ASN": "200612",
         "AS-NAME": "GULFBRIDGEINTERNATIONAL - Gulf Bridge International Inc.",
@@ -892,21 +910,21 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "176",
+        "ASN": "7195",
+        "AS-NAME": "EDGEUNO S.A.S",
+        "AS Rank": "17",
+        "Source": "LACNIC",
+        "Country": "CO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "176",
         "ASN": "12552",
         "AS-NAME": "IPO-EU - GlobalConnect AB",
         "AS Rank": "144",
         "Source": "RIPE",
         "Country": "SE",
         "PeeringDB link": "https://www.peeringdb.com/asn/12552"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "176",
-        "ASN": "208972",
-        "AS-NAME": "GIBIRNET-TR - GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
-        "AS Rank": "1436",
-        "Source": "RIPE",
-        "Country": "TR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/208972"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "176",
@@ -919,21 +937,12 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "174",
-        "ASN": "29049",
-        "AS-NAME": "DELTA-TELECOM-AS - Delta Telecom Ltd",
-        "AS Rank": "160",
+        "ASN": "208972",
+        "AS-NAME": "GIBIRNET-TR - GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "AS Rank": "1436",
         "Source": "RIPE",
-        "Country": "AZ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29049"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "172",
-        "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "17",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
+        "Country": "TR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/208972"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "170",
@@ -973,15 +982,6 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "162",
-        "ASN": "4230",
-        "AS-NAME": "CLARO S.A.",
-        "AS Rank": "43",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/4230"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "162",
         "ASN": "22652",
         "AS-NAME": "FIBRENOIRE-INTERNET",
         "AS Rank": "420",
@@ -997,24 +997,6 @@
         "Source": "RIPE",
         "Country": "LT",
         "PeeringDB link": "https://www.peeringdb.com/asn/33922"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "158",
-        "ASN": "38193",
-        "AS-NAME": "TWA-AS-AP Transworld Associates Pvt. Ltd.",
-        "AS Rank": "219",
-        "Source": "APNIC",
-        "Country": "PK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/38193"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "158",
-        "ASN": "23947",
-        "AS-NAME": "MORATELINDONAP-AS-ID PT.Mora Telematika Indonesia",
-        "AS Rank": "138",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/23947"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "158",
@@ -1035,6 +1017,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/12912"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "156",
+        "ASN": "23947",
+        "AS-NAME": "MORATELINDONAP-AS-ID PT.Mora Telematika Indonesia",
+        "AS Rank": "138",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/23947"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "154",
         "ASN": "9050",
         "AS-NAME": "RTD - Orange Romania S.A.",
@@ -1051,6 +1042,15 @@
         "Source": "RIPE",
         "Country": "SI",
         "PeeringDB link": "https://www.peeringdb.com/asn/62255"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "152",
+        "ASN": "38193",
+        "AS-NAME": "TWA-AS-AP Transworld Associates Pvt. Ltd.",
+        "AS Rank": "219",
+        "Source": "APNIC",
+        "Country": "PK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38193"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "152",
@@ -1089,15 +1089,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8220"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "142",
-        "ASN": "30990",
-        "AS-NAME": "ADJIB-AS",
-        "AS Rank": "732",
-        "Source": "AFRINIC",
-        "Country": "DJ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/30990"
-    },
-    {
         "Filtered prefixes @ https://lg.de-cix.net": "140",
         "ASN": "25091",
         "AS-NAME": "IP-MAX - IP-Max SA",
@@ -1105,6 +1096,15 @@
         "Source": "RIPE",
         "Country": "CH",
         "PeeringDB link": "https://www.peeringdb.com/asn/25091"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "138",
+        "ASN": "30990",
+        "AS-NAME": "ADJIB-AS",
+        "AS Rank": "732",
+        "Source": "AFRINIC",
+        "Country": "DJ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/30990"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "136",
@@ -1143,6 +1143,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/38158"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "132",
+        "ASN": "37613",
+        "AS-NAME": "Dolphin-Telecom-AS",
+        "AS Rank": "358",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37613"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "130",
         "ASN": "32787",
         "AS-NAME": "PROLEXIC-TECHNOLOGIES-DDOS-MITIGATION-NETWORK",
@@ -1153,12 +1162,12 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "130",
-        "ASN": "37613",
-        "AS-NAME": "Dolphin-Telecom-AS",
-        "AS Rank": "358",
+        "ASN": "36873",
+        "AS-NAME": "VNL1-AS",
+        "AS Rank": "1202",
         "Source": "AFRINIC",
-        "Country": "GH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37613"
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36873"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "126",
@@ -1195,24 +1204,6 @@
         "Source": "RIPE",
         "Country": "FR",
         "PeeringDB link": "https://www.peeringdb.com/asn/8309"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "116",
-        "ASN": "36873",
-        "AS-NAME": "VNL1-AS",
-        "AS Rank": "1202",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/36873"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "113",
-        "ASN": "13237",
-        "AS-NAME": "LAMBDANET-AS - euNetworks GmbH",
-        "AS Rank": "179",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/13237"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "112",
@@ -1260,6 +1251,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3255"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "108",
+        "ASN": "13237",
+        "AS-NAME": "LAMBDANET-AS - euNetworks GmbH",
+        "AS Rank": "179",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/13237"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "107",
         "ASN": "61157",
         "AS-NAME": "PLUSSERVER-ASN1 - PlusServer GmbH",
@@ -1276,15 +1276,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/13536"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "104",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "28587",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "103",
@@ -1321,6 +1312,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/33353"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "100",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28587",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "98",
@@ -1404,6 +1404,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/32097"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "85",
+        "ASN": "28598",
+        "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+        "AS Rank": "162",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/28598"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "84",
         "ASN": "12578",
         "AS-NAME": "APOLLO-AS - SIA Tet",
@@ -1420,15 +1429,6 @@
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/8866"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "82",
-        "ASN": "28598",
-        "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
-        "AS Rank": "162",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28598"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "82",
@@ -1636,6 +1636,15 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/13054"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "60",
+        "ASN": "29691",
+        "AS-NAME": "NINE - Nine Internet Solutions AG",
+        "AS Rank": "1302",
+        "Source": "RIPE",
+        "Country": "CH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29691"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "60",
@@ -1917,6 +1926,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/12200"
     },
     {
+        "Filtered prefixes @ https://lg.de-cix.net": "42",
+        "ASN": "9381",
+        "AS-NAME": "HKBNES-AS-AP HKBN Enterprise Solutions HK Limited",
+        "AS Rank": "526",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9381"
+    },
+    {
         "Filtered prefixes @ https://lg.de-cix.net": "40",
         "ASN": "15695",
         "AS-NAME": "EXPEREO - Expereo International BV",
@@ -1969,15 +1987,6 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/8641"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "38",
-        "ASN": "9381",
-        "AS-NAME": "HKBNES-AS-AP HKBN Enterprise Solutions HK Limited",
-        "AS Rank": "526",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9381"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "38",
@@ -2059,6 +2068,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/22645"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "38",
+        "ASN": "40317",
+        "AS-NAME": "PEOPLESCOMMUNICATIONS",
+        "AS Rank": "2746",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/40317"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "37",
@@ -2143,6 +2161,24 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "34",
+        "ASN": "6204",
+        "AS-NAME": "ZET-NET - INTERKVM HOST SRL",
+        "AS Rank": "214",
+        "Source": "RIPE",
+        "Country": "RO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6204"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "34",
+        "ASN": "8717",
+        "AS-NAME": "A1BG - A1 Bulgaria EAD",
+        "AS Rank": "253",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8717"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "34",
         "ASN": "20940",
         "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
         "AS Rank": "1883",
@@ -2158,42 +2194,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/33891"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "34",
-        "ASN": "38040",
-        "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
-        "AS Rank": "753",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/38040"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "34",
-        "ASN": "199524",
-        "AS-NAME": "GCORE - G-Core Labs S.A.",
-        "AS Rank": "290",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "33",
-        "ASN": "210021",
-        "AS-NAME": "DIL - DIL Technology Limited",
-        "AS Rank": "1528",
-        "Source": "RIPE",
-        "Country": "IQ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/210021"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "32",
-        "ASN": "6204",
-        "AS-NAME": "ZET-NET - INTERKVM HOST SRL",
-        "AS Rank": "214",
-        "Source": "RIPE",
-        "Country": "RO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6204"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "32",
@@ -2224,6 +2224,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "32",
+        "ASN": "38040",
+        "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
+        "AS Rank": "753",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38040"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "32",
         "ASN": "41327",
         "AS-NAME": "FIBERTELECOM-AS - Fiber Telecom S.p.A.",
         "AS Rank": "275",
@@ -2250,15 +2259,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/51375"
     },
     {
-        "Filtered prefixes @ https://lg.de-cix.net": "32",
-        "ASN": "58057",
-        "AS-NAME": "SECUREBIT - Securebit AG",
-        "AS Rank": "1264",
-        "Source": "RIPE",
-        "Country": "CH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58057"
-    },
-    {
         "Filtered prefixes @ https://lg.de-cix.net": "30",
         "ASN": "6775",
         "AS-NAME": "FINK-TELECOM-SERVICES - Andreas Fink trading as Fink Telecom Services GmbH",
@@ -2275,6 +2275,15 @@
         "Source": "RIPE",
         "Country": "CH",
         "PeeringDB link": "https://www.peeringdb.com/asn/8758"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "30",
+        "ASN": "8926",
+        "AS-NAME": "MOLDTELECOM-AS - Moldtelecom SA",
+        "AS Rank": "763",
+        "Source": "RIPE",
+        "Country": "MD",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8926"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "30",
@@ -2311,6 +2320,33 @@
         "Source": "RIPE",
         "Country": "BY",
         "PeeringDB link": "https://www.peeringdb.com/asn/60280"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "30",
+        "ASN": "199524",
+        "AS-NAME": "GCORE - G-Core Labs S.A.",
+        "AS Rank": "290",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "30",
+        "ASN": "60446",
+        "AS-NAME": "DATEMA - Datema Bilisim Ticaret Anonim Sirketi",
+        "AS Rank": "1265",
+        "Source": "RIPE",
+        "Country": "TR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60446"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "30",
+        "ASN": "210021",
+        "AS-NAME": "DIL - DIL Technology Limited",
+        "AS Rank": "1528",
+        "Source": "RIPE",
+        "Country": "IQ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/210021"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "30",
@@ -2359,15 +2395,6 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "28",
-        "ASN": "60446",
-        "AS-NAME": "DATEMA - Datema Bilisim Ticaret Anonim Sirketi",
-        "AS Rank": "1265",
-        "Source": "RIPE",
-        "Country": "TR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60446"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "28",
         "ASN": "60924",
         "AS-NAME": "ORIXCOM - Orixcom Limited",
         "AS Rank": "4832",
@@ -2383,24 +2410,6 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/2854"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "26",
-        "ASN": "8717",
-        "AS-NAME": "A1BG - A1 Bulgaria EAD",
-        "AS Rank": "253",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8717"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "26",
-        "ASN": "8926",
-        "AS-NAME": "MOLDTELECOM-AS - Moldtelecom SA",
-        "AS Rank": "763",
-        "Source": "RIPE",
-        "Country": "MD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8926"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "26",
@@ -2431,12 +2440,39 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "26",
+        "ASN": "34927",
+        "AS-NAME": "IFOG-GMBH - iFog GmbH",
+        "AS Rank": "319",
+        "Source": "RIPE",
+        "Country": "CH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/34927"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "26",
+        "ASN": "58057",
+        "AS-NAME": "SECUREBIT - Securebit AG",
+        "AS Rank": "1264",
+        "Source": "RIPE",
+        "Country": "CH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58057"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "26",
         "ASN": "196925",
         "AS-NAME": "AZRT-AS - AZERTELECOM LLC",
         "AS Rank": "767",
         "Source": "RIPE",
         "Country": "AZ",
         "PeeringDB link": "https://www.peeringdb.com/asn/196925"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "24",
+        "ASN": "5606",
+        "AS-NAME": "GTS-BACKBONE - GTS Telecom SRL",
+        "AS Rank": "428",
+        "Source": "RIPE",
+        "Country": "RO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/5606"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "24",
@@ -2575,6 +2611,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "22",
+        "ASN": "47787",
+        "AS-NAME": "EDGOO - EDGOO NETWORKS UNIPESSOAL LDA",
+        "AS Rank": "1736",
+        "Source": "RIPE",
+        "Country": "PT",
+        "PeeringDB link": "https://www.peeringdb.com/asn/47787"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "22",
         "ASN": "198949",
         "AS-NAME": "RADWARE - Radware Ltd",
         "AS Rank": "296",
@@ -2593,21 +2638,21 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "20",
+        "ASN": "3214",
+        "AS-NAME": "XTOM - xTom GmbH",
+        "AS Rank": "697",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/3214"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "20",
         "ASN": "4637",
         "AS-NAME": "ASN-TELSTRA-GLOBAL Telstra Global",
         "AS Rank": "14",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/4637"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "20",
-        "ASN": "5606",
-        "AS-NAME": "GTS-BACKBONE - GTS Telecom SRL",
-        "AS Rank": "428",
-        "Source": "RIPE",
-        "Country": "RO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/5606"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "20",
@@ -2674,30 +2719,12 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "20",
-        "ASN": "61955",
-        "AS-NAME": "COLOCATIONIX-AS - ColocationIX GmbH",
-        "AS Rank": "3417",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/61955"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "20",
         "ASN": "211301",
         "AS-NAME": "UNESTY - Collin Schneeweiss trading as Unesty Company",
         "AS Rank": "4590",
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/211301"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "20",
-        "ASN": "40317",
-        "AS-NAME": "PEOPLESCOMMUNICATIONS",
-        "AS Rank": "2746",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/40317"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "20",
@@ -2734,15 +2761,6 @@
         "Source": "RIPE",
         "Country": "IT",
         "PeeringDB link": "https://www.peeringdb.com/asn/28716"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "18",
-        "ASN": "29691",
-        "AS-NAME": "NINE - Nine Internet Solutions AG",
-        "AS Rank": "1302",
-        "Source": "RIPE",
-        "Country": "CH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29691"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "18",
@@ -2971,24 +2989,6 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "14",
-        "ASN": "54825",
-        "AS-NAME": "PACKET",
-        "AS Rank": "996",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/54825"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "14",
-        "ASN": "153068",
-        "AS-NAME": "NGX-AS-NET Nusantara Global Exchange",
-        "AS Rank": "2866",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/153068"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "14",
         "ASN": "12735",
         "AS-NAME": "ASTURKNET - TurkNet Iletisim Hizmetleri A.S.",
         "AS Rank": "356",
@@ -3004,6 +3004,24 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/16164"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "14",
+        "ASN": "34615",
+        "AS-NAME": "UNIVERSAL-EXPORTS - Andrew Vieyra",
+        "AS Rank": "44468",
+        "Source": "RIPE",
+        "Country": "CH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/34615"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "14",
+        "ASN": "57118",
+        "AS-NAME": "COMMUNITYRACK - CommunityRack.org Verein",
+        "AS Rank": "3504",
+        "Source": "RIPE",
+        "Country": "CH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57118"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "13",
@@ -3076,15 +3094,6 @@
         "Source": "RIPE",
         "Country": "IT",
         "PeeringDB link": "https://www.peeringdb.com/asn/31638"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "12",
-        "ASN": "34927",
-        "AS-NAME": "IFOG-GMBH - iFog GmbH",
-        "AS Rank": "319",
-        "Source": "RIPE",
-        "Country": "CH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/34927"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "12",
@@ -3286,6 +3295,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "10",
+        "ASN": "153068",
+        "AS-NAME": "NGX-AS-NET Nusantara Global Exchange",
+        "AS Rank": "2866",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/153068"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "10",
         "ASN": "32035",
         "AS-NAME": "CCDT-AS",
         "AS Rank": "5806",
@@ -3439,6 +3457,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "8",
+        "ASN": "8764",
+        "AS-NAME": "TELIA-LIETUVA - Telia Lietuva, AB",
+        "AS Rank": "450",
+        "Source": "RIPE",
+        "Country": "LT",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8764"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "8",
         "ASN": "8823",
         "AS-NAME": "AUTONOMOUSSYSTEMROCKENSTEINAG - Rockenstein AG",
         "AS Rank": "4808",
@@ -3547,6 +3574,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "8",
+        "ASN": "54825",
+        "AS-NAME": "PACKET",
+        "AS Rank": "996",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/54825"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "8",
         "ASN": "55329",
         "AS-NAME": "TELCOTECH-KH Telcotech Ltd.",
         "AS Rank": "1132",
@@ -3580,6 +3616,15 @@
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/60051"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "8",
+        "ASN": "61955",
+        "AS-NAME": "COLOCATIONIX-AS - ColocationIX GmbH",
+        "AS Rank": "3417",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/61955"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "8",
@@ -3697,15 +3742,6 @@
         "Source": "RIPE",
         "Country": "CH",
         "PeeringDB link": "https://www.peeringdb.com/asn/31424"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "7",
-        "ASN": "212330",
-        "AS-NAME": "IRAQIXP - Civilisation Information Technology, communication and internet services Co., LTD",
-        "AS Rank": "681",
-        "Source": "RIPE",
-        "Country": "IQ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/212330"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "6",
@@ -4024,6 +4060,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "6",
+        "ASN": "212330",
+        "AS-NAME": "IRAQIXP - Civilisation Information Technology, communication and internet services Co., LTD",
+        "AS Rank": "681",
+        "Source": "RIPE",
+        "Country": "IQ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/212330"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "6",
         "ASN": "6772",
         "AS-NAME": "IMPNET-AS - ImproWare AG",
         "AS Rank": "2269",
@@ -4294,6 +4339,15 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "4",
+        "ASN": "49581",
+        "AS-NAME": "FERDINANDZINK - Ferdinand Zink trading as Tube-Hosting",
+        "AS Rank": "696",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/49581"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "4",
         "ASN": "49800",
         "AS-NAME": "GNC-ALFA - GNC-Alfa CJSC",
         "AS Rank": "575",
@@ -4543,6 +4597,15 @@
         "Source": "RIPE",
         "Country": "FR",
         "PeeringDB link": "https://www.peeringdb.com/asn/8399"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "4",
+        "ASN": "210350",
+        "AS-NAME": "CIVICOS - Civicos Networking, S.L.U.",
+        "AS Rank": "58648",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/210350"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "4",
@@ -4807,15 +4870,6 @@
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "2",
-        "ASN": "10075",
-        "AS-NAME": "FGL-AS-BD Fiber@Home Global Limited",
-        "AS Rank": "116",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/10075"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "2",
         "ASN": "12189",
         "AS-NAME": "AS12189",
         "AS Rank": "689",
@@ -4975,6 +5029,15 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/41998"
+    },
+    {
+        "Filtered prefixes @ https://lg.de-cix.net": "2",
+        "ASN": "44486",
+        "AS-NAME": "SYNLINQ - Oliver Horscht is trading as \"SYNLINQ\"",
+        "AS Rank": "2159",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/44486"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "2",
@@ -5290,15 +5353,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/209835"
-    },
-    {
-        "Filtered prefixes @ https://lg.de-cix.net": "2",
-        "ASN": "210350",
-        "AS-NAME": "CIVICOS - Civicos Networking, S.L.U.",
-        "AS Rank": "58648",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/210350"
     },
     {
         "Filtered prefixes @ https://lg.de-cix.net": "2",
