@@ -1,13 +1,13 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-2541 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 27 | RIPE | RU | https://www.peeringdb.com/asn/3216
-890 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 22 | APNIC | IN | https://www.peeringdb.com/asn/9498
+2540 | 3216 | SOVAM-AS - PJSC "Vimpelcom" | 27 | RIPE | RU | https://www.peeringdb.com/asn/3216
+896 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 22 | APNIC | IN | https://www.peeringdb.com/asn/9498
 634 | 60439 | SERVERNET-AS - SERVERNET INTERNET LIMITED | 9552 | RIPE | GB | https://www.peeringdb.com/asn/60439
 523 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 295 | RIPE | SA | https://www.peeringdb.com/asn/39386
 183 | 6939 | HURRICANE | 7 | ARIN | US | https://www.peeringdb.com/asn/6939
 147 | 36994 | Vodacom-VB | 720 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 64 | 2018 | TENET-1 | 3187 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
 40 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 143 | RIPE | GB | https://www.peeringdb.com/asn/30844
-36 | 57344 | TELEHOUSE-AS - Telehouse EAD | 280 | RIPE | BG | https://www.peeringdb.com/asn/57344
+34 | 57344 | TELEHOUSE-AS - Telehouse EAD | 280 | RIPE | BG | https://www.peeringdb.com/asn/57344
 30 | 16164 | SOHONET-AS - Sohonet Limited | 2579 | RIPE | GB | https://www.peeringdb.com/asn/16164
 22 | 33763 | Paratus | 618 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
 20 | 1031 | PEER1-1031 | 42 | ARIN | US | https://www.peeringdb.com/asn/1031
@@ -22,6 +22,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 15 | 21859 | ZEN-ECN | 203 | ARIN | US | https://www.peeringdb.com/asn/21859
 14 | 29119 | SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL | 174 | RIPE | ES | https://www.peeringdb.com/asn/29119
 14 | 44735 | SIP-ASN - Nova hf | 950 | RIPE | IS | https://www.peeringdb.com/asn/44735
+13 | 57463 | NETIX - NetIX Communications JSC | 77721 | RIPE | BG | https://www.peeringdb.com/asn/57463
 12 | 20804 | ASN-TELENERGO - Exatel S.A. | 125 | RIPE | PL | https://www.peeringdb.com/asn/20804
 12 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 60 | RIPE | GB | https://www.peeringdb.com/asn/15412
 10 | 4651 | THAI-GATEWAY The Communications Authority of ThailandCAT | 199 | APNIC | TH | https://www.peeringdb.com/asn/4651
@@ -31,7 +32,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 10 | 37678 | BOFINET | 1526 | AFRINIC | BW | https://www.peeringdb.com/asn/37678
 10 | 38880 | M21-AS-AP Micron21 Datacentre Pty Ltd | 2438 | APNIC | AU | https://www.peeringdb.com/asn/38880
 10 | 44356 | EPSILON - Epsilon Telecommunications Ltd | 1491 | RIPE | GB | https://www.peeringdb.com/asn/44356
-10 | 57463 | NETIX - NetIX Communications JSC | 77721 | RIPE | BG | https://www.peeringdb.com/asn/57463
 8 | 3462 | HINET Data Communication Business Group | 394 | APNIC | TW | https://www.peeringdb.com/asn/3462
 8 | 12713 | OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation) | 406 | RIPE | GR | https://www.peeringdb.com/asn/12713
 8 | 37100 | SEACOM-AS | 93 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
@@ -43,6 +43,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 6 | 13237 | LAMBDANET-AS - euNetworks GmbH | 179 | RIPE | DE | https://www.peeringdb.com/asn/13237
 6 | 15802 | DU-AS1 - Emirates Integrated Telecommunications Company PJSC | 671 | RIPE | AE | https://www.peeringdb.com/asn/15802
 6 | 24691 | TOGOTEL-AS | 5669 | RIPE | TG | https://www.peeringdb.com/asn/24691
+6 | 35598 | INETCOM - INETCOM CARRIER LLC | 44 | RIPE | RU | https://www.peeringdb.com/asn/35598
 6 | 36351 | SOFTLAYER | 1805 | ARIN | US | https://www.peeringdb.com/asn/36351
 6 | 37273 | BCS | 892 | AFRINIC | UG | https://www.peeringdb.com/asn/37273
 6 | 49490 | CIRCLENET-AS - Circlenet LLP | 44459 | RIPE | GB | https://www.peeringdb.com/asn/49490
@@ -54,7 +55,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 4 | 6424 | EDGOO - EDGOO NETWORKS UNIPESSOAL LDA | 366 | RIPE | PT | https://www.peeringdb.com/asn/6424
 4 | 9583 | SIFY-AS-IN Sify Limited | 92 | APNIC | IN | https://www.peeringdb.com/asn/9583
 4 | 13037 | ZEN-AS - Zen Internet Ltd | 4670 | RIPE | GB | https://www.peeringdb.com/asn/13037
-4 | 35598 | INETCOM - INETCOM CARRIER LLC | 44 | RIPE | RU | https://www.peeringdb.com/asn/35598
 4 | 37497 | Network-Platforms | 619 | AFRINIC | ZA | https://www.peeringdb.com/asn/37497
 4 | 38182 | EXTREMEBB-AS-MY Extreme Broadband - Total Broadband Experience | 958 | APNIC | MY | https://www.peeringdb.com/asn/38182
 4 | 39180 | LASOTEL - LASOTEL SAS | 1230 | RIPE | FR | https://www.peeringdb.com/asn/39180
