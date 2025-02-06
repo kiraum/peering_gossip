@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1690",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1700",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "69",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "825",
+        "Filtered prefixes @ https://lg.ams-ix.net": "828",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "5591",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "148",
+        "Filtered prefixes @ https://lg.ams-ix.net": "150",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5612",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "50",
+        "Filtered prefixes @ https://lg.ams-ix.net": "58",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -250,5 +250,14 @@
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "36902",
+        "AS-NAME": "ASINTELVISION",
+        "AS Rank": "5970",
+        "Source": "AFRINIC",
+        "Country": "SC",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
     }
 ]
