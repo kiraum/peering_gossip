@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2418",
+        "Filtered prefixes @ https://alice-rs.linx.net": "2414",
         "ASN": "3216",
         "AS-NAME": "SOVAM-AS - PJSC \"Vimpelcom\"",
         "AS Rank": "23",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "66",
+        "Filtered prefixes @ https://alice-rs.linx.net": "72",
         "ASN": "57344",
         "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
         "AS Rank": "280",
@@ -117,7 +117,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "27",
+        "Filtered prefixes @ https://alice-rs.linx.net": "30",
         "ASN": "327814",
         "AS-NAME": "Ecoband",
         "AS Rank": "1525",
@@ -628,6 +628,15 @@
         "Source": "RIPE",
         "Country": "EG",
         "PeeringDB link": "https://www.peeringdb.com/asn/8452"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "8529",
+        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
+        "AS Rank": "83",
+        "Source": "RIPE",
+        "Country": "OM",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
