@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "128",
+        "Filtered prefixes @ https://lg.ams-ix.net": "125",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5612",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "82",
+        "Filtered prefixes @ https://lg.ams-ix.net": "62",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -64,21 +64,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "40",
-        "ASN": "329099",
-        "AS-NAME": "MITL1-AS",
-        "AS Rank": "47989",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/329099"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "32",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "263",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "40",
+        "ASN": "329099",
+        "AS-NAME": "MITL1-AS",
+        "AS Rank": "47989",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "32",
@@ -106,6 +106,15 @@
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "10",
+        "ASN": "136342",
+        "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
+        "AS Rank": "9574",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136342"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
