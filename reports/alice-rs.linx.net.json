@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "39",
+        "Filtered prefixes @ https://alice-rs.linx.net": "41",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "140",
@@ -99,7 +99,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "22",
+        "Filtered prefixes @ https://alice-rs.linx.net": "24",
         "ASN": "37468",
         "AS-NAME": "ANGOLA-CABLES",
         "AS Rank": "21",
@@ -135,6 +135,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/21859"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
+        "ASN": "33763",
+        "AS-NAME": "Paratus",
+        "AS Rank": "589",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
         "ASN": "13213",
         "AS-NAME": "UK2NET-AS - UK-2 Limited",
@@ -151,15 +160,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "33763",
-        "AS-NAME": "Paratus",
-        "AS Rank": "589",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -289,6 +289,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "47631",
+        "AS-NAME": "SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED",
+        "AS Rank": "25182",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/47631"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "49505",
         "AS-NAME": "SELECTEL - JSC Selectel",
         "AS Rank": "2541",
@@ -367,15 +376,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/36351"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "47631",
-        "AS-NAME": "SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED",
-        "AS Rank": "25182",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/47631"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -574,6 +574,15 @@
         "Source": "RIPE",
         "Country": "NO",
         "PeeringDB link": "https://www.peeringdb.com/asn/5377"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "5713",
+        "AS-NAME": "SAIX-NET",
+        "AS Rank": "324",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/5713"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
