@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1378",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1382",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "838",
+        "Filtered prefixes @ https://lg.ams-ix.net": "832",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "5591",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "126",
+        "Filtered prefixes @ https://lg.ams-ix.net": "118",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5612",
@@ -117,15 +117,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "10",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "608",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
         "ASN": "20940",
         "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
@@ -163,12 +154,30 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "608",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
         "AS Rank": "2249",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/29091"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "15802",
+        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
+        "AS Rank": "665",
+        "Source": "RIPE",
+        "Country": "AE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -250,14 +259,5 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37347"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "15802",
-        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
-        "AS Rank": "665",
-        "Source": "RIPE",
-        "Country": "AE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     }
 ]
