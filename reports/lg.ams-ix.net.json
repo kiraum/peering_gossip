@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1706",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1714",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "69",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1378",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1376",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -18,10 +18,10 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "841",
+        "Filtered prefixes @ https://lg.ams-ix.net": "856",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
-        "AS Rank": "5591",
+        "AS Rank": "5664",
         "Source": "AFRINIC",
         "Country": "BJ",
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
@@ -30,16 +30,16 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "268",
         "ASN": "24429",
         "AS-NAME": "TAOBAO Zhejiang Taobao Network Co.",
-        "AS Rank": "3586",
+        "AS Rank": "4747",
         "Source": "APNIC",
         "Country": "CN",
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "122",
+        "Filtered prefixes @ https://lg.ams-ix.net": "118",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "5612",
+        "AS Rank": "5686",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
@@ -57,7 +57,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "60",
         "ASN": "17408",
         "AS-NAME": "ABOVE-AS-AP AboveNet Communications Taiwan",
-        "AS Rank": "512",
+        "AS Rank": "504",
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/17408"
@@ -66,10 +66,19 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "48",
         "ASN": "329099",
         "AS-NAME": "MITL1-AS",
-        "AS Rank": "47989",
+        "AS Rank": "48073",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "40",
+        "ASN": "132116",
+        "AS-NAME": "ANINETWORK-IN Ani Network Pvt Ltd",
+        "AS Rank": "1390",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/132116"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "40",
@@ -102,7 +111,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "12",
         "ASN": "136342",
         "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
-        "AS Rank": "9574",
+        "AS Rank": "9503",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136342"
@@ -145,15 +154,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "132116",
-        "AS-NAME": "ANINETWORK-IN Ani Network Pvt Ltd",
-        "AS Rank": "1390",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/132116"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
         "AS Rank": "608",
@@ -183,7 +183,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "36902",
         "AS-NAME": "ASINTELVISION",
-        "AS Rank": "5970",
+        "AS Rank": "6424",
         "Source": "AFRINIC",
         "Country": "SC",
         "PeeringDB link": "https://www.peeringdb.com/asn/36902"
@@ -228,7 +228,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "133271",
         "AS-NAME": "WILLOPL-AS-IN Willaegis Online Private Limited",
-        "AS Rank": "10133",
+        "AS Rank": "10171",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133271"
@@ -237,7 +237,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "133296",
         "AS-NAME": "WEBWERKS-AS-IN Web Werks India Pvt. Ltd.",
-        "AS Rank": "410",
+        "AS Rank": "377",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133296"
@@ -246,7 +246,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "37030",
         "AS-NAME": "Airtel-Ghana",
-        "AS Rank": "6103",
+        "AS Rank": "6159",
         "Source": "AFRINIC",
         "Country": "GH",
         "PeeringDB link": "https://www.peeringdb.com/asn/37030"
@@ -255,7 +255,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "37347",
         "AS-NAME": "NGCOM",
-        "AS Rank": "18518",
+        "AS Rank": "17762",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37347"
