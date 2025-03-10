@@ -12,13 +12,13 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "1410",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
-        "AS Rank": "99",
+        "AS Rank": "97",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "840",
+        "Filtered prefixes @ https://lg.ams-ix.net": "843",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "5664",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "116",
+        "Filtered prefixes @ https://lg.ams-ix.net": "114",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5686",
@@ -52,15 +52,6 @@
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/17408"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "52",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "7",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "48",
@@ -81,7 +72,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "34",
+        "Filtered prefixes @ https://lg.ams-ix.net": "32",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "7",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "30",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "108",
@@ -115,15 +115,6 @@
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
-        "ASN": "132116",
-        "AS-NAME": "ANINETWORK-IN Ani Network Pvt Ltd",
-        "AS Rank": "1404",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/132116"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
@@ -160,15 +151,6 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/29091"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "15802",
-        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
-        "AS Rank": "638",
-        "Source": "RIPE",
-        "Country": "AE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -250,5 +232,14 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37347"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "15802",
+        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
+        "AS Rank": "638",
+        "Source": "RIPE",
+        "Country": "AE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     }
 ]
