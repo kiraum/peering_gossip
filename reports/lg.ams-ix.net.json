@@ -1,15 +1,15 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1720",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1728",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
-        "AS Rank": "66",
+        "AS Rank": "65",
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1416",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1406",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "97",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "828",
+        "Filtered prefixes @ https://lg.ams-ix.net": "833",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "5647",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "189",
+        "Filtered prefixes @ https://lg.ams-ix.net": "164",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5666",
@@ -54,10 +54,10 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "122",
+        "Filtered prefixes @ https://lg.ams-ix.net": "62",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
-        "AS Rank": "7",
+        "AS Rank": "6",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
@@ -111,7 +111,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
-        "AS Rank": "331",
+        "AS Rank": "302",
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
@@ -126,15 +126,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "28635",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
         "ASN": "20940",
         "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
@@ -144,10 +135,19 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28635",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "55352",
         "AS-NAME": "FIVENET-IN Microscan Internet Limited",
-        "AS Rank": "745",
+        "AS Rank": "760",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
@@ -156,7 +156,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "133271",
         "AS-NAME": "WILLOPL-AS-IN Willaegis Online Private Limited",
-        "AS Rank": "10171",
+        "AS Rank": "10175",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133271"
@@ -174,7 +174,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "7552",
         "AS-NAME": "VIETEL-AS-AP Viettel Group",
-        "AS Rank": "220",
+        "AS Rank": "217",
         "Source": "APNIC",
         "Country": "VN",
         "PeeringDB link": "https://www.peeringdb.com/asn/7552"
@@ -183,7 +183,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
-        "AS Rank": "77",
+        "AS Rank": "79",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
