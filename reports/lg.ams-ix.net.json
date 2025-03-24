@@ -9,10 +9,10 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1410",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1412",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
-        "AS Rank": "97",
+        "AS Rank": "104",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "164",
+        "Filtered prefixes @ https://lg.ams-ix.net": "142",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5666",
@@ -54,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "112",
+        "Filtered prefixes @ https://lg.ams-ix.net": "122",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -135,15 +135,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "28639",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "55352",
         "AS-NAME": "FIVENET-IN Microscan Internet Limited",
@@ -165,10 +156,19 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
-        "AS Rank": "2249",
+        "AS Rank": "2383",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/29091"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28639",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
