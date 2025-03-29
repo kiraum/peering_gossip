@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "829",
+        "Filtered prefixes @ https://lg.ams-ix.net": "833",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "5647",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "138",
+        "Filtered prefixes @ https://lg.ams-ix.net": "148",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5666",
@@ -180,15 +180,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "28639",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "7552",
         "AS-NAME": "VIETEL-AS-AP Viettel Group",
@@ -259,5 +250,14 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37347"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28639",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     }
 ]
