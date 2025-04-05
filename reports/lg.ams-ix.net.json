@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "834",
+        "Filtered prefixes @ https://lg.ams-ix.net": "832",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "5647",
@@ -36,22 +36,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "168",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "5666",
+        "Filtered prefixes @ https://lg.ams-ix.net": "136",
+        "ASN": "4775",
+        "AS-NAME": "GLOBE-TELECOM-AS Globe Telecoms",
+        "AS Rank": "299",
         "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "132",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "6",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+        "Country": "PH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "130",
@@ -63,13 +54,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "126",
-        "ASN": "4775",
-        "AS-NAME": "GLOBE-TELECOM-AS Globe Telecoms",
-        "AS Rank": "299",
+        "Filtered prefixes @ https://lg.ams-ix.net": "122",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "6",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "90",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "5666",
         "Source": "APNIC",
-        "Country": "PH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/4775"
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "60",
@@ -99,6 +99,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "26",
+        "ASN": "18229",
+        "AS-NAME": "CTRLS-AS-IN CtrlS",
+        "AS Rank": "258",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
         "ASN": "136342",
         "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
@@ -106,15 +115,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136342"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "15",
-        "ASN": "18229",
-        "AS-NAME": "CTRLS-AS-IN CtrlS",
-        "AS Rank": "258",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
@@ -126,13 +126,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "10",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "615",
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28639",
         "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -178,6 +178,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133271"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "615",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -268,14 +277,5 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37347"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "28639",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     }
 ]
