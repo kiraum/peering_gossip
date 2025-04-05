@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "780",
+        "Filtered prefixes @ https://alice-rs.linx.net": "782",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "270",
+        "Filtered prefixes @ https://alice-rs.linx.net": "255",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -180,15 +180,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/21859"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "16",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "22",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "29119",
         "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
@@ -196,6 +187,15 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "22",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
@@ -279,6 +279,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1472",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "206078",
         "AS-NAME": "ULTRANETWORKS - UltraNetworks Limited",
@@ -315,22 +324,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/49505"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
         "ASN": "53427",
         "AS-NAME": "TGLOBAL-NETWORKS",
         "AS Rank": "475",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/53427"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1472",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -421,6 +421,24 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/15412"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "7155",
+        "AS-NAME": "VIASAT-SP-BACKBONE",
+        "AS Rank": "5658",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7155"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "12703",
+        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
+        "AS Rank": "1330",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -520,15 +538,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/22925"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "12703",
-        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
-        "AS Rank": "1330",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -721,6 +730,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "35598",
+        "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
+        "AS Rank": "44",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/35598"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "45430",
         "AS-NAME": "SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider",
         "AS Rank": "210",
@@ -790,15 +808,6 @@
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/197790"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "262589",
-        "AS-NAME": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
-        "AS Rank": "54",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/262589"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
