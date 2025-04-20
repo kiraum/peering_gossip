@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "889",
+        "Filtered prefixes @ https://lg.ams-ix.net": "892",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "8998",
@@ -36,15 +36,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "175",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "4053",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "148",
         "ASN": "4775",
         "AS-NAME": "GLOBE-TELECOM-AS Globe Telecoms",
@@ -52,6 +43,15 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "148",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "4053",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "130",
@@ -66,7 +66,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "94",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
-        "AS Rank": "258",
+        "AS Rank": "254",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
@@ -129,7 +129,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
-        "AS Rank": "302",
+        "AS Rank": "279",
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
@@ -138,7 +138,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "615",
+        "AS Rank": "608",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
@@ -174,7 +174,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "55352",
         "AS-NAME": "FIVENET-IN Microscan Internet Limited",
-        "AS Rank": "760",
+        "AS Rank": "800",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
@@ -192,7 +192,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "15802",
         "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
-        "AS Rank": "618",
+        "AS Rank": "605",
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
@@ -210,7 +210,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "7552",
         "AS-NAME": "VIETEL-AS-AP Viettel Group",
-        "AS Rank": "217",
+        "AS Rank": "216",
         "Source": "APNIC",
         "Country": "VN",
         "PeeringDB link": "https://www.peeringdb.com/asn/7552"
@@ -228,7 +228,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "132770",
         "AS-NAME": "GAZON-AS-IN Gazon Communications India Limited",
-        "AS Rank": "484",
+        "AS Rank": "486",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/132770"
@@ -268,14 +268,5 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37347"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "28651",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     }
 ]
