@@ -1,12 +1,13 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
 858 | 7713 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia | 68 | APNIC | ID | https://www.peeringdb.com/asn/7713
 792 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 21 | APNIC | IN | https://www.peeringdb.com/asn/9498
-674 | 60439 | SERVERNET-AS - SERVERNET INTERNET LIMITED | 9163 | RIPE | GB | https://www.peeringdb.com/asn/60439
+678 | 60439 | SERVERNET-AS - SERVERNET INTERNET LIMITED | 9163 | RIPE | GB | https://www.peeringdb.com/asn/60439
 230 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 188 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 298 | RIPE | SA | https://www.peeringdb.com/asn/39386
 138 | 36994 | Vodacom-VB | 722 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 64 | 2018 | TENET-1 | 2940 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
-42 | 1031 | PEER1-1031 | 46 | ARIN | US | https://www.peeringdb.com/asn/1031
+64 | 35598 | INETCOM - INETCOM CARRIER LLC | 41 | RIPE | RU | https://www.peeringdb.com/asn/35598
+40 | 1031 | PEER1-1031 | 46 | ARIN | US | https://www.peeringdb.com/asn/1031
 40 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 144 | RIPE | GB | https://www.peeringdb.com/asn/30844
 30 | 21859 | ZEN-ECN | 178 | ARIN | US | https://www.peeringdb.com/asn/21859
 30 | 327814 | Ecoband | 2588 | AFRINIC | GH | https://www.peeringdb.com/asn/327814
@@ -33,7 +34,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 8 | 12713 | OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation) | 487 | RIPE | GR | https://www.peeringdb.com/asn/12713
 8 | 13122 | MANX-AS - Manx Telecom Trading Ltd | 5906 | RIPE | IM | https://www.peeringdb.com/asn/13122
 8 | 33763 | Paratus | 538 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
-8 | 35598 | INETCOM - INETCOM CARRIER LLC | 41 | RIPE | RU | https://www.peeringdb.com/asn/35598
 8 | 37100 | SEACOM-AS | 101 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
 8 | 47631 | SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED | 25210 | RIPE | GB | https://www.peeringdb.com/asn/47631
 8 | 53427 | TGLOBAL-NETWORKS | 321 | ARIN | US | https://www.peeringdb.com/asn/53427
@@ -41,7 +41,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 6 | 7195 | EDGEUNO S.A.S | 16 | LACNIC | CO | https://www.peeringdb.com/asn/7195
 6 | 9050 | RTD - Orange Romania S.A. | 169 | RIPE | RO | https://www.peeringdb.com/asn/9050
 6 | 9505 | TWGATE-AP Taiwan Internet Gateway | 417 | APNIC | TW | https://www.peeringdb.com/asn/9505
-6 | 13237 | LAMBDANET-AS - euNetworks GmbH | 184 | RIPE | DE | https://www.peeringdb.com/asn/13237
 6 | 15802 | DU-AS1 - Emirates Integrated Telecommunications Company PJSC | 605 | RIPE | AE | https://www.peeringdb.com/asn/15802
 6 | 20804 | ASN-TELENERGO - Exatel S.A. | 123 | RIPE | PL | https://www.peeringdb.com/asn/20804
 6 | 23764 | CTGNET CTGNet | 55 | APNIC | HK | https://www.peeringdb.com/asn/23764
@@ -68,6 +67,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 3 | 20799 | DATANET-AS - Datanet.co.uk Ltd | 5111 | RIPE | GB | https://www.peeringdb.com/asn/20799
 3 | 28792 | PUBLIC-INTERNET - Public Internet Ltd | 19088 | RIPE | GB | https://www.peeringdb.com/asn/28792
 3 | 51561 | AS-ICUK - ICUK Computing Services Limited | 3685 | RIPE | GB | https://www.peeringdb.com/asn/51561
+3 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 44 | RIPE | GB | https://www.peeringdb.com/asn/15412
 2 | 2635 | AUTOMATTIC | 14569 | ARIN | US | https://www.peeringdb.com/asn/2635
 2 | 5377 | MARLINK-EMEA - Marlink AS | 4766 | RIPE | NO | https://www.peeringdb.com/asn/5377
 2 | 5713 | SAIX-NET | 327 | AFRINIC | ZA | https://www.peeringdb.com/asn/5713
@@ -79,16 +79,15 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 8932 | UCOMINT - Ucom CJSC | 554 | RIPE | AM | https://www.peeringdb.com/asn/8932
 2 | 9381 | HKBNES-AS-AP HKBN Enterprise Solutions HK Limited | 525 | APNIC | HK | https://www.peeringdb.com/asn/9381
 2 | 12969 | VODAFONE_ICELAND - Ljosleidarinn ehf | 1542 | RIPE | IS | https://www.peeringdb.com/asn/12969
+2 | 13237 | LAMBDANET-AS - euNetworks GmbH | 184 | RIPE | DE | https://www.peeringdb.com/asn/13237
 2 | 17494 | BTTB-AS-AP Telecom Operator & Internet Service Provider as well | 188 | APNIC | BD | https://www.peeringdb.com/asn/17494
 2 | 19711 | SWAZINET | 2775 | AFRINIC | SZ | https://www.peeringdb.com/asn/19711
 2 | 31500 | GNM-AS - Global Network Management Inc | 76 | RIPE | AG | https://www.peeringdb.com/asn/31500
 2 | 45430 | SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider | 205 | APNIC | TH | https://www.peeringdb.com/asn/45430
 2 | 45437 | RWTS-AS-AP Real World - The Core | 1048 | APNIC | AU | https://www.peeringdb.com/asn/45437
-2 | 48237 | MOBILY-AS - Etihad Etisalat, a joint stock company | 464 | RIPE | SA | https://www.peeringdb.com/asn/48237
 2 | 49600 | NEARIP - NEAR IP, S.L. | 868 | RIPE | ES | https://www.peeringdb.com/asn/49600
 2 | 57344 | TELEHOUSE-AS - Telehouse EAD | 282 | RIPE | BG | https://www.peeringdb.com/asn/57344
 2 | 59624 | KIAE-COMPUTING-AS - National Research Center "Kurchatov Institute" | 2742 | RIPE | RU | https://www.peeringdb.com/asn/59624
 2 | 197790 | AS-ACTUS - Actus S.A. | 3880 | RIPE | PL | https://www.peeringdb.com/asn/197790
 2 | 262589 | SAMM TECNOLOGIA E TELECOMUNICACOES S.A | 49 | LACNIC | BR | https://www.peeringdb.com/asn/262589
 2 | 3741 | IS | 208 | AFRINIC | ZA | https://www.peeringdb.com/asn/3741
-2 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 44 | RIPE | GB | https://www.peeringdb.com/asn/15412
