@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "858",
+        "Filtered prefixes @ https://alice-rs.linx.net": "857",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "68",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "794",
+        "Filtered prefixes @ https://alice-rs.linx.net": "786",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "21",
@@ -63,22 +63,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "62",
+        "Filtered prefixes @ https://alice-rs.linx.net": "64",
         "ASN": "35598",
         "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
         "AS Rank": "41",
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/35598"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "41",
-        "ASN": "30844",
-        "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
-        "AS Rank": "144",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "40",
@@ -88,6 +79,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/1031"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "40",
+        "ASN": "30844",
+        "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
+        "AS Rank": "144",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "30",
@@ -226,15 +226,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "3462",
-        "AS-NAME": "HINET Data Communication Business Group",
-        "AS Rank": "440",
-        "Source": "APNIC",
-        "Country": "TW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/3462"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "20712",
         "AS-NAME": "AS20712 - Andrews & Arnold Ltd",
         "AS Rank": "3256",
@@ -349,15 +340,6 @@
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/9050"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "9505",
-        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
-        "AS Rank": "417",
-        "Source": "APNIC",
-        "Country": "TW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9505"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -559,6 +541,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "328366",
+        "AS-NAME": "FirstnetTechnology-AS",
+        "AS Rank": "5017",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/328366"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "22925",
         "AS-NAME": "ALLIED-TELECOM",
         "AS Rank": "1134",
@@ -745,15 +736,6 @@
         "Source": "RIPE",
         "Country": "AG",
         "PeeringDB link": "https://www.peeringdb.com/asn/31500"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "45430",
-        "AS-NAME": "SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider",
-        "AS Rank": "205",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/45430"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
