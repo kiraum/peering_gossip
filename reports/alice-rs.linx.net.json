@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "786",
+        "Filtered prefixes @ https://alice-rs.linx.net": "780",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "21",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "64",
+        "Filtered prefixes @ https://alice-rs.linx.net": "62",
         "ASN": "35598",
         "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
         "AS Rank": "41",
@@ -163,15 +163,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "23",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN - Nova hf",
         "AS Rank": "971",
@@ -196,6 +187,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "23",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
@@ -223,6 +223,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "3462",
+        "AS-NAME": "HINET Data Communication Business Group",
+        "AS Rank": "440",
+        "Source": "APNIC",
+        "Country": "TW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/3462"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -334,12 +343,30 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "7195",
+        "AS-NAME": "EDGEUNO S.A.S",
+        "AS Rank": "16",
+        "Source": "LACNIC",
+        "Country": "CO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "9050",
         "AS-NAME": "RTD - Orange Romania S.A.",
         "AS Rank": "169",
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/9050"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "9505",
+        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
+        "AS Rank": "417",
+        "Source": "APNIC",
+        "Country": "TW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9505"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -358,15 +385,6 @@
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20804"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "23764",
-        "AS-NAME": "CTGNET CTGNet",
-        "AS Rank": "55",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -541,30 +559,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "328366",
-        "AS-NAME": "FirstnetTechnology-AS",
-        "AS Rank": "5017",
-        "Source": "AFRINIC",
-        "Country": "ZA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/328366"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "22925",
         "AS-NAME": "ALLIED-TELECOM",
         "AS Rank": "1134",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/22925"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "16",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -730,6 +730,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "23764",
+        "AS-NAME": "CTGNET CTGNet",
+        "AS Rank": "55",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "31500",
         "AS-NAME": "GNM-AS - Global Network Management Inc",
         "AS Rank": "76",
@@ -739,12 +748,30 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "45430",
+        "AS-NAME": "SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider",
+        "AS Rank": "205",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/45430"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "45437",
         "AS-NAME": "RWTS-AS-AP Real World - The Core",
         "AS Rank": "1048",
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/45437"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "48237",
+        "AS-NAME": "MOBILY-AS - Etihad Etisalat, a joint stock company",
+        "AS Rank": "464",
+        "Source": "RIPE",
+        "Country": "SA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/48237"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
