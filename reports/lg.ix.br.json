@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ix.br": "27975",
+        "Filtered prefixes @ https://lg.ix.br": "28153",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "6907",
+        "Filtered prefixes @ https://lg.ix.br": "6671",
         "ASN": "16735",
         "AS-NAME": "ALGAR TELECOM SA",
         "AS Rank": "22",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16735"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "2928",
+        "Filtered prefixes @ https://lg.ix.br": "3183",
         "ASN": "14840",
         "AS-NAME": "BR.Digital Provider",
         "AS Rank": "58",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/14840"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "1447",
+        "Filtered prefixes @ https://lg.ix.br": "1407",
         "ASN": "7195",
         "AS-NAME": "EDGEUNO S.A.S",
         "AS Rank": "16",
@@ -39,16 +39,25 @@
         "Filtered prefixes @ https://lg.ix.br": "1189",
         "ASN": "267613",
         "AS-NAME": "ELETRONET S.A.",
-        "AS Rank": "88",
+        "AS Rank": "87",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267613"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "1012",
+        "Filtered prefixes @ https://lg.ix.br": "1142",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031",
+        "AS Rank": "43",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "984",
         "ASN": "61832",
         "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
-        "AS Rank": "62",
+        "AS Rank": "65",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61832"
@@ -63,34 +72,25 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/14868"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "870",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031",
-        "AS Rank": "46",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "864",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "23",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "857",
+        "Filtered prefixes @ https://lg.ix.br": "910",
         "ASN": "52320",
         "AS-NAME": "GlobeNet Cabos Submarinos Colombia",
-        "AS Rank": "26",
+        "AS Rank": "25",
         "Source": "LACNIC",
         "Country": "CO",
         "PeeringDB link": "https://www.peeringdb.com/asn/52320"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "778",
+        "Filtered prefixes @ https://lg.ix.br": "838",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "24",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "765",
         "ASN": "53062",
         "AS-NAME": "ALT",
         "AS Rank": "GGNET TELECOM BACKBONE",
@@ -99,7 +99,7 @@
         "PeeringDB link": "BR"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "704",
+        "Filtered prefixes @ https://lg.ix.br": "683",
         "ASN": "61568",
         "AS-NAME": "ALOO TELECOM - FSF TECNOLOGIA SA",
         "AS Rank": "61",
@@ -108,7 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/61568"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "665",
+        "Filtered prefixes @ https://lg.ix.br": "670",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "21",
@@ -117,16 +117,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "654",
+        "Filtered prefixes @ https://lg.ix.br": "634",
         "ASN": "21574",
         "AS-NAME": "Century Telecom Ltda",
-        "AS Rank": "328",
+        "AS Rank": "326",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/21574"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "621",
+        "Filtered prefixes @ https://lg.ix.br": "604",
         "ASN": "262589",
         "AS-NAME": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
         "AS Rank": "49",
@@ -153,6 +153,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/28329"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "560",
+        "ASN": "269194",
+        "AS-NAME": "ST1 INTERNET",
+        "AS Rank": "276",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/269194"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "540",
         "ASN": "263009",
         "AS-NAME": "FORTE TELECOM LTDA.",
@@ -162,16 +171,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/263009"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "528",
-        "ASN": "269194",
-        "AS-NAME": "ST1 INTERNET",
-        "AS Rank": "276",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/269194"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "512",
+        "Filtered prefixes @ https://lg.ix.br": "523",
         "ASN": "28598",
         "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
         "AS Rank": "183",
@@ -180,52 +180,43 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/28598"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "461",
+        "Filtered prefixes @ https://lg.ix.br": "457",
         "ASN": "30371",
         "AS-NAME": "AS-GTT-30371",
-        "AS Rank": "8818",
+        "AS Rank": "8821",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/30371"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "408",
-        "ASN": "28573",
-        "AS-NAME": "Claro NXT Telecomunicacoes Ltda",
-        "AS Rank": "7457",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28573"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "403",
-        "ASN": "13786",
-        "AS-NAME": "SEABORN",
-        "AS Rank": "20",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/13786"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "393",
-        "ASN": "35280",
-        "AS-NAME": "F5 - F5 Networks SARL",
-        "AS Rank": "181",
-        "Source": "RIPE",
-        "Country": "FR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/35280"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "387",
+        "Filtered prefixes @ https://lg.ix.br": "412",
         "ASN": "271253",
         "AS-NAME": "LINK BRASIL TELECOMUNICACOES LTDA",
-        "AS Rank": "141",
+        "AS Rank": "139",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271253"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "384",
+        "Filtered prefixes @ https://lg.ix.br": "408",
+        "ASN": "28573",
+        "AS-NAME": "Claro NXT Telecomunicacoes Ltda",
+        "AS Rank": "7423",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/28573"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "391",
+        "ASN": "35280",
+        "AS-NAME": "F5 - F5 Networks SARL",
+        "AS Rank": "180",
+        "Source": "RIPE",
+        "Country": "FR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/35280"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "379",
         "ASN": "53013",
         "AS-NAME": "W I X NET DO BRASIL LTDA - ME",
         "AS Rank": "42",
@@ -234,25 +225,34 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/53013"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "329",
+        "Filtered prefixes @ https://lg.ix.br": "364",
+        "ASN": "13786",
+        "AS-NAME": "SEABORN",
+        "AS Rank": "19",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/13786"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "354",
         "ASN": "264409",
         "AS-NAME": "GRUPO YAX",
-        "AS Rank": "73",
+        "AS Rank": "64",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264409"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "273",
+        "Filtered prefixes @ https://lg.ix.br": "277",
         "ASN": "22356",
         "AS-NAME": "Durand do Brasil Ltda",
-        "AS Rank": "39",
+        "AS Rank": "67",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/22356"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "242",
+        "Filtered prefixes @ https://lg.ix.br": "275",
         "ASN": "266445",
         "AS-NAME": "SEA TELECOM LTDA",
         "AS Rank": "817",
@@ -261,7 +261,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/266445"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "230",
+        "Filtered prefixes @ https://lg.ix.br": "221",
         "ASN": "53087",
         "AS-NAME": "TELY Ltda.",
         "AS Rank": "189",
@@ -291,7 +291,7 @@
         "Filtered prefixes @ https://lg.ix.br": "185",
         "ASN": "264288",
         "AS-NAME": "GNET PROVEDOR",
-        "AS Rank": "1235",
+        "AS Rank": "1042",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264288"
@@ -300,7 +300,7 @@
         "Filtered prefixes @ https://lg.ix.br": "171",
         "ASN": "269096",
         "AS-NAME": "NORTH TELECOMUNICACOES EIRELI",
-        "AS Rank": "268",
+        "AS Rank": "280",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269096"
@@ -324,49 +324,58 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/262476"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "154",
-        "ASN": "53181",
-        "AS-NAME": "K2 Telecom e Multimidia LTDA ME",
-        "AS Rank": "235",
+        "Filtered prefixes @ https://lg.ix.br": "158",
+        "ASN": "52554",
+        "AS-NAME": "S. A. da Silva Junior",
+        "AS Rank": "533",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/53181"
+        "PeeringDB link": "https://www.peeringdb.com/asn/52554"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "152",
         "ASN": "53115",
         "AS-NAME": "ISPX Solucoes em Telecomunicacoes SPE Ltda",
-        "AS Rank": "545",
+        "AS Rank": "590",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53115"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "152",
+        "ASN": "265377",
+        "AS-NAME": "FLASH NET TELECOMUNICACOES LTDA - ME",
+        "AS Rank": "641",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/265377"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "147",
+        "ASN": "53181",
+        "AS-NAME": "K2 Telecom e Multimidia LTDA ME",
+        "AS Rank": "221",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/53181"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "139",
         "ASN": "52873",
         "AS-NAME": "Softdados Telecomunicacoes",
-        "AS Rank": "232",
+        "AS Rank": "227",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52873"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "135",
+        "Filtered prefixes @ https://lg.ix.br": "138",
         "ASN": "19551",
         "AS-NAME": "INCAPSULA",
-        "AS Rank": "311",
+        "AS Rank": "297",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/19551"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "135",
-        "ASN": "52965",
-        "AS-NAME": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
-        "AS Rank": "176",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52965"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "134",
@@ -378,7 +387,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/262287"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "129",
+        "Filtered prefixes @ https://lg.ix.br": "132",
         "ASN": "22381",
         "AS-NAME": "Megatelecom Telecomunicacoes Ltda",
         "AS Rank": "87",
@@ -387,22 +396,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/22381"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "129",
+        "ASN": "52965",
+        "AS-NAME": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+        "AS Rank": "176",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/52965"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "125",
         "ASN": "7162",
         "AS-NAME": "Universo Online S.A.",
-        "AS Rank": "1825",
+        "AS Rank": "416",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/7162"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "110",
-        "ASN": "265377",
-        "AS-NAME": "FLASH NET TELECOMUNICACOES LTDA - ME",
-        "AS Rank": "641",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/265377"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "108",
@@ -417,7 +426,7 @@
         "Filtered prefixes @ https://lg.ix.br": "108",
         "ASN": "53427",
         "AS-NAME": "TGLOBAL-NETWORKS",
-        "AS Rank": "321",
+        "AS Rank": "301",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/53427"
@@ -430,6 +439,15 @@
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/11802"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "105",
+        "ASN": "23106",
+        "AS-NAME": "AMERICAN TOWER DO BRASIL-COMUNICACAO MULTIMIDIA LT",
+        "AS Rank": "229",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/23106"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "103",
@@ -468,34 +486,25 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/263444"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "94",
-        "ASN": "268696",
-        "AS-NAME": "Tuddo Internet Ltda.",
-        "AS Rank": "354",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/268696"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "87",
-        "ASN": "23106",
-        "AS-NAME": "AMERICAN TOWER DO BRASIL-COMUNICACAO MULTIMIDIA LT",
-        "AS Rank": "229",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/23106"
-    },
-    {
         "Filtered prefixes @ https://lg.ix.br": "87",
         "ASN": "32787",
         "AS-NAME": "PROLEXIC-TECHNOLOGIES-DDOS-MITIGATION-NETWORK",
-        "AS Rank": "80",
+        "AS Rank": "83",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/32787"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "86",
+        "Filtered prefixes @ https://lg.ix.br": "84",
+        "ASN": "1916",
+        "AS-NAME": "Rede Nacional de Ensino e Pesquisa",
+        "AS Rank": "489",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1916"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "80",
         "ASN": "28368",
         "AS-NAME": "SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME",
         "AS Rank": "155",
@@ -507,7 +516,7 @@
         "Filtered prefixes @ https://lg.ix.br": "80",
         "ASN": "61618",
         "AS-NAME": "VIVA TECNOLOGIA TELECOM LTDA",
-        "AS Rank": "1366",
+        "AS Rank": "1278",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61618"
@@ -531,31 +540,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/28220"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "79",
+        "ASN": "268696",
+        "AS-NAME": "Tuddo Internet Ltda.",
+        "AS Rank": "345",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/268696"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "78",
         "ASN": "262725",
         "AS-NAME": "RG SILVEIRA LTDA",
-        "AS Rank": "1446",
+        "AS Rank": "1574",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262725"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "75",
-        "ASN": "1916",
-        "AS-NAME": "Rede Nacional de Ensino e Pesquisa",
-        "AS Rank": "489",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1916"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "71",
-        "ASN": "52554",
-        "AS-NAME": "S. A. da Silva Junior",
-        "AS Rank": "559",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52554"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "69",
@@ -567,22 +567,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/262355"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "67",
-        "ASN": "271042",
-        "AS-NAME": "BOT INTERNET E SERVICOS DE TELECOMUNICACOES LTDA",
-        "AS Rank": "1275",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/271042"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "66",
+        "Filtered prefixes @ https://lg.ix.br": "68",
         "ASN": "52925",
         "AS-NAME": "Ascenty Data Centers e Telecomunicacoes SA",
-        "AS Rank": "297",
+        "AS Rank": "294",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52925"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "67",
+        "ASN": "271042",
+        "AS-NAME": "BOT INTERNET E SERVICOS DE TELECOMUNICACOES LTDA",
+        "AS Rank": "1124",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/271042"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "65",
@@ -594,6 +594,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/28146"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "63",
+        "ASN": "28165",
+        "AS-NAME": "Wireless Comm Services LTDA",
+        "AS Rank": "3757",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/28165"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "62",
         "ASN": "28258",
         "AS-NAME": "VERO S.A",
@@ -601,24 +610,6 @@
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28258"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "62",
-        "ASN": "263903",
-        "AS-NAME": "INFORBARRA TELECOM",
-        "AS Rank": "265",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/263903"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "60",
-        "ASN": "17222",
-        "AS-NAME": "MUNDIVOX DO BRASIL LTDA",
-        "AS Rank": "618",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/17222"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "60",
@@ -630,22 +621,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/61610"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "59",
-        "ASN": "28165",
-        "AS-NAME": "Wireless Comm Services LTDA",
-        "AS Rank": "3757",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28165"
-    },
-    {
         "Filtered prefixes @ https://lg.ix.br": "58",
         "ASN": "264247",
         "AS-NAME": "Maila Networks",
-        "AS Rank": "34731",
+        "AS Rank": "35997",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264247"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "56",
+        "ASN": "17222",
+        "AS-NAME": "MUNDIVOX DO BRASIL LTDA",
+        "AS Rank": "618",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/17222"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "55",
@@ -655,6 +646,15 @@
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263073"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "55",
+        "ASN": "263903",
+        "AS-NAME": "INFORBARRA TELECOM",
+        "AS Rank": "273",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/263903"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "54",
@@ -669,7 +669,7 @@
         "Filtered prefixes @ https://lg.ix.br": "53",
         "ASN": "267121",
         "AS-NAME": "ATPlus Telecom",
-        "AS Rank": "2480",
+        "AS Rank": "2464",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267121"
@@ -678,7 +678,7 @@
         "Filtered prefixes @ https://lg.ix.br": "52",
         "ASN": "53166",
         "AS-NAME": "UNIVERSIDADE ESTADUAL PAULISTA",
-        "AS Rank": "12713",
+        "AS Rank": "12766",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53166"
@@ -702,19 +702,10 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/263880"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "50",
-        "ASN": "270804",
-        "AS-NAME": "R DE OLIVEIRA COMUNICACOES",
-        "AS Rank": "5511",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/270804"
-    },
-    {
         "Filtered prefixes @ https://lg.ix.br": "49",
         "ASN": "269719",
         "AS-NAME": "GN TELECOM",
-        "AS Rank": "2498",
+        "AS Rank": "2664",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269719"
@@ -729,6 +720,15 @@
         "PeeringDB link": "LACNIC"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "48",
+        "ASN": "265269",
+        "AS-NAME": "MEGA TELE INFORMATICA",
+        "AS Rank": "368",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/265269"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "47",
         "ASN": "268214",
         "AS-NAME": "schossler e silva ltda - me",
@@ -738,19 +738,19 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/268214"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "45",
-        "ASN": "52573",
-        "AS-NAME": "Une Telecom Ltda",
-        "AS Rank": "212",
+        "Filtered prefixes @ https://lg.ix.br": "46",
+        "ASN": "262989",
+        "AS-NAME": "CLICKNET BRASIL INFORMATICA E TELECOMUNICACOES LT",
+        "AS Rank": "17881",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52573"
+        "PeeringDB link": "https://www.peeringdb.com/asn/262989"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "44",
         "ASN": "268960",
         "AS-NAME": "STARLINE SERVICOS DE INTERNET - ME",
-        "AS Rank": "3517",
+        "AS Rank": "3508",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268960"
@@ -759,7 +759,7 @@
         "Filtered prefixes @ https://lg.ix.br": "42",
         "ASN": "53235",
         "AS-NAME": "Companhia de Geracao Termica de Energia Eletrica",
-        "AS Rank": "33854",
+        "AS Rank": "33907",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53235"
@@ -777,16 +777,16 @@
         "Filtered prefixes @ https://lg.ix.br": "40",
         "ASN": "267460",
         "AS-NAME": "-Reserved AS-",
-        "AS Rank": "4606",
-        "Source": "LACNIC",
-        "Country": "BR",
+        "AS Rank": "4596",
+        "Source": "",
+        "Country": "",
         "PeeringDB link": "https://www.peeringdb.com/asn/267460"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "39",
         "ASN": "52842",
         "AS-NAME": "FUSAONET COMUNICACAO E INFORMATICA LTDA",
-        "AS Rank": "3509",
+        "AS Rank": "3498",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52842"
@@ -804,7 +804,7 @@
         "Filtered prefixes @ https://lg.ix.br": "37",
         "ASN": "263411",
         "AS-NAME": "GABRIEL S S SERVICOS DE TELECOMUNICACOES EIRELI",
-        "AS Rank": "2883",
+        "AS Rank": "2646",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263411"
@@ -828,10 +828,19 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/28283"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "36",
+        "ASN": "52573",
+        "AS-NAME": "Une Telecom Ltda",
+        "AS Rank": "212",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/52573"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "35",
         "ASN": "28360",
         "AS-NAME": "WKVE Asses. em Servicos de Inform. e Telecom. Ltda",
-        "AS Rank": "4278",
+        "AS Rank": "4266",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28360"
@@ -847,6 +856,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "35",
+        "ASN": "266129",
+        "AS-NAME": "LOCALLINK TELECOMUNICACOES LTDA - ME",
+        "AS Rank": "1416",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/266129"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "35",
         "ASN": "267124",
         "AS-NAME": "Paulino Perreira Dos Santos Eireli",
         "AS Rank": "10027",
@@ -855,19 +873,10 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/267124"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "34",
-        "ASN": "273683",
-        "AS-NAME": "ALLREDE TELECOM LTDA",
-        "AS Rank": "485",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/273683"
-    },
-    {
         "Filtered prefixes @ https://lg.ix.br": "33",
         "ASN": "52901",
         "AS-NAME": "MINAS TELECOM",
-        "AS Rank": "1364",
+        "AS Rank": "1414",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52901"
@@ -876,7 +885,7 @@
         "Filtered prefixes @ https://lg.ix.br": "33",
         "ASN": "53237",
         "AS-NAME": "TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS",
-        "AS Rank": "1257",
+        "AS Rank": "1254",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53237"
@@ -885,7 +894,7 @@
         "Filtered prefixes @ https://lg.ix.br": "33",
         "ASN": "262503",
         "AS-NAME": "WIKI TELECOMUNICACOES EIRELI",
-        "AS Rank": "475",
+        "AS Rank": "500",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262503"
@@ -903,7 +912,7 @@
         "Filtered prefixes @ https://lg.ix.br": "32",
         "ASN": "266131",
         "AS-NAME": "LINKABR TELECOM SPE LTDA",
-        "AS Rank": "2160",
+        "AS Rank": "2139",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266131"
@@ -912,7 +921,7 @@
         "Filtered prefixes @ https://lg.ix.br": "32",
         "ASN": "267469",
         "AS-NAME": "W8 Telecom Ltda - ME",
-        "AS Rank": "497",
+        "AS Rank": "532",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267469"
@@ -927,40 +936,40 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/262537"
     },
     {
+        "Filtered prefixes @ https://lg.ix.br": "31",
+        "ASN": "273683",
+        "AS-NAME": "ALLREDE TELECOM LTDA",
+        "AS Rank": "485",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/273683"
+    },
+    {
         "Filtered prefixes @ https://lg.ix.br": "30",
         "ASN": "263053",
         "AS-NAME": "Paulinianet Telecom",
-        "AS Rank": "21121",
+        "AS Rank": "21186",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263053"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "30",
-        "ASN": "265269",
-        "AS-NAME": "MEGA TELE INFORMATICA",
-        "AS Rank": "368",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/265269"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "30",
         "ASN": "266520",
         "AS-NAME": "VOOB TELECOM",
-        "AS Rank": "1114",
+        "AS Rank": "1088",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266520"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "30",
-        "ASN": "271562",
-        "AS-NAME": "WT NET COMUNICACAO LTDA",
-        "AS Rank": "30889",
+        "ASN": "270804",
+        "AS-NAME": "R DE OLIVEIRA COMUNICACOES",
+        "AS Rank": "7144",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/271562"
+        "PeeringDB link": "https://www.peeringdb.com/asn/270804"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "30",
@@ -975,25 +984,25 @@
         "Filtered prefixes @ https://lg.ix.br": "30",
         "ASN": "268018",
         "AS-NAME": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
-        "AS Rank": "6409",
+        "AS Rank": "5192",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268018"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "29",
-        "ASN": "265147",
-        "AS-NAME": "UP Fibra",
-        "AS Rank": "1492",
+        "ASN": "262847",
+        "AS-NAME": "DBUG TELECOM LTDA",
+        "AS Rank": "546",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/265147"
+        "PeeringDB link": "https://www.peeringdb.com/asn/262847"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "28",
         "ASN": "10310",
         "AS-NAME": "YAHOO-1",
-        "AS Rank": "974",
+        "AS Rank": "983",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/10310"
@@ -1020,7 +1029,7 @@
         "Filtered prefixes @ https://lg.ix.br": "28",
         "ASN": "61622",
         "AS-NAME": "VIA MS SOLUCOES DIGITAIS",
-        "AS Rank": "2164",
+        "AS Rank": "1929",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61622"
@@ -1038,7 +1047,7 @@
         "Filtered prefixes @ https://lg.ix.br": "28",
         "ASN": "262878",
         "AS-NAME": "Apn - Processamento de Dados e Solucoes em Interne",
-        "AS Rank": "26472",
+        "AS Rank": "26529",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262878"
@@ -1056,7 +1065,7 @@
         "Filtered prefixes @ https://lg.ix.br": "27",
         "ASN": "267669",
         "AS-NAME": "JKS INTERNET BANDA LARGA",
-        "AS Rank": "2167",
+        "AS Rank": "2440",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267669"
@@ -1083,7 +1092,7 @@
         "Filtered prefixes @ https://lg.ix.br": "26",
         "ASN": "263237",
         "AS-NAME": "PowerHost Telecom SPA",
-        "AS Rank": "436",
+        "AS Rank": "446",
         "Source": "LACNIC",
         "Country": "CL",
         "PeeringDB link": "https://www.peeringdb.com/asn/263237"
@@ -1092,7 +1101,7 @@
         "Filtered prefixes @ https://lg.ix.br": "26",
         "ASN": "264273",
         "AS-NAME": "A & G TELECOMUNICACOES LTDA EPP",
-        "AS Rank": "4253",
+        "AS Rank": "3750",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264273"
@@ -1110,7 +1119,7 @@
         "Filtered prefixes @ https://lg.ix.br": "25",
         "ASN": "52720",
         "AS-NAME": "WEBFOCO TELECOMUNICACOES LTDA",
-        "AS Rank": "657",
+        "AS Rank": "699",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52720"
@@ -1128,7 +1137,7 @@
         "Filtered prefixes @ https://lg.ix.br": "24",
         "ASN": "28126",
         "AS-NAME": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
-        "AS Rank": "397",
+        "AS Rank": "391",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28126"
@@ -1137,7 +1146,7 @@
         "Filtered prefixes @ https://lg.ix.br": "24",
         "ASN": "53065",
         "AS-NAME": "Opcao Telecom",
-        "AS Rank": "621",
+        "AS Rank": "630",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53065"
@@ -1146,7 +1155,7 @@
         "Filtered prefixes @ https://lg.ix.br": "24",
         "ASN": "264997",
         "AS-NAME": "Direct Telecom Ltda",
-        "AS Rank": "614",
+        "AS Rank": "584",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264997"
@@ -1155,7 +1164,7 @@
         "Filtered prefixes @ https://lg.ix.br": "24",
         "ASN": "273517",
         "AS-NAME": "RUPI Telecom",
-        "AS Rank": "2680",
+        "AS Rank": "2485",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273517"
@@ -1173,19 +1182,10 @@
         "Filtered prefixes @ https://lg.ix.br": "23",
         "ASN": "52772",
         "AS-NAME": "SJNET TELECOMUNICACOES - EIRELI",
-        "AS Rank": "1082",
+        "AS Rank": "861",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52772"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "23",
-        "ASN": "262713",
-        "AS-NAME": "LIDERI TELECOM",
-        "AS Rank": "9483",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/262713"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "23",
@@ -1227,19 +1227,10 @@
         "Filtered prefixes @ https://lg.ix.br": "22",
         "ASN": "269077",
         "AS-NAME": "VISION TELECOM SERVICOS DE COMUNICACAO MULTIMIDIA",
-        "AS Rank": "5082",
+        "AS Rank": "7338",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269077"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "21",
-        "ASN": "262847",
-        "AS-NAME": "DBUG TELECOM LTDA",
-        "AS Rank": "546",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/262847"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "20",
@@ -1263,37 +1254,28 @@
         "Filtered prefixes @ https://lg.ix.br": "20",
         "ASN": "262374",
         "AS-NAME": "FAZZY INTERNET",
-        "AS Rank": "6484",
+        "AS Rank": "6475",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262374"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "20",
+        "ASN": "262713",
+        "AS-NAME": "LIDERI TELECOM",
+        "AS Rank": "9483",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/262713"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "20",
         "ASN": "266220",
         "AS-NAME": "RFS Tecnologia LTDA",
-        "AS Rank": "2057",
+        "AS Rank": "2172",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266220"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "19",
-        "ASN": "28158",
-        "AS-NAME": "Ampernet Telecomunicacoes Ltda",
-        "AS Rank": "603",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28158"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "19",
-        "ASN": "52840",
-        "AS-NAME": "AVA TELECOMUNICACOES LTDA",
-        "AS Rank": "620",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52840"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "19",
@@ -1306,21 +1288,39 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "18",
-        "ASN": "28186",
-        "AS-NAME": "ITS TELECOMUNICACOES LTDA",
-        "AS Rank": "363",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28186"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "18",
         "ASN": "52637",
         "AS-NAME": "Station Net Provedor de Internet",
-        "AS Rank": "5176",
+        "AS Rank": "5174",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52637"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "18",
+        "ASN": "52840",
+        "AS-NAME": "AVA TELECOMUNICACOES LTDA",
+        "AS Rank": "615",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/52840"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "18",
+        "ASN": "265147",
+        "AS-NAME": "UP Fibra",
+        "AS Rank": "1721",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/265147"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "18",
+        "ASN": "271562",
+        "AS-NAME": "WT NET COMUNICACAO LTDA",
+        "AS Rank": "30961",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/271562"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "18",
@@ -1344,7 +1344,7 @@
         "Filtered prefixes @ https://lg.ix.br": "17",
         "ASN": "270622",
         "AS-NAME": "AGINET DATACENTER INFORMATICA LTDA",
-        "AS Rank": "47690",
+        "AS Rank": "47700",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270622"
@@ -1371,16 +1371,25 @@
         "Filtered prefixes @ https://lg.ix.br": "16",
         "ASN": "52551",
         "AS-NAME": "SAMM Sociedade de Atividades em Multimidia LTDA",
-        "AS Rank": "748",
+        "AS Rank": "779",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52551"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "16",
+        "ASN": "52863",
+        "AS-NAME": "UPX TECNOLOGIA LTDA",
+        "AS Rank": "272",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/52863"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "16",
         "ASN": "263077",
         "AS-NAME": "RazaoInfo Internet Ltda",
-        "AS Rank": "2125",
+        "AS Rank": "2107",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263077"
@@ -1396,9 +1405,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "16",
+        "ASN": "266308",
+        "AS-NAME": "i9NET - PROVEDOR DE INTERNET LTDA - ME",
+        "AS Rank": "7218",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/266308"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "16",
         "ASN": "264137",
         "AS-NAME": "DUX TELECOM LTDA",
-        "AS Rank": "26172",
+        "AS Rank": "26240",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264137"
@@ -1407,25 +1425,43 @@
         "Filtered prefixes @ https://lg.ix.br": "15",
         "ASN": "52531",
         "AS-NAME": "G6 Internet",
-        "AS Rank": "1991",
+        "AS Rank": "2077",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52531"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "15",
+        "ASN": "267995",
+        "AS-NAME": "Digitus Net Internet Ltda ME",
+        "AS Rank": "44395",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/267995"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "15",
         "ASN": "274614",
         "AS-NAME": "VELOX NETWORK SOLUCOES TECNOLOGICAS LTDA",
-        "AS Rank": "1314",
+        "AS Rank": "1463",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/274614"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "14",
+        "ASN": "28158",
+        "AS-NAME": "Ampernet Telecomunicacoes Ltda",
+        "AS Rank": "603",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/28158"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "14",
         "ASN": "28604",
         "AS-NAME": "Globo Comunicacao e Participacoes SA",
-        "AS Rank": "15832",
+        "AS Rank": "15884",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28604"
@@ -1434,19 +1470,10 @@
         "Filtered prefixes @ https://lg.ix.br": "14",
         "ASN": "28670",
         "AS-NAME": "CST SERVICOS DE INFORMATICA E CALL CENTER LTDA.",
-        "AS Rank": "5305",
+        "AS Rank": "5302",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28670"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "14",
-        "ASN": "52863",
-        "AS-NAME": "UPX TECNOLOGIA LTDA",
-        "AS Rank": "259",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52863"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "14",
@@ -1488,7 +1515,7 @@
         "Filtered prefixes @ https://lg.ix.br": "14",
         "ASN": "265061",
         "AS-NAME": "MIRIANE ARAUJO LIMA DE OLIVEIRA - ME",
-        "AS Rank": "1028",
+        "AS Rank": "1059",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265061"
@@ -1497,7 +1524,7 @@
         "Filtered prefixes @ https://lg.ix.br": "14",
         "ASN": "265171",
         "AS-NAME": "SITELBRA LTDA",
-        "AS Rank": "3834",
+        "AS Rank": "3824",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265171"
@@ -1515,19 +1542,10 @@
         "Filtered prefixes @ https://lg.ix.br": "14",
         "ASN": "268869",
         "AS-NAME": "FIBRA PLUS TELECOM",
-        "AS Rank": "39446",
+        "AS Rank": "10836",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268869"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "14",
-        "ASN": "271345",
-        "AS-NAME": "ND NETWORK DISTRIBUTION",
-        "AS Rank": "10668",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/271345"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "13",
@@ -1551,7 +1569,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "28359",
         "AS-NAME": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",
-        "AS Rank": "909",
+        "AS Rank": "930",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28359"
@@ -1569,7 +1587,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "52838",
         "AS-NAME": "WN TELECOM LTDA - ME",
-        "AS Rank": "3432",
+        "AS Rank": "3420",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52838"
@@ -1587,7 +1605,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "263558",
         "AS-NAME": "RD TELECOM LTDA -ME",
-        "AS Rank": "1424",
+        "AS Rank": "1353",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263558"
@@ -1605,7 +1623,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "265038",
         "AS-NAME": "TELFO SERVICO DE TELECOMUNICACOES LTDA",
-        "AS Rank": "402",
+        "AS Rank": "476",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265038"
@@ -1623,7 +1641,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "265282",
         "AS-NAME": "DOMINA NET TELECOM",
-        "AS Rank": "32839",
+        "AS Rank": "10524",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265282"
@@ -1632,7 +1650,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "266136",
         "AS-NAME": "R.A INTERNET",
-        "AS Rank": "2055",
+        "AS Rank": "2026",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266136"
@@ -1648,18 +1666,9 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "12",
-        "ASN": "269416",
-        "AS-NAME": "SEMEAR TELECOM EIRELI",
-        "AS Rank": "982",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/269416"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "269597",
         "AS-NAME": "STALKER ENGENHARIA EIRELI",
-        "AS Rank": "4467",
+        "AS Rank": "3147",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269597"
@@ -1686,7 +1695,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "273461",
         "AS-NAME": "CYBERWEB ATJP LTDA",
-        "AS Rank": "3891",
+        "AS Rank": "3877",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273461"
@@ -1695,7 +1704,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "273478",
         "AS-NAME": "Sage Networks",
-        "AS Rank": "1310",
+        "AS Rank": "943",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273478"
@@ -1704,7 +1713,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "28271",
         "AS-NAME": "DataCorpore Servicos e Representacoes",
-        "AS Rank": "2578",
+        "AS Rank": "2563",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28271"
@@ -1713,7 +1722,7 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "270365",
         "AS-NAME": "Voicecorp Telecomunicacoes Ltda",
-        "AS Rank": "59092",
+        "AS Rank": "59071",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270365"
@@ -1722,28 +1731,37 @@
         "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "263396",
         "AS-NAME": "BK Telecomunicacoes LTDA",
-        "AS Rank": "2917",
+        "AS Rank": "2888",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263396"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "12",
+        "ASN": "266284",
+        "AS-NAME": "NORTE-TEL TELECOMUNICACOES LTDA",
+        "AS Rank": "1865",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/266284"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "12",
         "ASN": "270716",
         "AS-NAME": "GOVISTA TELECOMUNICAO IMPORTACAO LTDA",
-        "AS Rank": "10772",
+        "AS Rank": "10785",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270716"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "11",
-        "ASN": "264461",
-        "AS-NAME": "ADM INTERNET EIRELI",
-        "AS Rank": "4456",
+        "Filtered prefixes @ https://lg.ix.br": "10",
+        "ASN": "28186",
+        "AS-NAME": "ITS TELECOMUNICACOES LTDA",
+        "AS Rank": "363",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/264461"
+        "PeeringDB link": "https://www.peeringdb.com/asn/28186"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "10",
@@ -1765,9 +1783,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "10",
+        "ASN": "263346",
+        "AS-NAME": "Fonte Informatica ltda",
+        "AS Rank": "3336",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/263346"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "10",
         "ASN": "264596",
         "AS-NAME": "ALFA TELECOMUNICACOES",
-        "AS Rank": "32736",
+        "AS Rank": "33363",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264596"
@@ -1776,7 +1803,7 @@
         "Filtered prefixes @ https://lg.ix.br": "10",
         "ASN": "265434",
         "AS-NAME": "DELTA FIBRA",
-        "AS Rank": "4590",
+        "AS Rank": "5553",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265434"
@@ -1801,6 +1828,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "9",
+        "ASN": "40676",
+        "AS-NAME": "AS40676",
+        "AS Rank": "549",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/40676"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "52527",
         "AS-NAME": "IWNET TELECOM LTDA ME",
         "AS Rank": "3151",
@@ -1812,25 +1848,16 @@
         "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "52758",
         "AS-NAME": "Global Network Telecomunicacoes do Brasil Ltda.",
-        "AS Rank": "5186",
+        "AS Rank": "5185",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52758"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "9",
-        "ASN": "61317",
-        "AS-NAME": "ASDETUK - Hivelocity LLC",
-        "AS Rank": "2546",
-        "Source": "RIPE",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/61317"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "61599",
         "AS-NAME": "EAI TELECOMUNICACOES LTDA",
-        "AS Rank": "430",
+        "AS Rank": "437",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61599"
@@ -1866,7 +1893,7 @@
         "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "266013",
         "AS-NAME": "Moratec Equipamentos",
-        "AS Rank": "5432",
+        "AS Rank": "5433",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266013"
@@ -1875,7 +1902,7 @@
         "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "266931",
         "AS-NAME": "RE Servicos de Comunicacao Multimidia",
-        "AS Rank": "541",
+        "AS Rank": "562",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266931"
@@ -1884,7 +1911,7 @@
         "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "267629",
         "AS-NAME": "SGV TI E TELECOM LTDA",
-        "AS Rank": "4568",
+        "AS Rank": "3975",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267629"
@@ -1893,7 +1920,7 @@
         "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "268283",
         "AS-NAME": "NET WORK FIBER COMERCIO E SERVICOS DE COMUNICACAO",
-        "AS Rank": "2909",
+        "AS Rank": "2878",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268283"
@@ -1909,21 +1936,30 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "9",
+        "ASN": "269558",
+        "AS-NAME": "B S V TELECOMUNICACOES E SERVICOS LTDA",
+        "AS Rank": "1780",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/269558"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "9",
         "ASN": "270817",
         "AS-NAME": "Gigante Net Group Inf Ltda",
-        "AS Rank": "6718",
+        "AS Rank": "6776",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270817"
     },
     {
-        "Filtered prefixes @ https://lg.ix.br": "8",
-        "ASN": "7049",
-        "AS-NAME": "Silica Networks Argentina S.A.",
-        "AS Rank": "160",
+        "Filtered prefixes @ https://lg.ix.br": "9",
+        "ASN": "271345",
+        "AS-NAME": "ND NETWORK DISTRIBUTION",
+        "AS Rank": "10668",
         "Source": "LACNIC",
-        "Country": "AR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7049"
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/271345"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "8",
@@ -1947,7 +1983,7 @@
         "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "61888",
         "AS-NAME": "GFT COMERCIO DE TELEFONIA E COMUNICACAO LTDA",
-        "AS Rank": "1883",
+        "AS Rank": "1876",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61888"
@@ -1974,7 +2010,7 @@
         "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "264129",
         "AS-NAME": "Flip Networks",
-        "AS Rank": "1508",
+        "AS Rank": "1410",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264129"
@@ -1983,16 +2019,25 @@
         "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "264360",
         "AS-NAME": "TASS NETWORKS",
-        "AS Rank": "25947",
+        "AS Rank": "26871",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264360"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "8",
+        "ASN": "264525",
+        "AS-NAME": "Coelho Tecnologia",
+        "AS Rank": "1638",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/264525"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "264544",
         "AS-NAME": "SUPER NOVA TELECOM LTDA",
-        "AS Rank": "2890",
+        "AS Rank": "3500",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264544"
@@ -2001,7 +2046,7 @@
         "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "267163",
         "AS-NAME": "IDEALNET FIBRA",
-        "AS Rank": "5466",
+        "AS Rank": "5474",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267163"
@@ -2026,9 +2071,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "8",
+        "ASN": "269416",
+        "AS-NAME": "SEMEAR TELECOM EIRELI",
+        "AS Rank": "993",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/269416"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "269473",
         "AS-NAME": "i4 Telecom Eireli",
-        "AS Rank": "10627",
+        "AS Rank": "33625",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269473"
@@ -2064,7 +2118,7 @@
         "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "263629",
         "AS-NAME": "MASTER TECNOLOGIA",
-        "AS Rank": "834",
+        "AS Rank": "864",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263629"
@@ -2082,10 +2136,19 @@
         "Filtered prefixes @ https://lg.ix.br": "8",
         "ASN": "268054",
         "AS-NAME": "GIGA NET INFORMATICA LTDA ME",
-        "AS Rank": "10653",
+        "AS Rank": "10664",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268054"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "7",
+        "ASN": "7049",
+        "AS-NAME": "Silica Networks Argentina S.A.",
+        "AS Rank": "159",
+        "Source": "LACNIC",
+        "Country": "AR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7049"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "7",
@@ -2107,18 +2170,9 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "7",
-        "ASN": "40676",
-        "AS-NAME": "AS40676",
-        "AS Rank": "549",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/40676"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "7",
         "ASN": "53107",
         "AS-NAME": "EVEO S.A.",
-        "AS Rank": "5997",
+        "AS Rank": "4917",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53107"
@@ -2127,7 +2181,7 @@
         "Filtered prefixes @ https://lg.ix.br": "7",
         "ASN": "264120",
         "AS-NAME": "G20 Telecomunicacoes Ltda",
-        "AS Rank": "1504",
+        "AS Rank": "1514",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264120"
@@ -2136,7 +2190,7 @@
         "Filtered prefixes @ https://lg.ix.br": "7",
         "ASN": "264321",
         "AS-NAME": "NEW OESTE TELECOMUNICACOES LTDA",
-        "AS Rank": "25928",
+        "AS Rank": "26010",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264321"
@@ -2154,7 +2208,7 @@
         "Filtered prefixes @ https://lg.ix.br": "7",
         "ASN": "268157",
         "AS-NAME": "ELEVAR TELECOM LTDA",
-        "AS Rank": "5004",
+        "AS Rank": "5009",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268157"
@@ -2172,7 +2226,7 @@
         "Filtered prefixes @ https://lg.ix.br": "7",
         "ASN": "271069",
         "AS-NAME": "A4 TELECOM PROVEDOR DE ACESSO",
-        "AS Rank": "10506",
+        "AS Rank": "10516",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271069"
@@ -2208,7 +2262,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "40850",
         "AS-NAME": "AS-UPIX-40850",
-        "AS Rank": "479",
+        "AS Rank": "463",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/40850"
@@ -2217,7 +2271,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "52696",
         "AS-NAME": "JTR DA SILVA TECNOLOGIA ME",
-        "AS Rank": "2143",
+        "AS Rank": "2005",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52696"
@@ -2226,7 +2280,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "53158",
         "AS-NAME": "Net Turbo Telecom",
-        "AS Rank": "670",
+        "AS Rank": "659",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53158"
@@ -2235,7 +2289,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "61696",
         "AS-NAME": "DOMUS TELECOM",
-        "AS Rank": "1791",
+        "AS Rank": "1716",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61696"
@@ -2244,16 +2298,25 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "61792",
         "AS-NAME": "IPNET TELECOMUNICACOES LTDA",
-        "AS Rank": "25995",
+        "AS Rank": "26032",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61792"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "6",
+        "ASN": "61884",
+        "AS-NAME": "OLLA COMUNICACAO LTDA",
+        "AS Rank": "648",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/61884"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "262393",
         "AS-NAME": "A ALVES GOMES INFORMATICA - ME",
-        "AS Rank": "9651",
+        "AS Rank": "9639",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262393"
@@ -2262,7 +2325,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "262808",
         "AS-NAME": "Brasilnet Telecomunicacoes Ltda ME",
-        "AS Rank": "1941",
+        "AS Rank": "1927",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262808"
@@ -2271,7 +2334,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "263080",
         "AS-NAME": "GTi TELECOMUNICACOES SA",
-        "AS Rank": "1113",
+        "AS Rank": "1085",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263080"
@@ -2280,7 +2343,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "263128",
         "AS-NAME": "Internet Maxima Tecnologia Ltda",
-        "AS Rank": "25947",
+        "AS Rank": "25990",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263128"
@@ -2296,27 +2359,9 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "6",
-        "ASN": "264500",
-        "AS-NAME": "SoulTelecom - Provedor de Acesso a Internet",
-        "AS Rank": "2479",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/264500"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "6",
-        "ASN": "264525",
-        "AS-NAME": "Coelho Tecnologia",
-        "AS Rank": "1638",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/264525"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "265041",
         "AS-NAME": "INFOTEL ENGENHARIA & TELECOMUNICACOES SCM LTDA",
-        "AS Rank": "6963",
+        "AS Rank": "6948",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265041"
@@ -2325,7 +2370,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "266096",
         "AS-NAME": "NAVEGAR PROVEDOR",
-        "AS Rank": "33292",
+        "AS Rank": "33304",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266096"
@@ -2334,7 +2379,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "267610",
         "AS-NAME": "KAIRONANET LTDA",
-        "AS Rank": "7008",
+        "AS Rank": "7007",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267610"
@@ -2361,7 +2406,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "270724",
         "AS-NAME": "CLIENT.CO SERVICOS E TELECOMUNICACOES LTDA",
-        "AS Rank": "1081",
+        "AS Rank": "1313",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270724"
@@ -2370,7 +2415,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "270826",
         "AS-NAME": "VELiNK INTERNET",
-        "AS Rank": "33174",
+        "AS Rank": "39468",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270826"
@@ -2379,7 +2424,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "271547",
         "AS-NAME": "RANDSON DE JESUS PASSOS",
-        "AS Rank": "4593",
+        "AS Rank": "4574",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271547"
@@ -2395,9 +2440,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "6",
+        "ASN": "262887",
+        "AS-NAME": "RAPIX INTERNET",
+        "AS Rank": "6663",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/262887"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "53016",
         "AS-NAME": "PRODEPA - Emp Tec da Inf e Com do Estado do Para",
-        "AS Rank": "6179",
+        "AS Rank": "6185",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53016"
@@ -2406,7 +2460,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "263860",
         "AS-NAME": "WEB LACERDA PROVEDOR DE INTERNET LTDA",
-        "AS Rank": "26237",
+        "AS Rank": "26284",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263860"
@@ -2424,7 +2478,7 @@
         "Filtered prefixes @ https://lg.ix.br": "6",
         "ASN": "268431",
         "AS-NAME": "netX TI LTDA",
-        "AS Rank": "35919",
+        "AS Rank": "39468",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268431"
@@ -2433,7 +2487,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "28189",
         "AS-NAME": "JR & JS ENGENHARIA E COMERCIO LTDA",
-        "AS Rank": "515",
+        "AS Rank": "321",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28189"
@@ -2442,7 +2496,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "45474",
         "AS-NAME": "NEXUSGUARD-AS-AP NEXUSGUARD LIMITED",
-        "AS Rank": "885",
+        "AS Rank": "882",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/45474"
@@ -2460,7 +2514,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "53047",
         "AS-NAME": "Intercol Servicos de Internet Ltda",
-        "AS Rank": "6539",
+        "AS Rank": "6535",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53047"
@@ -2478,7 +2532,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "262494",
         "AS-NAME": "Virtex Telecom",
-        "AS Rank": "815",
+        "AS Rank": "783",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262494"
@@ -2496,7 +2550,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "263469",
         "AS-NAME": "J P de Souza Telecomunicacoes EPP",
-        "AS Rank": "10985",
+        "AS Rank": "28750",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263469"
@@ -2512,18 +2566,9 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "5",
-        "ASN": "264915",
-        "AS-NAME": "BURITINET TELECOM EIRELI",
-        "AS Rank": "4581",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/264915"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "264969",
         "AS-NAME": "FD CAVALCANTE DE LIMA ME",
-        "AS Rank": "3903",
+        "AS Rank": "3890",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264969"
@@ -2532,7 +2577,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "265345",
         "AS-NAME": "HUP TELECOM LTDA",
-        "AS Rank": "33236",
+        "AS Rank": "33130",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265345"
@@ -2568,7 +2613,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "267408",
         "AS-NAME": "Provedor de Acesso a Internet de Pernambuco Ltda",
-        "AS Rank": "32839",
+        "AS Rank": "32859",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267408"
@@ -2586,7 +2631,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "271201",
         "AS-NAME": "Vianet Telecomunicacoes Ltda",
-        "AS Rank": "1313",
+        "AS Rank": "1459",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271201"
@@ -2595,7 +2640,7 @@
         "Filtered prefixes @ https://lg.ix.br": "5",
         "ASN": "28263",
         "AS-NAME": "America-NET Ltda.",
-        "AS Rank": "2771",
+        "AS Rank": "2752",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28263"
@@ -2604,7 +2649,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "28204",
         "AS-NAME": "Keraxweb Servicos de Int. e Internet Ltda",
-        "AS Rank": "21120",
+        "AS Rank": "21185",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28204"
@@ -2620,27 +2665,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "4",
-        "ASN": "28352",
-        "AS-NAME": "NETSPEED LTDA",
-        "AS Rank": "3427",
+        "ASN": "28326",
+        "AS-NAME": "Total Telecom Ltda",
+        "AS Rank": "3153",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28352"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "4",
-        "ASN": "52688",
-        "AS-NAME": "FATIMA VIDEO ELETRONICA LTDA ME",
-        "AS Rank": "1965",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/52688"
+        "PeeringDB link": "https://www.peeringdb.com/asn/28326"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "53048",
         "AS-NAME": "CELANTE SERVICOS DE TELECOMUNICACOES LTDA - EPP",
-        "AS Rank": "2279",
+        "AS Rank": "1150",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53048"
@@ -2665,6 +2701,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "4",
+        "ASN": "61317",
+        "AS-NAME": "ASDETUK - Hivelocity LLC",
+        "AS Rank": "2546",
+        "Source": "RIPE",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/61317"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "61580",
         "AS-NAME": "Nucleo de Inf. e Coord. do Ponto BR - NIC.",
         "AS Rank": "5669",
@@ -2676,7 +2721,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "61663",
         "AS-NAME": "INFOLINE BANDA LARGA",
-        "AS Rank": "26155",
+        "AS Rank": "26169",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61663"
@@ -2685,16 +2730,25 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "262343",
         "AS-NAME": "Net Aki Internet Ltda",
-        "AS Rank": "4312",
+        "AS Rank": "4305",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262343"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "4",
+        "ASN": "262493",
+        "AS-NAME": "Webby Tecnologia Ltda",
+        "AS Rank": "639",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/262493"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "262496",
         "AS-NAME": "Clonix Telecom Eireli ME",
-        "AS Rank": "6434",
+        "AS Rank": "6426",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262496"
@@ -2721,7 +2775,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "263563",
         "AS-NAME": "MULTIWARE TECNOLOGIA",
-        "AS Rank": "25968",
+        "AS Rank": "25990",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263563"
@@ -2748,7 +2802,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "264147",
         "AS-NAME": "INTERA COMUNICACAO MULTIMIDIA E INFORMATICA",
-        "AS Rank": "32839",
+        "AS Rank": "32859",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264147"
@@ -2757,7 +2811,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "264209",
         "AS-NAME": "LINKFORT TELECOM LTDA ME",
-        "AS Rank": "2811",
+        "AS Rank": "2791",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264209"
@@ -2775,10 +2829,19 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "265036",
         "AS-NAME": "BMJnet Telecom",
-        "AS Rank": "1445",
+        "AS Rank": "1637",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265036"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "4",
+        "ASN": "265232",
+        "AS-NAME": "WLAN SISTEMAS LTDA ME",
+        "AS Rank": "32760",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/265232"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "4",
@@ -2793,7 +2856,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "266192",
         "AS-NAME": "LP PROVEDORA DE INTERNET E INSTALACOES DE REDES TE",
-        "AS Rank": "3932",
+        "AS Rank": "3483",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266192"
@@ -2811,7 +2874,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "266376",
         "AS-NAME": "CYBERNET TELECOM SERVICOS DE INTERNET LTDA - ME",
-        "AS Rank": "34731",
+        "AS Rank": "33678",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266376"
@@ -2820,7 +2883,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "266448",
         "AS-NAME": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
-        "AS Rank": "9879",
+        "AS Rank": "9860",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266448"
@@ -2829,7 +2892,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "267325",
         "AS-NAME": "USBINF INFORMATICA LTDA - ME",
-        "AS Rank": "10518",
+        "AS Rank": "10525",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267325"
@@ -2847,7 +2910,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "267563",
         "AS-NAME": "Ei Telecom LTDA",
-        "AS Rank": "3410",
+        "AS Rank": "3402",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267563"
@@ -2856,7 +2919,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "268042",
         "AS-NAME": "JETNET COMUNICACAO LTDA",
-        "AS Rank": "2657",
+        "AS Rank": "2640",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268042"
@@ -2865,7 +2928,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "268460",
         "AS-NAME": "SISPRIME DO BRASIL - COOPERATIVA DE CREDITO",
-        "AS Rank": "58796",
+        "AS Rank": "58827",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268460"
@@ -2874,7 +2937,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "268689",
         "AS-NAME": "ELEVEL TECNOLOGIA LTDA",
-        "AS Rank": "945",
+        "AS Rank": "969",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268689"
@@ -2883,25 +2946,16 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "270439",
         "AS-NAME": "D S CUPERTINO SERVICOS DE HOSPEDAGEM NA INTERNET",
-        "AS Rank": "5394",
+        "AS Rank": "5391",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270439"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "4",
-        "ASN": "270877",
-        "AS-NAME": "INTERNETUP TELECOMUNICACOES LTDA",
-        "AS Rank": "33292",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/270877"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "271179",
         "AS-NAME": "OLIVEIRA & CARVALHO COMUNICACAO E MULTIMIDIA LTDA",
-        "AS Rank": "7236",
+        "AS Rank": "7225",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271179"
@@ -2910,7 +2964,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "272432",
         "AS-NAME": "MAGAZINE LUIZA SA",
-        "AS Rank": "15602",
+        "AS Rank": "15662",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/272432"
@@ -2919,7 +2973,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "272719",
         "AS-NAME": "SABINNET PROVEDOR DE INTERNET",
-        "AS Rank": "11599",
+        "AS Rank": "11637",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/272719"
@@ -2928,7 +2982,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "273165",
         "AS-NAME": "IX CDE SOCIEDAD ANONIMA",
-        "AS Rank": "8195",
+        "AS Rank": "8154",
         "Source": "LACNIC",
         "Country": "PY",
         "PeeringDB link": "https://www.peeringdb.com/asn/273165"
@@ -2937,7 +2991,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "264054",
         "AS-NAME": "FALCON COMUNICACOES E INFORMATICA",
-        "AS Rank": "10620",
+        "AS Rank": "11191",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264054"
@@ -2946,7 +3000,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "271315",
         "AS-NAME": "Netfusion Internet LTDA",
-        "AS Rank": "33537",
+        "AS Rank": "33575",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271315"
@@ -3018,7 +3072,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "264344",
         "AS-NAME": "AMAZONET TELECOMUNICACOES LTDA",
-        "AS Rank": "1804",
+        "AS Rank": "2036",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264344"
@@ -3027,7 +3081,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "28605",
         "AS-NAME": "Defferrari Informatica Ltda.",
-        "AS Rank": "2168",
+        "AS Rank": "2281",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28605"
@@ -3036,7 +3090,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "52653",
         "AS-NAME": "Marlon L. Larger & Cia Ltda",
-        "AS Rank": "19294",
+        "AS Rank": "19393",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52653"
@@ -3063,7 +3117,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "266117",
         "AS-NAME": "G-LINK FIBRA",
-        "AS Rank": "34229",
+        "AS Rank": "5429",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266117"
@@ -3072,7 +3126,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "273756",
         "AS-NAME": "INTRALINKK TELECOM LTDA",
-        "AS Rank": "60430",
+        "AS Rank": "60490",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273756"
@@ -3081,7 +3135,7 @@
         "Filtered prefixes @ https://lg.ix.br": "4",
         "ASN": "262273",
         "AS-NAME": "I T Tecnologia e Informacao Ltda",
-        "AS Rank": "10320",
+        "AS Rank": "10328",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262273"
@@ -3108,7 +3162,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "47065",
         "AS-NAME": "PEERING-RESEARCH-TESTBED-USC-UFMG-AS47065",
-        "AS Rank": "24260",
+        "AS Rank": "22561",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/47065"
@@ -3135,7 +3189,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "52721",
         "AS-NAME": "TOLEDO FIBRA TELECOMUNICACAO LTDA",
-        "AS Rank": "3927",
+        "AS Rank": "3478",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52721"
@@ -3144,7 +3198,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "52981",
         "AS-NAME": "Conecta Tecnologia LTDA",
-        "AS Rank": "6554",
+        "AS Rank": "6528",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52981"
@@ -3153,7 +3207,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "52984",
         "AS-NAME": "CS-NET Informatica e Tecnologia Ltda.",
-        "AS Rank": "22500",
+        "AS Rank": "22570",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52984"
@@ -3162,7 +3216,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "53102",
         "AS-NAME": "S.I. TELECOM. SERVICOS DE TELEFONIA LTDA EPP",
-        "AS Rank": "2469",
+        "AS Rank": "2024",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53102"
@@ -3180,7 +3234,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "214657",
         "AS-NAME": "BLS - Bls Services Tecnologia em Software Ltda",
-        "AS Rank": "7106",
+        "AS Rank": "7095",
         "Source": "RIPE",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/214657"
@@ -3189,7 +3243,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "262316",
         "AS-NAME": "Ateky Internet Eireli Me",
-        "AS Rank": "8949",
+        "AS Rank": "8933",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262316"
@@ -3198,7 +3252,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "263024",
         "AS-NAME": "ARAUJO SAT SERVICOS DE MULTIMIDIA LTDA",
-        "AS Rank": "3494",
+        "AS Rank": "3484",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263024"
@@ -3216,7 +3270,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "263877",
         "AS-NAME": "rede banda larga",
-        "AS Rank": "2487",
+        "AS Rank": "2471",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263877"
@@ -3225,7 +3279,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "263928",
         "AS-NAME": "JBMNET TELECOM",
-        "AS Rank": "5495",
+        "AS Rank": "5498",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263928"
@@ -3241,15 +3295,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "3",
-        "ASN": "264170",
-        "AS-NAME": "Winet Brasil",
-        "AS Rank": "1576",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/264170"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "264294",
         "AS-NAME": "Ora Servicos de Telecomunicacoes Ltda",
         "AS Rank": "1625",
@@ -3261,16 +3306,25 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "264491",
         "AS-NAME": "Sonik Servicos de Comunicacao LTDA",
-        "AS Rank": "5398",
+        "AS Rank": "5393",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264491"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "3",
+        "ASN": "264500",
+        "AS-NAME": "SoulTelecom - Provedor de Acesso a Internet",
+        "AS Rank": "2307",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/264500"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "264531",
         "AS-NAME": "ULTRA TELECOM",
-        "AS Rank": "2066",
+        "AS Rank": "1951",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264531"
@@ -3279,7 +3333,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "264552",
         "AS-NAME": "JustWeb Telecomunicacoes LTDA",
-        "AS Rank": "21164",
+        "AS Rank": "5006",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264552"
@@ -3297,7 +3351,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "264936",
         "AS-NAME": "ISP MAIS TELECOM LTDA",
-        "AS Rank": "7000",
+        "AS Rank": "7001",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264936"
@@ -3306,7 +3360,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "266154",
         "AS-NAME": "WJ Internet",
-        "AS Rank": "32834",
+        "AS Rank": "34761",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266154"
@@ -3322,18 +3376,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "3",
-        "ASN": "266409",
-        "AS-NAME": "SECW TELECOM",
-        "AS Rank": "752",
+        "ASN": "266416",
+        "AS-NAME": "L3 NETWORKS E TELECOMUNICACOES LTDA",
+        "AS Rank": "2427",
         "Source": "LACNIC",
         "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/266409"
+        "PeeringDB link": "https://www.peeringdb.com/asn/266416"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "266649",
         "AS-NAME": "Netcity Tecnologia em Internet Ltda-ME",
-        "AS Rank": "4564",
+        "AS Rank": "4566",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266649"
@@ -3342,7 +3396,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "268107",
         "AS-NAME": "GERENSIS TELECOM E SERVICOS LTDA - ME",
-        "AS Rank": "32760",
+        "AS Rank": "32816",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268107"
@@ -3369,7 +3423,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "270593",
         "AS-NAME": "NAVEG FIBRA",
-        "AS Rank": "5424",
+        "AS Rank": "6843",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270593"
@@ -3378,7 +3432,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "270794",
         "AS-NAME": "ftnet servicos comunicacao multimidia",
-        "AS Rank": "32760",
+        "AS Rank": "32816",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270794"
@@ -3387,7 +3441,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "271590",
         "AS-NAME": "HELOISA SAMPAIO PINTO TELECOMUNICACOES",
-        "AS Rank": "33292",
+        "AS Rank": "33304",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271590"
@@ -3396,7 +3450,7 @@
         "Filtered prefixes @ https://lg.ix.br": "3",
         "ASN": "271746",
         "AS-NAME": "GPONNET FIBRA OPTICA EIRELI",
-        "AS Rank": "7298",
+        "AS Rank": "7283",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271746"
@@ -3405,7 +3459,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "11338",
         "AS-NAME": "SKY SERVICOS DE BANDA LARGA LTDA",
-        "AS Rank": "15213",
+        "AS Rank": "15266",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/11338"
@@ -3423,7 +3477,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "20940",
         "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
-        "AS Rank": "1974",
+        "AS Rank": "1953",
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
@@ -3441,7 +3495,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "28178",
         "AS-NAME": "Networld Provedor e Servicos de Internet Ltda",
-        "AS Rank": "2238",
+        "AS Rank": "2378",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28178"
@@ -3450,25 +3504,43 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "28202",
         "AS-NAME": "Rede Brasileira de Comunicacao SA",
-        "AS Rank": "786",
+        "AS Rank": "737",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28202"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
+        "ASN": "28352",
+        "AS-NAME": "NETSPEED LTDA",
+        "AS Rank": "3427",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/28352"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER",
-        "AS Rank": "1816",
+        "AS Rank": "1806",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/36351"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
+        "ASN": "52662",
+        "AS-NAME": "TELECALL TELECOMUNICACOES",
+        "AS Rank": "3879",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/52662"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "52858",
         "AS-NAME": "A & G Servicos em TI",
-        "AS Rank": "6463",
+        "AS Rank": "9410",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52858"
@@ -3504,7 +3576,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "61573",
         "AS-NAME": "Ip Telecom",
-        "AS Rank": "3149",
+        "AS Rank": "3134",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61573"
@@ -3513,7 +3585,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "61592",
         "AS-NAME": "FORTLINK INTERNET CORPORATIVA",
-        "AS Rank": "1120",
+        "AS Rank": "1017",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61592"
@@ -3531,7 +3603,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "61704",
         "AS-NAME": "Conectiva Telecom LTDA",
-        "AS Rank": "4562",
+        "AS Rank": "3961",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61704"
@@ -3549,7 +3621,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "262404",
         "AS-NAME": "JC SERVICOS DE INTERNET LTDA",
-        "AS Rank": "5179",
+        "AS Rank": "5176",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262404"
@@ -3558,7 +3630,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "262822",
         "AS-NAME": "WE RADIO COMUNICACOES LTDA EPP",
-        "AS Rank": "21111",
+        "AS Rank": "21186",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262822"
@@ -3594,7 +3666,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "263483",
         "AS-NAME": "DIRECT LAN TELECOMUNICACOES SOROCABA LTDA",
-        "AS Rank": "10296",
+        "AS Rank": "10302",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263483"
@@ -3621,7 +3693,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "264485",
         "AS-NAME": "M. COELHO M. LIMA SERVICOS DE TELECOMUNICACAO - ME",
-        "AS Rank": "6362",
+        "AS Rank": "8837",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264485"
@@ -3630,7 +3702,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "264872",
         "AS-NAME": "Brothers Lan House Ltda Me",
-        "AS Rank": "3495",
+        "AS Rank": "3923",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264872"
@@ -3639,10 +3711,19 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "264886",
         "AS-NAME": "GD NET SOLUTION",
-        "AS Rank": "6320",
+        "AS Rank": "6332",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264886"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "2",
+        "ASN": "264915",
+        "AS-NAME": "BURITINET TELECOM EIRELI",
+        "AS Rank": "4572",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/264915"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
@@ -3666,7 +3747,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "266121",
         "AS-NAME": "SUPER SONIC TELECOM LTDA",
-        "AS Rank": "3177",
+        "AS Rank": "3512",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266121"
@@ -3675,7 +3756,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "266207",
         "AS-NAME": "Onitel Telecomunicacoes",
-        "AS Rank": "2306",
+        "AS Rank": "3434",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266207"
@@ -3688,6 +3769,15 @@
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266389"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "2",
+        "ASN": "266409",
+        "AS-NAME": "SECW TELECOM",
+        "AS Rank": "773",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/266409"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
@@ -3720,7 +3810,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "267248",
         "AS-NAME": "AIPEER TECNOLOGIA LTDA",
-        "AS Rank": "32736",
+        "AS Rank": "32797",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267248"
@@ -3729,7 +3819,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "267456",
         "AS-NAME": "INOVANETCE TELECOM",
-        "AS Rank": "11155",
+        "AS Rank": "11174",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267456"
@@ -3738,7 +3828,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "268551",
         "AS-NAME": "DMC TELECOM",
-        "AS Rank": "6848",
+        "AS Rank": "10532",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268551"
@@ -3747,7 +3837,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "268568",
         "AS-NAME": "IMPLANTAR TELECOM SOCIEDADE LIMITADA",
-        "AS Rank": "1867",
+        "AS Rank": "1856",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268568"
@@ -3765,7 +3855,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "268842",
         "AS-NAME": "Igape Telecomunicacoes LTDA",
-        "AS Rank": "33451",
+        "AS Rank": "33496",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268842"
@@ -3774,10 +3864,19 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "268874",
         "AS-NAME": "IT Facilities",
-        "AS Rank": "32837",
+        "AS Rank": "32858",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268874"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "2",
+        "ASN": "268892",
+        "AS-NAME": "DBS TELECOM EIRELI - ME",
+        "AS Rank": "3970",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/268892"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
@@ -3801,7 +3900,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "269604",
         "AS-NAME": "JNETCOM TELECOM",
-        "AS Rank": "33400",
+        "AS Rank": "33438",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269604"
@@ -3819,16 +3918,25 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "270581",
         "AS-NAME": "JET NETWORK TELECOMUNICACAO LTDA",
-        "AS Rank": "5549",
+        "AS Rank": "5552",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270581"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
+        "ASN": "270877",
+        "AS-NAME": "INTERNETUP TELECOMUNICACOES LTDA",
+        "AS Rank": "33238",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/270877"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "271380",
         "AS-NAME": "GLOBAL CONECTA TELECOM EIRELI",
-        "AS Rank": "32960",
+        "AS Rank": "32922",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271380"
@@ -3846,7 +3954,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "271425",
         "AS-NAME": "Terracel Provedor de Internet Ltda Me",
-        "AS Rank": "10620",
+        "AS Rank": "10624",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271425"
@@ -3855,7 +3963,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "272549",
         "AS-NAME": "Connect LP - SERVICO DE COMUNICACAO MULTIMIDIA LTD",
-        "AS Rank": "7159",
+        "AS Rank": "10298",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/272549"
@@ -3864,7 +3972,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "274743",
         "AS-NAME": "FASTWEB TELECOMUNICACOES",
-        "AS Rank": "11558",
+        "AS Rank": "11178",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/274743"
@@ -3873,7 +3981,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "28328",
         "AS-NAME": "EBR Informatica Ltda",
-        "AS Rank": "17959",
+        "AS Rank": "18037",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28328"
@@ -3882,7 +3990,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "28338",
         "AS-NAME": "Net Botanic Internet Inteligente SA",
-        "AS Rank": "5226",
+        "AS Rank": "3836",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28338"
@@ -3891,7 +3999,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "262367",
         "AS-NAME": "SW COMERCIO E SERVICOS DE COMUNICACAO MULTIMIDIA",
-        "AS Rank": "26137",
+        "AS Rank": "26186",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262367"
@@ -3909,7 +4017,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "268089",
         "AS-NAME": "FREMASA COMERCIO",
-        "AS Rank": "33775",
+        "AS Rank": "34029",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268089"
@@ -3918,7 +4026,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "273663",
         "AS-NAME": "NT FIBRA",
-        "AS Rank": "11009",
+        "AS Rank": "11027",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273663"
@@ -3927,19 +4035,10 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "53147",
         "AS-NAME": "FONTES SOLUCOES TECNOLOGICAS LTDA",
-        "AS Rank": "9066",
+        "AS Rank": "9056",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53147"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "2",
-        "ASN": "262887",
-        "AS-NAME": "RAPIX INTERNET",
-        "AS Rank": "6663",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/262887"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
@@ -3990,7 +4089,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "262517",
         "AS-NAME": "NIQTURBO PIMENTEL E MOREIRA LTDA",
-        "AS Rank": "1720",
+        "AS Rank": "1875",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262517"
@@ -3999,16 +4098,16 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "263557",
         "AS-NAME": "-Reserved AS-",
-        "AS Rank": "4618",
-        "Source": "LACNIC",
-        "Country": "BR",
+        "AS Rank": "4602",
+        "Source": "",
+        "Country": "",
         "PeeringDB link": "https://www.peeringdb.com/asn/263557"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "264049",
         "AS-NAME": "TELECOMUNICACOES ALARCAO E FERNANDES LTDA - ME",
-        "AS Rank": "33778",
+        "AS Rank": "10689",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264049"
@@ -4017,7 +4116,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "266584",
         "AS-NAME": "Conect- Provedor de Internet Ltda EPP",
-        "AS Rank": "2654",
+        "AS Rank": "3882",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266584"
@@ -4026,7 +4125,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "269296",
         "AS-NAME": "ONCLOUD TECNOLOGIA LTDA",
-        "AS Rank": "59241",
+        "AS Rank": "59277",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269296"
@@ -4035,7 +4134,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "263308",
         "AS-NAME": "NTWEB SOLUCOES EM INTERNET LTDA ME",
-        "AS Rank": "34731",
+        "AS Rank": "34778",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263308"
@@ -4053,7 +4152,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "263609",
         "AS-NAME": "Free Way Tecnologia",
-        "AS Rank": "3130",
+        "AS Rank": "3109",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263609"
@@ -4062,7 +4161,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "263340",
         "AS-NAME": "CPW Internet",
-        "AS Rank": "27642",
+        "AS Rank": "26871",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263340"
@@ -4071,7 +4170,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "266143",
         "AS-NAME": "UP LINK INTERNET BANDA LARGA",
-        "AS Rank": "2675",
+        "AS Rank": "3501",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266143"
@@ -4089,7 +4188,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "273319",
         "AS-NAME": "IP TELECOM LTDA",
-        "AS Rank": "77421",
+        "AS Rank": "78025",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273319"
@@ -4098,7 +4197,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "270327",
         "AS-NAME": "SECRETARIA MUNICIPAL DE GESTAO - SEMGE",
-        "AS Rank": "59442",
+        "AS Rank": "59277",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270327"
@@ -4107,7 +4206,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "270966",
         "AS-NAME": "4W NET ES TELECOMUNICACOES LTDA",
-        "AS Rank": "2585",
+        "AS Rank": "2758",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270966"
@@ -4116,7 +4215,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "273730",
         "AS-NAME": "GILMAR F DE ALMEIDA",
-        "AS Rank": "3407",
+        "AS Rank": "3399",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/273730"
@@ -4125,7 +4224,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "266213",
         "AS-NAME": "PLANETCLICK TELECOMUNICACOES LTDA",
-        "AS Rank": "9675",
+        "AS Rank": "9657",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266213"
@@ -4134,7 +4233,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "272422",
         "AS-NAME": "NETJET PROVEDOR DE ACESSO A INTERNET LTDA",
-        "AS Rank": "77962",
+        "AS Rank": "78025",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/272422"
@@ -4143,7 +4242,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "61615",
         "AS-NAME": "FALE S.A.",
-        "AS Rank": "33982",
+        "AS Rank": "34778",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61615"
@@ -4152,7 +4251,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "262521",
         "AS-NAME": "pgf telecomunicacoes ltda",
-        "AS Rank": "26320",
+        "AS Rank": "26239",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262521"
@@ -4161,7 +4260,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "266038",
         "AS-NAME": "VN TELECOM PROVEDORES A.R.C EIRELI",
-        "AS Rank": "3176",
+        "AS Rank": "3162",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266038"
@@ -4169,8 +4268,8 @@
     {
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "40356",
-        "AS-NAME": "TASCOM-GLOBAL-NETWORK",
-        "AS Rank": "47999",
+        "AS-NAME": "-Reserved AS-",
+        "AS Rank": "48007",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/40356"
@@ -4188,7 +4287,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "272191",
         "AS-NAME": "BNJ COMUNICACAO E SERVICOS LTDA",
-        "AS Rank": "77962",
+        "AS Rank": "78025",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/272191"
@@ -4197,7 +4296,7 @@
         "Filtered prefixes @ https://lg.ix.br": "2",
         "ASN": "61605",
         "AS-NAME": "SELIGA TELECOMUNICACOES DO BRASIL EIRELI",
-        "AS Rank": "11186",
+        "AS Rank": "11216",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61605"
@@ -4206,7 +4305,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "6424",
         "AS-NAME": "EDGOO - EDGOO NETWORKS UNIPESSOAL LDA",
-        "AS Rank": "388",
+        "AS Rank": "433",
         "Source": "RIPE",
         "Country": "PT",
         "PeeringDB link": "https://www.peeringdb.com/asn/6424"
@@ -4215,7 +4314,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "16921",
         "AS-NAME": "INTELIGLOBE-1",
-        "AS Rank": "4797",
+        "AS Rank": "4798",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/16921"
@@ -4224,7 +4323,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "23074",
         "AS-NAME": "PETROLEO BRASILEIRO S.A. - PETROBRAS",
-        "AS Rank": "13451",
+        "AS Rank": "13502",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/23074"
@@ -4233,7 +4332,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "23352",
         "AS-NAME": "SERVERCENTRAL",
-        "AS Rank": "824",
+        "AS Rank": "826",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/23352"
@@ -4242,7 +4341,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "23764",
         "AS-NAME": "CTGNET CTGNet",
-        "AS Rank": "55",
+        "AS Rank": "71",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/23764"
@@ -4251,7 +4350,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "28135",
         "AS-NAME": "ASSOCIACAO NACIONAL PARA INCLUSAO DIGITAL - ANID",
-        "AS Rank": "14457",
+        "AS Rank": "14508",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28135"
@@ -4260,7 +4359,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "28296",
         "AS-NAME": "Acessa Telecomunicacoes Ltda",
-        "AS Rank": "6243",
+        "AS Rank": "6226",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28296"
@@ -4269,7 +4368,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "28370",
         "AS-NAME": "GUIFAMI Informatica Ltda.",
-        "AS Rank": "1870",
+        "AS Rank": "1783",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/28370"
@@ -4305,7 +4404,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "53005",
         "AS-NAME": "CONNECT TELECOMUNICACOES LTDA",
-        "AS Rank": "1795",
+        "AS Rank": "1786",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/53005"
@@ -4341,7 +4440,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "61512",
         "AS-NAME": "GIG@NET SOCIEDAD ANONIMA",
-        "AS Rank": "878",
+        "AS Rank": "876",
         "Source": "LACNIC",
         "Country": "PY",
         "PeeringDB link": "https://www.peeringdb.com/asn/61512"
@@ -4350,7 +4449,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "61650",
         "AS-NAME": "-Reserved AS-",
-        "AS Rank": "6700",
+        "AS Rank": "6842",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61650"
@@ -4368,19 +4467,10 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "61817",
         "AS-NAME": "Halley Telecom Comercio & Servico Ltda",
-        "AS Rank": "1928",
+        "AS Rank": "2115",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/61817"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "1",
-        "ASN": "61884",
-        "AS-NAME": "OLLA COMUNICACAO LTDA",
-        "AS Rank": "648",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/61884"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "1",
@@ -4413,7 +4503,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "263336",
         "AS-NAME": "EXTREME WI",
-        "AS Rank": "10215",
+        "AS Rank": "10220",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263336"
@@ -4422,7 +4512,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "263387",
         "AS-NAME": "PLANET NET",
-        "AS Rank": "32960",
+        "AS Rank": "33036",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263387"
@@ -4431,7 +4521,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "263541",
         "AS-NAME": "IMF NETWORK DATA LTDA - ME",
-        "AS Rank": "3456",
+        "AS Rank": "3447",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263541"
@@ -4440,7 +4530,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "263625",
         "AS-NAME": "NEW WORLD PONTO COM INFORMATICA LTDA - ME",
-        "AS Rank": "2500",
+        "AS Rank": "2480",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263625"
@@ -4449,7 +4539,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "263812",
         "AS-NAME": "SONDATECH S.A.S.",
-        "AS Rank": "5157",
+        "AS Rank": "5161",
         "Source": "LACNIC",
         "Country": "AR",
         "PeeringDB link": "https://www.peeringdb.com/asn/263812"
@@ -4458,7 +4548,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "264017",
         "AS-NAME": "WLAN SOLUCOES TECNOLOGICAS",
-        "AS Rank": "6472",
+        "AS Rank": "6468",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264017"
@@ -4485,7 +4575,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "264332",
         "AS-NAME": "CONEXAO INOVE TELECOMUNICACOES LTDA ME",
-        "AS Rank": "10547",
+        "AS Rank": "7063",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264332"
@@ -4494,7 +4584,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "264517",
         "AS-NAME": "GM NETWORK TELECOMUNICACOES LTDA - ME",
-        "AS Rank": "2864",
+        "AS Rank": "2845",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/264517"
@@ -4512,7 +4602,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "265330",
         "AS-NAME": "Ponto a Ponto Telecom do Brasil",
-        "AS Rank": "3513",
+        "AS Rank": "3506",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/265330"
@@ -4530,7 +4620,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "266185",
         "AS-NAME": "Spin Telecomunicacoes",
-        "AS Rank": "6996",
+        "AS Rank": "6997",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266185"
@@ -4539,25 +4629,16 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "266280",
         "AS-NAME": "Saga Internet",
-        "AS Rank": "8262",
+        "AS Rank": "8234",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266280"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "1",
-        "ASN": "266416",
-        "AS-NAME": "L3 NETWORKS E TELECOMUNICACOES LTDA",
-        "AS Rank": "2620",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/266416"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "266498",
         "AS-NAME": "UNIVERSO FIBER COMUNICACAO MULTIMIDIA",
-        "AS Rank": "10523",
+        "AS Rank": "10526",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266498"
@@ -4566,7 +4647,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "266602",
         "AS-NAME": "ODATA S.A.",
-        "AS Rank": "3415",
+        "AS Rank": "3404",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/266602"
@@ -4584,7 +4665,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "267388",
         "AS-NAME": "Voafibra Comunicacao",
-        "AS Rank": "19262",
+        "AS Rank": "19319",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/267388"
@@ -4600,18 +4681,9 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "1",
-        "ASN": "268323",
-        "AS-NAME": "AZZA TELECOM SERVICOS EM TELECOMUNICACOES LTDA",
-        "AS Rank": "3061",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/268323"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "268574",
         "AS-NAME": "Speed Net Comunicacoes Ltda",
-        "AS Rank": "33364",
+        "AS Rank": "32859",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268574"
@@ -4620,7 +4692,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "268605",
         "AS-NAME": "SRG TELECOM LTDA",
-        "AS Rank": "7107",
+        "AS Rank": "7096",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/268605"
@@ -4638,7 +4710,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "269070",
         "AS-NAME": "Hostzone Tecnologia LTDA",
-        "AS Rank": "4468",
+        "AS Rank": "4451",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269070"
@@ -4647,7 +4719,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "269368",
         "AS-NAME": "Providers Servicos em Telecomunicacoes LTDA",
-        "AS Rank": "34731",
+        "AS Rank": "33304",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/269368"
@@ -4656,7 +4728,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "270350",
         "AS-NAME": "RDS TECNOLOGIA-ME",
-        "AS Rank": "33174",
+        "AS Rank": "33036",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270350"
@@ -4665,7 +4737,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "270398",
         "AS-NAME": "CALCONTEC TEL.ECOMUNICACOES E INFORMATICA LTDA",
-        "AS Rank": "47633",
+        "AS Rank": "47629",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270398"
@@ -4674,7 +4746,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "270417",
         "AS-NAME": "UP Down Telecom Ltda",
-        "AS Rank": "1882",
+        "AS Rank": "1945",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270417"
@@ -4683,7 +4755,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "270477",
         "AS-NAME": "UFO TELECOM COMUNICACAO DE MULTIMIDIA EIRELI",
-        "AS Rank": "32960",
+        "AS Rank": "11006",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270477"
@@ -4692,7 +4764,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "270735",
         "AS-NAME": "COMPUTIZE NETWORK TELECOMUNICACOES LTDA",
-        "AS Rank": "574",
+        "AS Rank": "482",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/270735"
@@ -4708,9 +4780,18 @@
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "1",
+        "ASN": "271110",
+        "AS-NAME": "LEWITEL TELECOM",
+        "AS Rank": "33036",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/271110"
+    },
+    {
+        "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "271188",
         "AS-NAME": "VOCAL NET TELECOMUNICACOES LTDA",
-        "AS Rank": "58842",
+        "AS Rank": "58859",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271188"
@@ -4719,19 +4800,10 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "271537",
         "AS-NAME": "Mino Host Hospedagem e Desenvolvimento de Sites",
-        "AS Rank": "77962",
+        "AS Rank": "78025",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/271537"
-    },
-    {
-        "Filtered prefixes @ https://lg.ix.br": "1",
-        "ASN": "271586",
-        "AS-NAME": "MR Digital Servicos e Comunicacoes Ltda",
-        "AS Rank": "33290",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/271586"
     },
     {
         "Filtered prefixes @ https://lg.ix.br": "1",
@@ -4773,7 +4845,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "274607",
         "AS-NAME": "GHT Telecom",
-        "AS Rank": "48517",
+        "AS Rank": "47653",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/274607"
@@ -4782,7 +4854,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "274651",
         "AS-NAME": "HC4W - SOLUCOES EM TECNOLOGIA E HOSPEDAGEM LTDA",
-        "AS Rank": "77499",
+        "AS Rank": "77566",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/274651"
@@ -4800,7 +4872,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "52794",
         "AS-NAME": "Net Flex Ltda ME",
-        "AS Rank": "9133",
+        "AS Rank": "9114",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/52794"
@@ -4809,7 +4881,7 @@
         "Filtered prefixes @ https://lg.ix.br": "1",
         "ASN": "262687",
         "AS-NAME": "Screen Saver Informatica LTDA",
-        "AS Rank": "9552",
+        "AS Rank": "9536",
         "Source": "LACNIC",
         "Country": "BR",
         "PeeringDB link": "https://www.peeringdb.com/asn/262687"
