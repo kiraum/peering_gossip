@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1432",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1418",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "100",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "857",
+        "Filtered prefixes @ https://lg.ams-ix.net": "862",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "8999",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "180",
+        "Filtered prefixes @ https://lg.ams-ix.net": "194",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4686",
@@ -54,13 +54,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "72",
+        "Filtered prefixes @ https://lg.ams-ix.net": "82",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "44",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "96",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "38",
@@ -70,15 +79,6 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "32",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "96",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
@@ -117,7 +117,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "12",
+        "Filtered prefixes @ https://lg.ams-ix.net": "10",
+        "ASN": "199524",
+        "AS-NAME": "GCORE - G-Core Labs S.A.",
+        "AS Rank": "274",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "142108",
         "AS-NAME": "ROTKONETWORKSOU-AS-AP Rotko Networks",
         "AS Rank": "48516",
@@ -127,12 +136,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
-        "ASN": "199524",
-        "AS-NAME": "GCORE - G-Core Labs S.A.",
-        "AS Rank": "274",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "610",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -169,15 +178,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "610",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
