@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "230",
+        "Filtered prefixes @ https://alice-rs.linx.net": "225",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "46",
+        "Filtered prefixes @ https://alice-rs.linx.net": "44",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
         "AS Rank": "43",
@@ -163,6 +163,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "16",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "24",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "37678",
         "AS-NAME": "BOFINET",
         "AS Rank": "1595",
@@ -190,30 +199,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "24",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "96",
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
-        "ASN": "33763",
-        "AS-NAME": "Paratus",
-        "AS Rank": "546",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
