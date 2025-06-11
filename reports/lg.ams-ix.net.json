@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1394",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1408",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "100",
@@ -18,13 +18,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "865",
+        "Filtered prefixes @ https://lg.ams-ix.net": "863",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "8999",
         "Source": "AFRINIC",
         "Country": "BJ",
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "152",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "6",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
@@ -45,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "129",
+        "Filtered prefixes @ https://lg.ams-ix.net": "130",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
         "AS Rank": "252",
@@ -54,22 +63,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "100",
+        "Filtered prefixes @ https://lg.ams-ix.net": "90",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4686",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "62",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "6",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "44",
@@ -117,6 +117,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "12",
+        "ASN": "136342",
+        "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
+        "AS Rank": "9586",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136342"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
@@ -126,6 +135,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "8",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "610",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "272996",
         "AS-NAME": "SINCERE NETWORKS B.V.",
@@ -133,6 +151,15 @@
         "Source": "LACNIC",
         "Country": "CW",
         "PeeringDB link": "https://www.peeringdb.com/asn/272996"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "55352",
+        "AS-NAME": "FIVENET-IN Microscan Internet Limited",
+        "AS Rank": "758",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55352"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -163,12 +190,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "3",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "610",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+        "ASN": "20940",
+        "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
+        "AS Rank": "1953",
+        "Source": "RIPE",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20940"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -190,12 +217,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "55352",
-        "AS-NAME": "FIVENET-IN Microscan Internet Limited",
-        "AS Rank": "758",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55352"
+        "ASN": "57976",
+        "AS-NAME": "BLIZZARD - Blizzard Entertainment, Inc",
+        "AS Rank": "7784",
+        "Source": "RIPE",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57976"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -217,11 +244,38 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1",
-        "ASN": "20940",
-        "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
-        "AS Rank": "1953",
-        "Source": "RIPE",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20940"
+        "ASN": "36351",
+        "AS-NAME": "SOFTLAYER",
+        "AS Rank": "1806",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36351"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "132770",
+        "AS-NAME": "GAZON-AS-IN Gazon Communications India Limited",
+        "AS Rank": "508",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/132770"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "133271",
+        "AS-NAME": "WILLOPL-AS-IN Willaegis Online Private Limited",
+        "AS Rank": "10276",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/133271"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "133296",
+        "AS-NAME": "WEBWERKS-AS-IN Web Werks India Pvt. Ltd.",
+        "AS Rank": "368",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/133296"
     }
 ]
