@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1410",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1404",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "100",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "864",
+        "Filtered prefixes @ https://lg.ams-ix.net": "860",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "8999",
@@ -54,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "102",
+        "Filtered prefixes @ https://lg.ams-ix.net": "92",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "98",
+        "Filtered prefixes @ https://lg.ams-ix.net": "86",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4686",
@@ -81,7 +81,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "40",
+        "Filtered prefixes @ https://lg.ams-ix.net": "34",
+        "ASN": "17408",
+        "AS-NAME": "ABOVE-AS-AP AboveNet Communications Taiwan",
+        "AS Rank": "515",
+        "Source": "APNIC",
+        "Country": "TW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/17408"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "32",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "258",
@@ -90,13 +99,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "32",
-        "ASN": "17408",
-        "AS-NAME": "ABOVE-AS-AP AboveNet Communications Taiwan",
-        "AS Rank": "515",
-        "Source": "APNIC",
-        "Country": "TW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/17408"
+        "Filtered prefixes @ https://lg.ams-ix.net": "26",
+        "ASN": "36902",
+        "AS-NAME": "ASINTELVISION",
+        "AS Rank": "6079",
+        "Source": "AFRINIC",
+        "Country": "SC",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
@@ -115,6 +124,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136342"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "12",
+        "ASN": "9304",
+        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
+        "AS Rank": "61",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
@@ -187,15 +205,6 @@
         "Source": "APNIC",
         "Country": "VN",
         "PeeringDB link": "https://www.peeringdb.com/asn/7552"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "9304",
-        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
-        "AS Rank": "61",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
