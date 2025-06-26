@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1402",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1400",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "103",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "878",
+        "Filtered prefixes @ https://lg.ams-ix.net": "877",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18408",
@@ -36,6 +36,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "157",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "4710",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
         "ASN": "4775",
         "AS-NAME": "GLOBE-TELECOM-AS Globe Telecoms",
@@ -43,15 +52,6 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "148",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "4710",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "134",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "52",
+        "Filtered prefixes @ https://lg.ams-ix.net": "54",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "100",
@@ -97,15 +97,6 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "26",
-        "ASN": "36902",
-        "AS-NAME": "ASINTELVISION",
-        "AS Rank": "6098",
-        "Source": "AFRINIC",
-        "Country": "SC",
-        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
@@ -187,6 +178,15 @@
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "36902",
+        "AS-NAME": "ASINTELVISION",
+        "AS Rank": "6098",
+        "Source": "AFRINIC",
+        "Country": "SC",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "3",
