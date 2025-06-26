@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "892",
+        "Filtered prefixes @ https://alice-rs.linx.net": "890",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -54,6 +54,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "134",
+        "ASN": "20764",
+        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
+        "AS Rank": "27",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "66",
         "ASN": "2018",
         "AS-NAME": "TENET-1",
@@ -81,6 +90,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/21859"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "46",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031",
+        "AS Rank": "46",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "45",
         "ASN": "24482",
         "AS-NAME": "SGGS-AS-AP SG.GS",
@@ -90,16 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "44",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031",
-        "AS Rank": "46",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "38",
+        "Filtered prefixes @ https://alice-rs.linx.net": "40",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "125",
@@ -153,22 +162,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "20",
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
         "ASN": "37468",
         "AS-NAME": "ANGOLA-CABLES",
         "AS Rank": "23",
         "Source": "AFRINIC",
         "Country": "AO",
         "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "18",
-        "ASN": "20764",
-        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
-        "AS Rank": "27",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
@@ -273,7 +273,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "20712",
         "AS-NAME": "AS20712 - Andrews & Arnold Ltd",
-        "AS Rank": "2958",
+        "AS Rank": "2745",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/20712"
@@ -286,15 +286,6 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "77478",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
@@ -352,12 +343,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
-        "AS Rank": "293",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1500",
         "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -376,6 +367,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/12703"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "77478",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -460,12 +460,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1500",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
+        "AS Rank": "293",
         "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -507,7 +507,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "13037",
         "AS-NAME": "ZEN-AS - Zen Internet Ltd",
-        "AS Rank": "4696",
+        "AS Rank": "4719",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13037"
@@ -606,7 +606,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "28792",
         "AS-NAME": "PUBLIC-INTERNET - Public Internet Ltd",
-        "AS Rank": "19151",
+        "AS Rank": "19247",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/28792"
@@ -739,21 +739,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "48237",
-        "AS-NAME": "MOBILY-AS - Etihad Etisalat, a joint stock company",
-        "AS Rank": "466",
-        "Source": "RIPE",
-        "Country": "SA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/48237"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "55818",
         "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
         "AS Rank": "28797",
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
+        "AS Rank": "191",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
