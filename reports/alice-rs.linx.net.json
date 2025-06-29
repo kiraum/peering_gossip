@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "892",
+        "Filtered prefixes @ https://alice-rs.linx.net": "944",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "865",
+        "Filtered prefixes @ https://alice-rs.linx.net": "864",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "79",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "210",
+        "Filtered prefixes @ https://alice-rs.linx.net": "220",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "182",
+        "Filtered prefixes @ https://alice-rs.linx.net": "184",
         "ASN": "39386",
         "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
         "AS Rank": "302",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/21859"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "46",
+        "Filtered prefixes @ https://alice-rs.linx.net": "50",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
         "AS Rank": "46",
@@ -118,6 +118,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "26",
+        "ASN": "20764",
+        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
+        "AS Rank": "27",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "26",
         "ASN": "38158",
         "AS-NAME": "CBN-AS-ID PT. Cyberindo Aditama",
         "AS Rank": "118",
@@ -151,15 +160,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "18",
-        "ASN": "20764",
-        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
-        "AS Rank": "27",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
@@ -226,6 +226,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "100",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "51561",
         "AS-NAME": "AS-ICUK - ICUK Computing Services Limited",
         "AS Rank": "4180",
@@ -277,15 +286,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/20712"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "100",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -538,15 +538,6 @@
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/38182"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "39180",
-        "AS-NAME": "LASOTEL - LASOTEL SAS",
-        "AS Rank": "1279",
-        "Source": "RIPE",
-        "Country": "FR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/39180"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
