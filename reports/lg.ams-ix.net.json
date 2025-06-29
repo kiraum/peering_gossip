@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1730",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1728",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "79",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "866",
+        "Filtered prefixes @ https://lg.ams-ix.net": "874",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18408",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "172",
+        "Filtered prefixes @ https://lg.ams-ix.net": "184",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4710",
@@ -63,22 +63,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "72",
+        "Filtered prefixes @ https://lg.ams-ix.net": "92",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "40",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "100",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "38",
@@ -88,6 +79,15 @@
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/17408"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "38",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "100",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
@@ -135,22 +135,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "646",
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "24482",
+        "AS-NAME": "SGGS-AS-AP SG.GS",
+        "AS Rank": "80",
         "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "149765",
-        "AS-NAME": "CORONET3-AS-AP Coronet Corporation Limited",
-        "AS Rank": "1366",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/149765"
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -198,6 +189,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36902"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "149765",
+        "AS-NAME": "CORONET3-AS-AP Coronet Corporation Limited",
+        "AS Rank": "1366",
+        "Source": "APNIC",
+        "Country": "BD",
+        "PeeringDB link": "https://www.peeringdb.com/asn/149765"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "3",
         "ASN": "20940",
         "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
@@ -217,15 +217,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "24482",
-        "AS-NAME": "SGGS-AS-AP SG.GS",
-        "AS Rank": "80",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "132116",
         "AS-NAME": "ANINETWORK-IN Ani Network Pvt Ltd",
         "AS Rank": "1505",
@@ -235,12 +226,30 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "646",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "32748",
         "AS-NAME": "STEADFAST",
         "AS Rank": "2250",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/32748"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37030",
+        "AS-NAME": "Airtel-Ghana",
+        "AS Rank": "6195",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37030"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
