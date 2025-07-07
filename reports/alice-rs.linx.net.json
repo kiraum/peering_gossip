@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "205",
+        "Filtered prefixes @ https://alice-rs.linx.net": "265",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -126,15 +126,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "30",
-        "ASN": "327814",
-        "AS-NAME": "Ecoband",
-        "AS Rank": "3103",
-        "Source": "AFRINIC",
-        "Country": "GH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/327814"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "26",
         "ASN": "20764",
         "AS-NAME": "RASCOM-AS - CJSC RASCOM",
@@ -151,6 +142,15 @@
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "24",
+        "ASN": "327814",
+        "AS-NAME": "Ecoband",
+        "AS Rank": "3103",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/327814"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "22",
@@ -351,15 +351,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1500",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
         "ASN": "12703",
         "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
@@ -466,6 +457,15 @@
         "Source": "APNIC",
         "Country": "KH",
         "PeeringDB link": "https://www.peeringdb.com/asn/55329"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1500",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
