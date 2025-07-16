@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "873",
+        "Filtered prefixes @ https://lg.ams-ix.net": "863",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18408",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "198",
+        "Filtered prefixes @ https://lg.ams-ix.net": "184",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4710",
@@ -54,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "82",
+        "Filtered prefixes @ https://lg.ams-ix.net": "86",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "100",
@@ -88,15 +88,6 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "38",
-        "ASN": "15802",
-        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
-        "AS Rank": "620",
-        "Source": "RIPE",
-        "Country": "AE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "32",
@@ -136,6 +127,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "646",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
         "ASN": "149765",
         "AS-NAME": "CORONET3-AS-AP Coronet Corporation Limited",
         "AS Rank": "1366",
@@ -172,30 +172,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "133271",
-        "AS-NAME": "WILLOPL-AS-IN Willaegis Online Private Limited",
-        "AS Rank": "7271",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/133271"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "646",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
         "AS Rank": "2417",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/29091"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "15802",
+        "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
+        "AS Rank": "620",
+        "Source": "RIPE",
+        "Country": "AE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15802"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -262,6 +253,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "133271",
+        "AS-NAME": "WILLOPL-AS-IN Willaegis Online Private Limited",
+        "AS Rank": "7271",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/133271"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "133296",
         "AS-NAME": "WEBWERKS-AS-IN Web Werks India Pvt. Ltd.",
         "AS Rank": "348",
@@ -288,12 +288,12 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/32748"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "37030",
-        "AS-NAME": "Airtel-Ghana",
-        "AS Rank": "6195",
-        "Source": "AFRINIC",
-        "Country": "GH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37030"
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "27694",
+        "AS-NAME": "Flamingo TV Bonaire N.V.",
+        "AS Rank": "18244",
+        "Source": "LACNIC",
+        "Country": "BQ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/27694"
     }
 ]
