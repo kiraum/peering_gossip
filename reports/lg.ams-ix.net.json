@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1392",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1404",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "103",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "863",
+        "Filtered prefixes @ https://lg.ams-ix.net": "782",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18408",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "184",
+        "Filtered prefixes @ https://lg.ams-ix.net": "197",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4710",
@@ -54,15 +54,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "86",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "100",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "70",
         "ASN": "329099",
         "AS-NAME": "MITL1-AS",
@@ -70,6 +61,15 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "50",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "100",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "38",
@@ -126,7 +126,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
         "AS Rank": "646",
@@ -288,12 +288,12 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/32748"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1",
-        "ASN": "27694",
-        "AS-NAME": "Flamingo TV Bonaire N.V.",
-        "AS Rank": "18244",
-        "Source": "LACNIC",
-        "Country": "BQ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/27694"
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37030",
+        "AS-NAME": "Airtel-Ghana",
+        "AS Rank": "6195",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37030"
     }
 ]
