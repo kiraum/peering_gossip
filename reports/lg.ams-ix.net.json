@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1754",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1752",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "79",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1404",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1406",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "103",
@@ -18,16 +18,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "873",
+        "Filtered prefixes @ https://lg.ams-ix.net": "815",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
-        "AS Rank": "18408",
+        "AS Rank": "18212",
         "Source": "AFRINIC",
         "Country": "BJ",
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "306",
+        "Filtered prefixes @ https://lg.ams-ix.net": "320",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
         "AS Rank": "245",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "300",
+        "Filtered prefixes @ https://lg.ams-ix.net": "182",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4705",
@@ -52,6 +52,15 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "88",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "101",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "70",
@@ -72,15 +81,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "44",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "100",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "38",
         "ASN": "17408",
         "AS-NAME": "ABOVE-AS-AP AboveNet Communications Taiwan",
@@ -90,22 +90,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/17408"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "32",
-        "ASN": "136342",
-        "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
-        "AS Rank": "9656",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136342"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "30",
+        "Filtered prefixes @ https://lg.ams-ix.net": "38",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "264",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "32",
+        "ASN": "136342",
+        "AS-NAME": "WINUXC-AS Winux Communications Pvt. Ltd.",
+        "AS Rank": "9800",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136342"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
@@ -133,6 +133,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "132116",
+        "AS-NAME": "ANINETWORK-IN Ani Network Pvt Ltd",
+        "AS Rank": "1505",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/132116"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
@@ -169,15 +178,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "132116",
-        "AS-NAME": "ANINETWORK-IN Ani Network Pvt Ltd",
-        "AS Rank": "1505",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/132116"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -246,7 +246,7 @@
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "135834",
         "AS-NAME": "MULTIFI-AS Multicraft Digital Technologies Private Limited",
-        "AS Rank": "4488",
+        "AS Rank": "3974",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/135834"
