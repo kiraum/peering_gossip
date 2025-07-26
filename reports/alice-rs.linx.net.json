@@ -3,16 +3,16 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "876",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
-        "AS Rank": "79",
+        "AS Rank": "64",
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "786",
+        "Filtered prefixes @ https://alice-rs.linx.net": "782",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
-        "AS Rank": "20",
+        "AS Rank": "21",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
@@ -28,6 +28,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "200",
+        "ASN": "39386",
+        "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
+        "AS Rank": "297",
+        "Source": "RIPE",
+        "Country": "SA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/39386"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "195",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -36,19 +45,10 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "200",
-        "ASN": "39386",
-        "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
-        "AS Rank": "302",
-        "Source": "RIPE",
-        "Country": "SA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/39386"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "150",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
-        "AS Rank": "800",
+        "AS Rank": "757",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
@@ -66,7 +66,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "62",
         "ASN": "35598",
         "AS-NAME": "INETCOM - INETCOM CARRIER LLC",
-        "AS Rank": "42",
+        "AS Rank": "48",
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/35598"
@@ -102,7 +102,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "36",
         "ASN": "8560",
         "AS-NAME": "IONOS-AS - IONOS SE",
-        "AS Rank": "1911",
+        "AS Rank": "2001",
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
@@ -127,18 +127,9 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "24",
-        "ASN": "20764",
-        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
-        "AS Rank": "26",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "23",
         "ASN": "9930",
         "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14",
-        "AS Rank": "375",
+        "AS Rank": "376",
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
@@ -147,7 +138,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "22",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN - Nova hf",
-        "AS Rank": "956",
+        "AS Rank": "974",
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
@@ -156,7 +147,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "13213",
         "AS-NAME": "UK2NET-AS - UK-2 Limited",
-        "AS Rank": "2110",
+        "AS Rank": "1672",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13213"
@@ -174,7 +165,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "29119",
         "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-        "AS Rank": "174",
+        "AS Rank": "169",
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
@@ -192,7 +183,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
-        "AS Rank": "264",
+        "AS Rank": "254",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
@@ -201,7 +192,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "37468",
         "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "23",
+        "AS Rank": "24",
         "Source": "AFRINIC",
         "Country": "AO",
         "PeeringDB link": "https://www.peeringdb.com/asn/37468"
@@ -237,7 +228,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "37678",
         "AS-NAME": "BOFINET",
-        "AS Rank": "1536",
+        "AS Rank": "1736",
         "Source": "AFRINIC",
         "Country": "BW",
         "PeeringDB link": "https://www.peeringdb.com/asn/37678"
@@ -255,7 +246,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "3462",
         "AS-NAME": "HINET Data Communication Business Group",
-        "AS Rank": "400",
+        "AS Rank": "397",
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/3462"
@@ -282,7 +273,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "20712",
         "AS-NAME": "AS20712 - Andrews & Arnold Ltd",
-        "AS Rank": "2745",
+        "AS Rank": "2570",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/20712"
@@ -306,6 +297,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/49505"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1455",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "206078",
         "AS-NAME": "ULTRANETWORKS - UltraNetworks Limited",
@@ -318,7 +318,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "8529",
         "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
-        "AS Rank": "83",
+        "AS Rank": "82",
         "Source": "RIPE",
         "Country": "OM",
         "PeeringDB link": "https://www.peeringdb.com/asn/8529"
@@ -336,7 +336,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "33763",
         "AS-NAME": "Paratus",
-        "AS Rank": "521",
+        "AS Rank": "524",
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/33763"
@@ -345,7 +345,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "37100",
         "AS-NAME": "SEACOM-AS",
-        "AS Rank": "93",
+        "AS Rank": "94",
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37100"
@@ -372,7 +372,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "9050",
         "AS-NAME": "RTD - Orange Romania S.A.",
-        "AS Rank": "166",
+        "AS Rank": "172",
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/9050"
@@ -381,7 +381,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
-        "AS Rank": "64",
+        "AS Rank": "57",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
@@ -399,7 +399,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "15802",
         "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
-        "AS Rank": "620",
+        "AS Rank": "707",
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
@@ -408,7 +408,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "20804",
         "AS-NAME": "ASN-TELENERGO - Exatel S.A.",
-        "AS Rank": "123",
+        "AS Rank": "120",
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20804"
@@ -426,7 +426,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "24691",
         "AS-NAME": "TOGOTEL-AS",
-        "AS Rank": "12512",
+        "AS Rank": "5738",
         "Source": "RIPE",
         "Country": "TG",
         "PeeringDB link": "https://www.peeringdb.com/asn/24691"
@@ -435,7 +435,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER",
-        "AS Rank": "1836",
+        "AS Rank": "1898",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/36351"
@@ -460,15 +460,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1500",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "64049",
         "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
         "AS Rank": "86",
@@ -489,7 +480,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "7155",
         "AS-NAME": "VIASAT-SP-BACKBONE",
-        "AS Rank": "3600",
+        "AS Rank": "4080",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/7155"
@@ -588,7 +579,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "137409",
         "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "70",
+        "AS Rank": "69",
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/137409"
@@ -597,7 +588,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "22925",
         "AS-NAME": "ALLIED-TELECOM",
-        "AS Rank": "1139",
+        "AS Rank": "1138",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/22925"
@@ -606,7 +597,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "7195",
         "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "16",
+        "AS Rank": "22",
         "Source": "LACNIC",
         "Country": "CO",
         "PeeringDB link": "https://www.peeringdb.com/asn/7195"
@@ -642,7 +633,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "2635",
         "AS-NAME": "AUTOMATTIC",
-        "AS Rank": "14708",
+        "AS Rank": "14653",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/2635"
@@ -651,7 +642,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "3214",
         "AS-NAME": "XTOM - xTom GmbH",
-        "AS Rank": "382",
+        "AS Rank": "528",
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/3214"
@@ -669,7 +660,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "6866",
         "AS-NAME": "CYTA-NETWORK - Cyprus Telecommunications Authority",
-        "AS Rank": "1075",
+        "AS Rank": "1043",
         "Source": "RIPE",
         "Country": "CY",
         "PeeringDB link": "https://www.peeringdb.com/asn/6866"
@@ -678,7 +669,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "7552",
         "AS-NAME": "VIETEL-AS-AP Viettel Group",
-        "AS Rank": "215",
+        "AS Rank": "176",
         "Source": "APNIC",
         "Country": "VN",
         "PeeringDB link": "https://www.peeringdb.com/asn/7552"
@@ -705,7 +696,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "9381",
         "AS-NAME": "HKBNES-AS-AP HKBN Enterprise Solutions HK Limited",
-        "AS Rank": "527",
+        "AS Rank": "547",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9381"
@@ -714,7 +705,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "12741",
         "AS-NAME": "AS-NETIA - Netia SA",
-        "AS Rank": "97",
+        "AS Rank": "100",
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/12741"
@@ -739,15 +730,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "17494",
-        "AS-NAME": "BTTB-AS-AP Telecom Operator & Internet Service Provider as well",
-        "AS Rank": "161",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/17494"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "19711",
         "AS-NAME": "SWAZINET",
         "AS Rank": "2220",
@@ -759,7 +741,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "24429",
         "AS-NAME": "TAOBAO Zhejiang Taobao Network Co.",
-        "AS Rank": "4112",
+        "AS Rank": "4764",
         "Source": "APNIC",
         "Country": "CN",
         "PeeringDB link": "https://www.peeringdb.com/asn/24429"
@@ -772,6 +754,15 @@
         "Source": "RIPE",
         "Country": "AG",
         "PeeringDB link": "https://www.peeringdb.com/asn/31500"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "34927",
+        "AS-NAME": "IFOG-GMBH - iFog GmbH",
+        "AS Rank": "319",
+        "Source": "RIPE",
+        "Country": "CH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/34927"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -822,7 +813,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "57344",
         "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
-        "AS Rank": "191",
+        "AS Rank": "276",
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/57344"
@@ -831,7 +822,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "58715",
         "AS-NAME": "EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD.",
-        "AS Rank": "355",
+        "AS Rank": "356",
         "Source": "APNIC",
         "Country": "BD",
         "PeeringDB link": "https://www.peeringdb.com/asn/58715"
@@ -849,7 +840,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "197790",
         "AS-NAME": "AS-ACTUS - Actus S.A.",
-        "AS Rank": "4417",
+        "AS Rank": "3916",
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/197790"
@@ -858,7 +849,7 @@
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "3741",
         "AS-NAME": "IS",
-        "AS Rank": "214",
+        "AS Rank": "218",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/3741"
