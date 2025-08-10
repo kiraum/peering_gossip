@@ -2,7 +2,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 887 | 7713 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia | 64 | APNIC | ID | https://www.peeringdb.com/asn/7713
 680 | 60439 | SERVERNET-AS - SERVERNET INTERNET LIMITED | 8771 | RIPE | GB | https://www.peeringdb.com/asn/60439
 205 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 297 | RIPE | SA | https://www.peeringdb.com/asn/39386
-185 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
+190 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 150 | 36994 | Vodacom-VB | 757 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 66 | 2018 | TENET-1 | 2938 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
 62 | 35598 | INETCOM - INETCOM CARRIER LLC | 48 | RIPE | RU | https://www.peeringdb.com/asn/35598
@@ -12,8 +12,8 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 46 | 30844 | LIQUID-AS - Liquid Telecommunications Ltd | 118 | RIPE | GB | https://www.peeringdb.com/asn/30844
 30 | 327814 | Ecoband | 3451 | AFRINIC | GH | https://www.peeringdb.com/asn/327814
 28 | 38158 | CBN-AS-ID PT. Cyberindo Aditama | 119 | APNIC | ID | https://www.peeringdb.com/asn/38158
-24 | 9930 | TTNET-MY TIME dotCom Berhad No. 14 | 376 | APNIC | MY | https://www.peeringdb.com/asn/9930
 24 | 20764 | RASCOM-AS - CJSC RASCOM | 26 | RIPE | RU | https://www.peeringdb.com/asn/20764
+23 | 9930 | TTNET-MY TIME dotCom Berhad No. 14 | 376 | APNIC | MY | https://www.peeringdb.com/asn/9930
 22 | 44735 | SIP-ASN - Nova hf | 974 | RIPE | IS | https://www.peeringdb.com/asn/44735
 20 | 13213 | UK2NET-AS - UK-2 Limited | 1672 | RIPE | GB | https://www.peeringdb.com/asn/13213
 20 | 24482 | SGGS-AS-AP SG.GS | 78 | APNIC | SG | https://www.peeringdb.com/asn/24482
@@ -36,6 +36,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 8 | 33763 | Paratus | 524 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
 8 | 37100 | SEACOM-AS | 94 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
 8 | 47631 | SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED | 24364 | RIPE | GB | https://www.peeringdb.com/asn/47631
+8 | 56595 | FLUENCY - Fluency Communications Ltd | 1455 | RIPE | GB | https://www.peeringdb.com/asn/56595
 7 | 12703 | PULSANT-AS - Pulsant (Scotland) Ltd | 1557 | RIPE | GB | https://www.peeringdb.com/asn/12703
 6 | 9050 | RTD - Orange Romania S.A. | 172 | RIPE | RO | https://www.peeringdb.com/asn/9050
 6 | 9505 | TWGATE-AP Taiwan Internet Gateway | 463 | APNIC | TW | https://www.peeringdb.com/asn/9505
@@ -44,11 +45,10 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 6 | 36351 | SOFTLAYER | 1898 | ARIN | US | https://www.peeringdb.com/asn/36351
 6 | 49490 | CIRCLENET-AS - Circlenet LLP | 44370 | RIPE | GB | https://www.peeringdb.com/asn/49490
 6 | 55329 | TELCOTECH-KH Telcotech Ltd. | 896 | APNIC | KH | https://www.peeringdb.com/asn/55329
-6 | 56595 | FLUENCY - Fluency Communications Ltd | 1455 | RIPE | GB | https://www.peeringdb.com/asn/56595
 6 | 57463 | NETIX - NetIX Communications JSC | 77412 | RIPE | BG | https://www.peeringdb.com/asn/57463
+6 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 141 | APNIC | ID | https://www.peeringdb.com/asn/136106
 5 | 7155 | VIASAT-SP-BACKBONE | 4080 | ARIN | US | https://www.peeringdb.com/asn/7155
 5 | 13037 | ZEN-AS - Zen Internet Ltd | 4713 | RIPE | GB | https://www.peeringdb.com/asn/13037
-5 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 141 | APNIC | ID | https://www.peeringdb.com/asn/136106
 5 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 37 | RIPE | GB | https://www.peeringdb.com/asn/15412
 4 | 8220 | COLT - COLT Technology Services Group Limited | 42 | RIPE | GB | https://www.peeringdb.com/asn/8220
 4 | 16247 | M247-UK - M247 Ltd | 2401 | RIPE | GB | https://www.peeringdb.com/asn/16247
@@ -68,7 +68,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 3 | 20799 | DATANET-AS - Datanet.co.uk Ltd | 5134 | RIPE | GB | https://www.peeringdb.com/asn/20799
 3 | 28792 | PUBLIC-INTERNET - Public Internet Ltd | 19213 | RIPE | GB | https://www.peeringdb.com/asn/28792
 3 | 61231 | NEOS-NETWORKS - Neos Networks Limited | 1164 | RIPE | GB | https://www.peeringdb.com/asn/61231
-3 | 214402 | SIGNALX - SIGNALX CLOUD COMMUNICATIONS LTD | 30957 | RIPE | GB | https://www.peeringdb.com/asn/214402
 2 | 2635 | AUTOMATTIC | 14653 | ARIN | US | https://www.peeringdb.com/asn/2635
 2 | 3214 | XTOM - xTom GmbH | 528 | RIPE | DE | https://www.peeringdb.com/asn/3214
 2 | 5377 | MARLINK-EMEA - Marlink AS | 4142 | RIPE | NO | https://www.peeringdb.com/asn/5377
@@ -81,7 +80,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 12741 | AS-NETIA - Netia SA | 100 | RIPE | PL | https://www.peeringdb.com/asn/12741
 2 | 12969 | VODAFONE_ICELAND - Ljosleidarinn ehf | 1555 | RIPE | IS | https://www.peeringdb.com/asn/12969
 2 | 13237 | LAMBDANET-AS - euNetworks GmbH | 184 | RIPE | DE | https://www.peeringdb.com/asn/13237
-2 | 17494 | BTTB-AS-AP Telecom Operator & Internet Service Provider as well | 161 | APNIC | BD | https://www.peeringdb.com/asn/17494
 2 | 19711 | SWAZINET | 2220 | AFRINIC | SZ | https://www.peeringdb.com/asn/19711
 2 | 24429 | TAOBAO Zhejiang Taobao Network Co. | 4764 | APNIC | CN | https://www.peeringdb.com/asn/24429
 2 | 31500 | GNM-AS - Global Network Management Inc | 74 | RIPE | AG | https://www.peeringdb.com/asn/31500

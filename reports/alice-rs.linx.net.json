@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "185",
+        "Filtered prefixes @ https://alice-rs.linx.net": "190",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -118,21 +118,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "24",
-        "ASN": "9930",
-        "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14",
-        "AS Rank": "376",
-        "Source": "APNIC",
-        "Country": "MY",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9930"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "24",
         "ASN": "20764",
         "AS-NAME": "RASCOM-AS - CJSC RASCOM",
         "AS Rank": "26",
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "23",
+        "ASN": "9930",
+        "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14",
+        "AS Rank": "376",
+        "Source": "APNIC",
+        "Country": "MY",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9930"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "22",
@@ -333,6 +333,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1455",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
         "ASN": "12703",
         "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
@@ -406,21 +415,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1455",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "57463",
         "AS-NAME": "NETIX - NetIX Communications JSC",
         "AS Rank": "77412",
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS Rank": "141",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -439,15 +448,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13037"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
-        "AS Rank": "141",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -621,15 +621,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/61231"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "214402",
-        "AS-NAME": "SIGNALX - SIGNALX CLOUD COMMUNICATIONS LTD",
-        "AS Rank": "30957",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/214402"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "2635",
         "AS-NAME": "AUTOMATTIC",
@@ -736,15 +727,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/13237"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "17494",
-        "AS-NAME": "BTTB-AS-AP Telecom Operator & Internet Service Provider as well",
-        "AS Rank": "161",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/17494"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
