@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "888",
+        "Filtered prefixes @ https://alice-rs.linx.net": "887",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "64",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "55",
+        "Filtered prefixes @ https://alice-rs.linx.net": "52",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
         "AS Rank": "44",
@@ -90,7 +90,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/21859"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "46",
+        "Filtered prefixes @ https://alice-rs.linx.net": "44",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "118",
@@ -397,6 +397,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "34177",
+        "AS-NAME": "CELESTE-AS - CELESTE SAS",
+        "AS Rank": "1674",
+        "Source": "RIPE",
+        "Country": "FR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/34177"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER",
         "AS Rank": "1898",
@@ -637,6 +646,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/2635"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "3213",
+        "AS-NAME": "BOGONS-ASN - Bogons Ltd",
+        "AS Rank": "8453",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/3213"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
