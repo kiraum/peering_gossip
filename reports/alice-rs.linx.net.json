@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "892",
+        "Filtered prefixes @ https://alice-rs.linx.net": "893",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "64",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "190",
+        "Filtered prefixes @ https://alice-rs.linx.net": "185",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "48",
+        "Filtered prefixes @ https://alice-rs.linx.net": "52",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
         "AS Rank": "44",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "47",
+        "Filtered prefixes @ https://alice-rs.linx.net": "49",
         "ASN": "21859",
         "AS-NAME": "ZEN-ECN",
         "AS Rank": "174",
@@ -163,15 +163,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
-        "ASN": "29119",
-        "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-        "AS Rank": "169",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29119"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "37468",
         "AS-NAME": "ANGOLA-CABLES",
         "AS Rank": "24",
@@ -187,6 +178,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/37497"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
+        "ASN": "29119",
+        "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+        "AS Rank": "169",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29119"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
@@ -532,6 +532,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "44600",
+        "AS-NAME": "GT-AS - \"GIGATRANS UKRAINE\", LLC",
+        "AS Rank": "537",
+        "Source": "RIPE",
+        "Country": "UA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/44600"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "45430",
         "AS-NAME": "SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider",
         "AS Rank": "224",
@@ -790,24 +799,6 @@
         "Source": "RIPE",
         "Country": "UA",
         "PeeringDB link": "https://www.peeringdb.com/asn/35297"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "42295",
-        "AS-NAME": "TBISS-AS - TBISS Ltd",
-        "AS Rank": "6957",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/42295"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "44600",
-        "AS-NAME": "GT-AS - \"GIGATRANS UKRAINE\", LLC",
-        "AS Rank": "537",
-        "Source": "RIPE",
-        "Country": "UA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/44600"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
