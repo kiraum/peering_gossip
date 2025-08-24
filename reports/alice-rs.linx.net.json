@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "156",
+        "Filtered prefixes @ https://alice-rs.linx.net": "152",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -225,6 +225,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/51561"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1456",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
         "ASN": "60171",
         "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
@@ -235,30 +244,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "4651",
-        "AS-NAME": "THAI-GATEWAY The Communications Authority of ThailandCAT",
-        "AS Rank": "204",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/4651"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "37678",
         "AS-NAME": "BOFINET",
         "AS Rank": "1605",
         "Source": "AFRINIC",
         "Country": "BW",
         "PeeringDB link": "https://www.peeringdb.com/asn/37678"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1456",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -277,6 +268,15 @@
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/3462"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "4651",
+        "AS-NAME": "THAI-GATEWAY The Communications Authority of ThailandCAT",
+        "AS Rank": "204",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4651"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -313,6 +313,24 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/49505"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
+        "AS Rank": "69",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "8529",
+        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
+        "AS Rank": "84",
+        "Source": "RIPE",
+        "Country": "OM",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -604,15 +622,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "69",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "197790",
         "AS-NAME": "AS-ACTUS - Actus S.A.",
         "AS Rank": "3942",
@@ -682,15 +691,6 @@
         "Source": "RIPE",
         "Country": "EG",
         "PeeringDB link": "https://www.peeringdb.com/asn/8452"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "8529",
-        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
-        "AS Rank": "84",
-        "Source": "RIPE",
-        "Country": "OM",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
