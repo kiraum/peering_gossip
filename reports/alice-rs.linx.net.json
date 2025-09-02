@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "908",
+        "Filtered prefixes @ https://alice-rs.linx.net": "910",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "66",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "135",
+        "Filtered prefixes @ https://alice-rs.linx.net": "134",
         "ASN": "39386",
         "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
         "AS Rank": "306",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "98",
+        "Filtered prefixes @ https://alice-rs.linx.net": "100",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
         "AS Rank": "803",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "24",
+        "Filtered prefixes @ https://alice-rs.linx.net": "23",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "124",
@@ -172,15 +172,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "102",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "327814",
         "AS-NAME": "Ecoband",
         "AS Rank": "3160",
@@ -208,6 +199,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "102",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "60171",
         "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
         "AS Rank": "279",
@@ -217,21 +217,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "24",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "51561",
         "AS-NAME": "AS-ICUK - ICUK Computing Services Limited",
         "AS Rank": "5931",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/51561"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "24",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -376,6 +376,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "77613",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -532,15 +541,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "23764",
-        "AS-NAME": "CTGNET CTGNet",
-        "AS Rank": "64",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "28792",
         "AS-NAME": "PUBLIC-INTERNET - Public Internet Ltd",
         "AS Rank": "19283",
@@ -601,33 +601,6 @@
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/45430"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "48237",
-        "AS-NAME": "MOBILY-AS - Etihad Etisalat, a joint stock company",
-        "AS Rank": "478",
-        "Source": "RIPE",
-        "Country": "SA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/48237"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "77613",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "58715",
-        "AS-NAME": "EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD.",
-        "AS Rank": "355",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58715"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -766,6 +739,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "23764",
+        "AS-NAME": "CTGNET CTGNet",
+        "AS Rank": "64",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "24429",
         "AS-NAME": "TAOBAO Zhejiang Taobao Network Co.",
         "AS Rank": "2947",
@@ -826,6 +808,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/53427"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "58715",
+        "AS-NAME": "EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD.",
+        "AS Rank": "355",
+        "Source": "APNIC",
+        "Country": "BD",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58715"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
