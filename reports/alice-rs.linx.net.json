@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "910",
+        "Filtered prefixes @ https://alice-rs.linx.net": "917",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "66",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "117",
+        "Filtered prefixes @ https://alice-rs.linx.net": "120",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -36,22 +36,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "100",
+        "Filtered prefixes @ https://alice-rs.linx.net": "98",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
         "AS Rank": "803",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "53",
-        "ASN": "9498",
-        "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
-        "AS Rank": "21",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "33",
@@ -72,6 +63,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35598"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "29",
+        "ASN": "9498",
+        "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
+        "AS Rank": "21",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9498"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "24",
         "ASN": "8560",
         "AS-NAME": "IONOS-AS - IONOS SE",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "24",
+        "Filtered prefixes @ https://alice-rs.linx.net": "23",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "124",
@@ -280,15 +280,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "3462",
-        "AS-NAME": "HINET Data Communication Business Group",
-        "AS Rank": "392",
-        "Source": "APNIC",
-        "Country": "TW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/3462"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "7155",
         "AS-NAME": "VIASAT-SP-BACKBONE",
         "AS Rank": "4129",
@@ -406,15 +397,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "9505",
-        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
-        "AS Rank": "483",
-        "Source": "APNIC",
-        "Country": "TW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9505"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "16247",
         "AS-NAME": "M247-UK - M247 Ltd",
         "AS Rank": "2419",
@@ -511,6 +493,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/8220"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "9505",
+        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
+        "AS Rank": "483",
+        "Source": "APNIC",
+        "Country": "TW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9505"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -799,6 +790,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/53427"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
+        "AS Rank": "268",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
