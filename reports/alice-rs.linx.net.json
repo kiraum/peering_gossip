@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "98",
+        "Filtered prefixes @ https://alice-rs.linx.net": "102",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
         "AS Rank": "803",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35598"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "29",
+        "Filtered prefixes @ https://alice-rs.linx.net": "30",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "21",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "23",
+        "Filtered prefixes @ https://alice-rs.linx.net": "24",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "124",
@@ -126,13 +126,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/38158"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "9930",
-        "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14",
-        "AS Rank": "368",
-        "Source": "APNIC",
-        "Country": "MY",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9930"
+        "Filtered prefixes @ https://alice-rs.linx.net": "13",
+        "ASN": "44735",
+        "AS-NAME": "SIP-ASN - Nova hf",
+        "AS Rank": "977",
+        "Source": "RIPE",
+        "Country": "IS",
+        "PeeringDB link": "https://www.peeringdb.com/asn/44735"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -153,6 +153,33 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
+        "AS Rank": "69",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "8529",
+        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
+        "AS Rank": "84",
+        "Source": "RIPE",
+        "Country": "OM",
+        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "9930",
+        "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14",
+        "AS Rank": "368",
+        "Source": "APNIC",
+        "Country": "MY",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9930"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
@@ -162,22 +189,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "69",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "29119",
+        "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+        "AS Rank": "178",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29119"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "8529",
-        "AS-NAME": "OMANTEL-AS - Zain Omantel International FZ-LLC",
-        "AS Rank": "84",
-        "Source": "RIPE",
-        "Country": "OM",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8529"
+        "ASN": "33763",
+        "AS-NAME": "Paratus",
+        "AS Rank": "526",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -196,33 +223,6 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
-        "ASN": "29119",
-        "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-        "AS Rank": "178",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29119"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
-        "ASN": "33763",
-        "AS-NAME": "Paratus",
-        "AS Rank": "526",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
-        "ASN": "44735",
-        "AS-NAME": "SIP-ASN - Nova hf",
-        "AS Rank": "977",
-        "Source": "RIPE",
-        "Country": "IS",
-        "PeeringDB link": "https://www.peeringdb.com/asn/44735"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
@@ -253,6 +253,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "16247",
+        "AS-NAME": "M247-UK - M247 Ltd",
+        "AS Rank": "2419",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16247"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "37678",
         "AS-NAME": "BOFINET",
         "AS Rank": "1605",
@@ -277,6 +286,15 @@
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "3462",
+        "AS-NAME": "HINET Data Communication Business Group",
+        "AS Rank": "392",
+        "Source": "APNIC",
+        "Country": "TW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/3462"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -322,6 +340,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/15412"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "7195",
+        "AS-NAME": "EDGEUNO S.A.S",
+        "AS Rank": "22",
+        "Source": "LACNIC",
+        "Country": "CO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -397,12 +424,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "16247",
-        "AS-NAME": "M247-UK - M247 Ltd",
-        "AS Rank": "2419",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16247"
+        "ASN": "9505",
+        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
+        "AS Rank": "483",
+        "Source": "APNIC",
+        "Country": "TW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9505"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -450,15 +477,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/61049"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
-        "AS Rank": "137",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "1828",
         "AS-NAME": "UNITAS",
@@ -478,30 +496,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "22",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "8220",
         "AS-NAME": "COLT - COLT Technology Services Group Limited",
         "AS Rank": "43",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/8220"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "9505",
-        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
-        "AS Rank": "483",
-        "Source": "APNIC",
-        "Country": "TW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9505"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -592,6 +592,15 @@
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/45430"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS Rank": "137",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
