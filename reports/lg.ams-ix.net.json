@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1384",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1386",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "864",
+        "Filtered prefixes @ https://lg.ams-ix.net": "865",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18450",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "180",
+        "Filtered prefixes @ https://lg.ams-ix.net": "166",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4750",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "134",
+        "Filtered prefixes @ https://lg.ams-ix.net": "136",
         "ASN": "329099",
         "AS-NAME": "MITL1-AS",
         "AS Rank": "48309",
@@ -82,21 +82,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "48",
-        "ASN": "18229",
-        "AS-NAME": "CTRLS-AS-IN CtrlS",
-        "AS Rank": "236",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "48",
         "ASN": "45629",
         "AS-NAME": "JASTEL-NETWORK-TH-AP JasTel Network International Gateway",
         "AS Rank": "322",
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "46",
+        "ASN": "18229",
+        "AS-NAME": "CTRLS-AS-IN CtrlS",
+        "AS Rank": "236",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "38",
@@ -126,7 +126,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
+        "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
         "AS Rank": "659",
@@ -250,6 +250,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/32748"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37030",
+        "AS-NAME": "Airtel-Ghana",
+        "AS Rank": "6220",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37030"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
