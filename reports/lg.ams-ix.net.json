@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1348",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1338",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "856",
+        "Filtered prefixes @ https://lg.ams-ix.net": "860",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18450",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "90",
+        "Filtered prefixes @ https://lg.ams-ix.net": "94",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "102",
@@ -54,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "72",
+        "Filtered prefixes @ https://lg.ams-ix.net": "84",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "66",
+        "Filtered prefixes @ https://lg.ams-ix.net": "64",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
         "AS Rank": "58",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "64",
+        "Filtered prefixes @ https://lg.ams-ix.net": "50",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4750",
@@ -286,5 +286,14 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/137996"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "137557",
+        "AS-NAME": "IGCL-AS-AP International gateway co.",
+        "AS Rank": "1026",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     }
 ]
