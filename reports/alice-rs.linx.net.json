@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "119",
+        "Filtered prefixes @ https://alice-rs.linx.net": "117",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -154,30 +154,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "16637",
-        "AS-NAME": "MTNNS-AS",
-        "AS Rank": "241",
-        "Source": "AFRINIC",
-        "Country": "ZA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "57463",
         "AS-NAME": "NETIX - NetIX Communications JSC",
         "AS Rank": "77613",
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "69",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -225,6 +207,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
+        "AS Rank": "69",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
@@ -259,6 +250,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/15412"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "16637",
+        "AS-NAME": "MTNNS-AS",
+        "AS Rank": "241",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
@@ -358,6 +358,15 @@
         "Source": "LACNIC",
         "Country": "CO",
         "PeeringDB link": "https://www.peeringdb.com/asn/7195"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "12713",
+        "AS-NAME": "OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation)",
+        "AS Rank": "634",
+        "Source": "RIPE",
+        "Country": "GR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12713"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
