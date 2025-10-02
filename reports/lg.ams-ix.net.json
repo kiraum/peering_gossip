@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "512",
+        "Filtered prefixes @ https://lg.ams-ix.net": "508",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18450",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "164",
+        "Filtered prefixes @ https://lg.ams-ix.net": "163",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4750",
@@ -45,15 +45,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "96",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "6",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "94",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
@@ -61,6 +52,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "84",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "6",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "72",
@@ -135,7 +135,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "10",
+        "Filtered prefixes @ https://lg.ams-ix.net": "12",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
         "AS Rank": "405",
@@ -153,7 +153,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37282"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
+        "Filtered prefixes @ https://lg.ams-ix.net": "7",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
         "AS Rank": "2785",
@@ -235,6 +235,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "64567",
+        "AS-NAME": "AMS-IX",
+        "AS Rank": "NA",
+        "Source": "NA",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/64567"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER",
         "AS Rank": "1899",
@@ -297,7 +306,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/137996"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "137557",
         "AS-NAME": "IGCL-AS-AP International gateway co.",
         "AS Rank": "1026",
