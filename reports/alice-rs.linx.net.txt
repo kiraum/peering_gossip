@@ -3,8 +3,8 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 346 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 21 | APNIC | IN | https://www.peeringdb.com/asn/9498
 340 | 60439 | SERVERNET-AS - SERVERNET INTERNET LIMITED | 8813 | RIPE | GB | https://www.peeringdb.com/asn/60439
 132 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 306 | RIPE | SA | https://www.peeringdb.com/asn/39386
+126 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 102 | 36994 | Vodacom-VB | 803 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
-83 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 34 | 2018 | TENET-1 | 2955 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
 32 | 35598 | INETCOM - INETCOM CARRIER LLC | 47 | RIPE | RU | https://www.peeringdb.com/asn/35598
 24 | 8560 | IONOS-AS - IONOS SE | 2018 | RIPE | DE | https://www.peeringdb.com/asn/8560
@@ -23,16 +23,17 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 10 | 37497 | Network-Platforms | 606 | AFRINIC | ZA | https://www.peeringdb.com/asn/37497
 10 | 57463 | NETIX - NetIX Communications JSC | 77613 | RIPE | BG | https://www.peeringdb.com/asn/57463
 10 | 137409 | GSLNETWORKS-AS-AP GSL Networks Pty LTD | 69 | APNIC | AU | https://www.peeringdb.com/asn/137409
-9 | 37662 | WIOCC-AS | 102 | AFRINIC | MU | https://www.peeringdb.com/asn/37662
+8 | 37662 | WIOCC-AS | 102 | AFRINIC | MU | https://www.peeringdb.com/asn/37662
 8 | 51561 | AS-ICUK - ICUK Computing Services Limited | 5931 | RIPE | GB | https://www.peeringdb.com/asn/51561
-8 | 56595 | FLUENCY - Fluency Communications Ltd | 1456 | RIPE | GB | https://www.peeringdb.com/asn/56595
-8 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 38 | RIPE | GB | https://www.peeringdb.com/asn/15412
 7 | 16637 | MTNNS-AS | 241 | AFRINIC | ZA | https://www.peeringdb.com/asn/16637
 7 | 37468 | ANGOLA-CABLES | 24 | AFRINIC | AO | https://www.peeringdb.com/asn/37468
+7 | 37678 | BOFINET | 1605 | AFRINIC | BW | https://www.peeringdb.com/asn/37678
 7 | 49505 | SELECTEL - JSC Selectel | 2561 | RIPE | RU | https://www.peeringdb.com/asn/49505
+7 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 38 | RIPE | GB | https://www.peeringdb.com/asn/15412
 6 | 15802 | DU-AS1 - Emirates Integrated Telecommunications Company PJSC | 728 | RIPE | AE | https://www.peeringdb.com/asn/15802
 6 | 33763 | Paratus | 526 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
 6 | 37100 | SEACOM-AS | 96 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
+6 | 56595 | FLUENCY - Fluency Communications Ltd | 1456 | RIPE | GB | https://www.peeringdb.com/asn/56595
 5 | 3462 | HINET Data Communication Business Group | 392 | APNIC | TW | https://www.peeringdb.com/asn/3462
 5 | 7155 | VIASAT-SP-BACKBONE | 4129 | ARIN | US | https://www.peeringdb.com/asn/7155
 5 | 12703 | PULSANT-AS - Pulsant (Scotland) Ltd | 1480 | RIPE | GB | https://www.peeringdb.com/asn/12703
@@ -52,6 +53,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 3 | 24691 | TOGOTEL-AS | 5779 | RIPE | TG | https://www.peeringdb.com/asn/24691
 3 | 49490 | CIRCLENET-AS - Circlenet LLP | 44481 | RIPE | GB | https://www.peeringdb.com/asn/49490
 3 | 55329 | TELCOTECH-KH Telcotech Ltd. | 899 | APNIC | KH | https://www.peeringdb.com/asn/55329
+3 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 137 | APNIC | ID | https://www.peeringdb.com/asn/136106
 2 | 1828 | UNITAS | 143 | ARIN | US | https://www.peeringdb.com/asn/1828
 2 | 6866 | CYTA-NETWORK - Cyprus Telecommunications Authority | 1020 | RIPE | CY | https://www.peeringdb.com/asn/6866
 2 | 8220 | COLT - COLT Technology Services Group Limited | 43 | RIPE | GB | https://www.peeringdb.com/asn/8220
@@ -66,10 +68,8 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 41313 | NOVATEL-AS - "NOVATEL" EOOD | 590 | RIPE | BG | https://www.peeringdb.com/asn/41313
 2 | 44600 | GT-AS - "GIGATRANS UKRAINE", LLC | 548 | RIPE | UA | https://www.peeringdb.com/asn/44600
 2 | 45430 | SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider | 225 | APNIC | TH | https://www.peeringdb.com/asn/45430
-2 | 48237 | MOBILY-AS - Etihad Etisalat, a joint stock company | 478 | RIPE | SA | https://www.peeringdb.com/asn/48237
-2 | 136106 | FIBERSTAR-AS-ID PT. Mega Akses Persada | 137 | APNIC | ID | https://www.peeringdb.com/asn/136106
+2 | 55685 | JLM-AS-ID PT Jala Lintas Media | 312 | APNIC | ID | https://www.peeringdb.com/asn/55685
 2 | 197790 | AS-ACTUS - Actus S.A. | 3942 | RIPE | PL | https://www.peeringdb.com/asn/197790
-2 | 214402 | SIGNALX - SIGNALX CLOUD COMMUNICATIONS LTD | 29610 | RIPE | GB | https://www.peeringdb.com/asn/214402
 1 | 2635 | AUTOMATTIC | 14720 | ARIN | US | https://www.peeringdb.com/asn/2635
 1 | 3214 | XTOM - xTom GmbH | 517 | RIPE | DE | https://www.peeringdb.com/asn/3214
 1 | 4800 | LINTASARTA-AS-AP PT Aplikanusa Lintasarta | 135 | APNIC | ID | https://www.peeringdb.com/asn/4800
@@ -98,5 +98,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 1 | 59624 | KIAE-COMPUTING-AS - National Research Center "Kurchatov Institute" | 3026 | RIPE | RU | https://www.peeringdb.com/asn/59624
 1 | 61049 | EXASCALE - Exascale Ltd | 739 | RIPE | GB | https://www.peeringdb.com/asn/61049
 1 | 64049 | RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore | 90 | APNIC | SG | https://www.peeringdb.com/asn/64049
+1 | 214402 | SIGNALX - SIGNALX CLOUD COMMUNICATIONS LTD | 29610 | RIPE | GB | https://www.peeringdb.com/asn/214402
 1 | 3741 | NTT-DATA-Inc | 219 | AFRINIC | ZA | https://www.peeringdb.com/asn/3741
 1 | 206078 | ULTRANETWORKS - UltraNetworks Limited | 5918 | RIPE | GB | https://www.peeringdb.com/asn/206078
