@@ -36,22 +36,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "116",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "4750",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "96",
+        "Filtered prefixes @ https://lg.ams-ix.net": "108",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "101",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "4750",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "94",
@@ -295,14 +295,5 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/137996"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "137557",
-        "AS-NAME": "IGCL-AS-AP International gateway co.",
-        "AS Rank": "1026",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     }
 ]
