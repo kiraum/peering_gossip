@@ -216,7 +216,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "102",
@@ -232,6 +232,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/51561"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1456",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
@@ -289,30 +298,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "33763",
-        "AS-NAME": "Paratus",
-        "AS Rank": "526",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "37100",
         "AS-NAME": "SEACOM-AS",
         "AS Rank": "96",
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37100"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1456",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -349,6 +340,15 @@
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/12741"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "33763",
+        "AS-NAME": "Paratus",
+        "AS Rank": "526",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -793,15 +793,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "34927",
-        "AS-NAME": "IFOG-GMBH - iFog GmbH",
-        "AS Rank": "304",
-        "Source": "RIPE",
-        "Country": "CH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/34927"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "35297",
         "AS-NAME": "DATALINE-AS - Dataline LLC",
         "AS Rank": "115",
@@ -889,15 +880,6 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/64049"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "214402",
-        "AS-NAME": "SIGNALX - SIGNALX CLOUD COMMUNICATIONS LTD",
-        "AS Rank": "29610",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/214402"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
