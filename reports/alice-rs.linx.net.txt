@@ -1,9 +1,9 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
 934 | 7713 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia | 66 | APNIC | ID | https://www.peeringdb.com/asn/7713
-346 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 21 | APNIC | IN | https://www.peeringdb.com/asn/9498
+345 | 9498 | BBIL-AP BHARTI Airtel Ltd. | 21 | APNIC | IN | https://www.peeringdb.com/asn/9498
 340 | 60439 | SERVERNET-AS - SERVERNET INTERNET LIMITED | 8813 | RIPE | GB | https://www.peeringdb.com/asn/60439
 132 | 39386 | STC-IGW-AS - Saudi Telecom Company JSC | 306 | RIPE | SA | https://www.peeringdb.com/asn/39386
-126 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
+117 | 6939 | HURRICANE | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 102 | 36994 | Vodacom-VB | 803 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 34 | 2018 | TENET-1 | 2955 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
 32 | 35598 | INETCOM - INETCOM CARRIER LLC | 47 | RIPE | RU | https://www.peeringdb.com/asn/35598
@@ -21,16 +21,16 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 10 | 20764 | RASCOM-AS - CJSC RASCOM | 28 | RIPE | RU | https://www.peeringdb.com/asn/20764
 10 | 29119 | SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL | 178 | RIPE | ES | https://www.peeringdb.com/asn/29119
 10 | 37497 | Network-Platforms | 606 | AFRINIC | ZA | https://www.peeringdb.com/asn/37497
-10 | 57463 | NETIX - NetIX Communications JSC | 77613 | RIPE | BG | https://www.peeringdb.com/asn/57463
 10 | 137409 | GSLNETWORKS-AS-AP GSL Networks Pty LTD | 69 | APNIC | AU | https://www.peeringdb.com/asn/137409
 9 | 37662 | WIOCC-AS | 102 | AFRINIC | MU | https://www.peeringdb.com/asn/37662
 8 | 51561 | AS-ICUK - ICUK Computing Services Limited | 5931 | RIPE | GB | https://www.peeringdb.com/asn/51561
 8 | 56595 | FLUENCY - Fluency Communications Ltd | 1456 | RIPE | GB | https://www.peeringdb.com/asn/56595
+8 | 57463 | NETIX - NetIX Communications JSC | 77613 | RIPE | BG | https://www.peeringdb.com/asn/57463
+8 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 38 | RIPE | GB | https://www.peeringdb.com/asn/15412
 7 | 16637 | MTNNS-AS | 241 | AFRINIC | ZA | https://www.peeringdb.com/asn/16637
 7 | 37468 | ANGOLA-CABLES | 24 | AFRINIC | AO | https://www.peeringdb.com/asn/37468
 7 | 37678 | BOFINET | 1605 | AFRINIC | BW | https://www.peeringdb.com/asn/37678
 7 | 49505 | SELECTEL - JSC Selectel | 2561 | RIPE | RU | https://www.peeringdb.com/asn/49505
-7 | 15412 | FLAG-AS - FLAG TELECOM UK LIMITED | 38 | RIPE | GB | https://www.peeringdb.com/asn/15412
 6 | 15802 | DU-AS1 - Emirates Integrated Telecommunications Company PJSC | 728 | RIPE | AE | https://www.peeringdb.com/asn/15802
 6 | 37100 | SEACOM-AS | 96 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
 5 | 3462 | HINET Data Communication Business Group | 392 | APNIC | TW | https://www.peeringdb.com/asn/3462
@@ -76,7 +76,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 1 | 5377 | MARLINK-EMEA - Marlink AS | 4192 | RIPE | NO | https://www.peeringdb.com/asn/5377
 1 | 5405 | INTERDOTLINK - Inter.link GmbH | 56 | RIPE | DE | https://www.peeringdb.com/asn/5405
 1 | 6204 | ZET-NET - INTERKVM HOST SRL | 88 | RIPE | RO | https://www.peeringdb.com/asn/6204
-1 | 6424 | EDGOO - EDGOO NETWORKS UNIPESSOAL LDA | 235 | RIPE | PT | https://www.peeringdb.com/asn/6424
 1 | 7552 | VIETEL-AS-AP Viettel Group | 188 | APNIC | VN | https://www.peeringdb.com/asn/7552
 1 | 7979 | SERVERS-COM | 2554 | ARIN | US | https://www.peeringdb.com/asn/7979
 1 | 8452 | TE-AS | 501 | RIPE | EG | https://www.peeringdb.com/asn/8452
@@ -87,12 +86,12 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 1 | 23764 | CTGNET CTGNet | 64 | APNIC | HK | https://www.peeringdb.com/asn/23764
 1 | 24429 | TAOBAO Zhejiang Taobao Network Co. | 2947 | APNIC | CN | https://www.peeringdb.com/asn/24429
 1 | 31500 | GNM-AS - Global Network Management Inc | 75 | RIPE | AG | https://www.peeringdb.com/asn/31500
+1 | 34927 | IFOG-GMBH - iFog GmbH | 304 | RIPE | CH | https://www.peeringdb.com/asn/34927
 1 | 35297 | DATALINE-AS - Dataline LLC | 115 | RIPE | UA | https://www.peeringdb.com/asn/35297
 1 | 35575 | VAIONI - Vaioni Group Ltd | 5787 | RIPE | GB | https://www.peeringdb.com/asn/35575
 1 | 45437 | RWTS-AS-AP Real World - The Core | 1184 | APNIC | AU | https://www.peeringdb.com/asn/45437
 1 | 49600 | NEARIP - NEAR IP, S.L. | 832 | RIPE | ES | https://www.peeringdb.com/asn/49600
 1 | 53427 | TGLOBAL-NETWORKS | 323 | ARIN | US | https://www.peeringdb.com/asn/53427
-1 | 57344 | TELEHOUSE-AS - Telehouse EAD | 268 | RIPE | BG | https://www.peeringdb.com/asn/57344
 1 | 58715 | EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD. | 355 | APNIC | BD | https://www.peeringdb.com/asn/58715
 1 | 59624 | KIAE-COMPUTING-AS - National Research Center "Kurchatov Institute" | 3026 | RIPE | RU | https://www.peeringdb.com/asn/59624
 1 | 61049 | EXASCALE - Exascale Ltd | 739 | RIPE | GB | https://www.peeringdb.com/asn/61049
