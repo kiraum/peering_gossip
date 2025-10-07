@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "345",
+        "Filtered prefixes @ https://alice-rs.linx.net": "346",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "21",
@@ -199,6 +199,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "77613",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "137409",
         "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
         "AS Rank": "69",
@@ -207,7 +216,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "102",
@@ -223,24 +232,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/51561"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1456",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "77613",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -295,6 +286,15 @@
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "16247",
+        "AS-NAME": "M247-UK - M247 Ltd",
+        "AS Rank": "2419",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16247"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -388,15 +388,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "16247",
-        "AS-NAME": "M247-UK - M247 Ltd",
-        "AS Rank": "2419",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16247"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER",
         "AS Rank": "1899",
@@ -412,6 +403,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1456",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -784,15 +784,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "34927",
-        "AS-NAME": "IFOG-GMBH - iFog GmbH",
-        "AS Rank": "304",
-        "Source": "RIPE",
-        "Country": "CH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/34927"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "35297",
         "AS-NAME": "DATALINE-AS - Dataline LLC",
         "AS Rank": "115",
@@ -838,12 +829,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "58715",
-        "AS-NAME": "EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD.",
-        "AS Rank": "355",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58715"
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS - Telehouse EAD",
+        "AS Rank": "268",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
