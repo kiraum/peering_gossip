@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1862",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1870",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "66",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1338",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1334",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -18,22 +18,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "515",
+        "Filtered prefixes @ https://lg.ams-ix.net": "532",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18450",
         "Source": "AFRINIC",
         "Country": "BJ",
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "194",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "4750",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
@@ -45,6 +36,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "137",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "4750",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "94",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
@@ -54,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "84",
+        "Filtered prefixes @ https://lg.ams-ix.net": "72",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "78",
+        "Filtered prefixes @ https://lg.ams-ix.net": "70",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "241",
@@ -91,21 +91,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "48",
-        "ASN": "45629",
-        "AS-NAME": "JASTEL-NETWORK-TH-AP JasTel Network International Gateway",
-        "AS Rank": "322",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/45629"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "329099",
         "AS-NAME": "MITL1-AS",
         "AS Rank": "48309",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "48",
+        "ASN": "45629",
+        "AS-NAME": "JASTEL-NETWORK-TH-AP JasTel Network International Gateway",
+        "AS Rank": "322",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
@@ -189,6 +189,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/38040"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "3",
+        "ASN": "272996",
+        "AS-NAME": "SINCERE NETWORKS B.V.",
+        "AS Rank": "49727",
+        "Source": "LACNIC",
+        "Country": "CW",
+        "PeeringDB link": "https://www.peeringdb.com/asn/272996"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "7552",
         "AS-NAME": "VIETEL-AS-AP Viettel Group",
@@ -226,15 +235,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "272996",
-        "AS-NAME": "SINCERE NETWORKS B.V.",
-        "AS Rank": "49727",
-        "Source": "LACNIC",
-        "Country": "CW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/272996"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER",
         "AS Rank": "1899",
@@ -268,6 +268,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/32748"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37030",
+        "AS-NAME": "Airtel-Ghana",
+        "AS Rank": "6220",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37030"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
