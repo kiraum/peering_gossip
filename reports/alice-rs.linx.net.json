@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "936",
+        "Filtered prefixes @ https://alice-rs.linx.net": "935",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "66",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "117",
+        "Filtered prefixes @ https://alice-rs.linx.net": "120",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "21",
+        "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
         "AS Rank": "45",
@@ -189,16 +189,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "3213",
-        "AS-NAME": "BOGONS-ASN - Bogons Ltd",
-        "AS Rank": "8491",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/3213"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "102",
@@ -208,12 +199,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "51561",
-        "AS-NAME": "AS-ICUK - ICUK Computing Services Limited",
-        "AS Rank": "5931",
+        "ASN": "3213",
+        "AS-NAME": "BOGONS-ASN - Bogons Ltd",
+        "AS Rank": "8491",
         "Source": "RIPE",
         "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/51561"
+        "PeeringDB link": "https://www.peeringdb.com/asn/3213"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -232,15 +223,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/15412"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "1267",
-        "AS-NAME": "ASN-WINDTRE - WIND TRE S.P.A.",
-        "AS Rank": "448",
-        "Source": "RIPE",
-        "Country": "IT",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1267"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
@@ -304,6 +286,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37100"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "51561",
+        "AS-NAME": "AS-ICUK - ICUK Computing Services Limited",
+        "AS Rank": "5931",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/51561"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -478,6 +469,24 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "5405",
+        "AS-NAME": "INTERDOTLINK - Inter.link GmbH",
+        "AS Rank": "56",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/5405"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "6424",
+        "AS-NAME": "EDGOO - EDGOO NETWORKS UNIPESSOAL LDA",
+        "AS Rank": "235",
+        "Source": "RIPE",
+        "Country": "PT",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6424"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "6866",
         "AS-NAME": "CYTA-NETWORK - Cyprus Telecommunications Authority",
         "AS Rank": "1020",
@@ -640,30 +649,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "5405",
-        "AS-NAME": "INTERDOTLINK - Inter.link GmbH",
-        "AS Rank": "56",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/5405"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "6204",
         "AS-NAME": "ZET-NET - INTERKVM HOST SRL",
         "AS Rank": "88",
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/6204"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "6424",
-        "AS-NAME": "EDGOO - EDGOO NETWORKS UNIPESSOAL LDA",
-        "AS Rank": "235",
-        "Source": "RIPE",
-        "Country": "PT",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6424"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
@@ -781,15 +772,6 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/37497"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "44600",
-        "AS-NAME": "GT-AS - \"GIGATRANS UKRAINE\", LLC",
-        "AS Rank": "548",
-        "Source": "RIPE",
-        "Country": "UA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/44600"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
