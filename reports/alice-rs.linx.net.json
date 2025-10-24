@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "123",
+        "Filtered prefixes @ https://alice-rs.linx.net": "114",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "6",
@@ -54,7 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "60",
+        "Filtered prefixes @ https://alice-rs.linx.net": "61",
         "ASN": "15412",
         "AS-NAME": "FLAG-AS - FLAG TELECOM UK LIMITED",
         "AS Rank": "38",
@@ -144,13 +144,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/13213"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
-        "AS Rank": "279",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "24",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -163,12 +163,39 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "33763",
+        "AS-NAME": "Paratus",
+        "AS Rank": "526",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "102",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "45430",
         "AS-NAME": "SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider",
         "AS Rank": "225",
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/45430"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
+        "AS Rank": "279",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -279,42 +306,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16247"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "33763",
-        "AS-NAME": "Paratus",
-        "AS Rank": "526",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "37100",
-        "AS-NAME": "SEACOM-AS",
-        "AS Rank": "96",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "24",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "102",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "3462",
         "AS-NAME": "HINET Data Communication Business Group",
@@ -403,6 +394,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/36351"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "37100",
+        "AS-NAME": "SEACOM-AS",
+        "AS Rank": "96",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -577,6 +577,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "38158",
+        "AS-NAME": "CBN-AS-ID PT. Cyberindo Aditama",
+        "AS Rank": "122",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38158"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "38182",
         "AS-NAME": "EXTREMEBB-AS-MY Extreme Broadband - Total Broadband Experience",
         "AS Rank": "1055",
@@ -740,7 +749,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "31500",
-        "AS-NAME": "GNM-AS - Global Network Management Inc",
+        "AS-NAME": "NA",
         "AS Rank": "75",
         "Source": "RIPE",
         "Country": "AG",
@@ -794,7 +803,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "53427",
-        "AS-NAME": "TGLOBAL-NETWORKS",
+        "AS-NAME": "NA",
         "AS Rank": "323",
         "Source": "ARIN",
         "Country": "US",
