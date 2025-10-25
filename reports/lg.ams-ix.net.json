@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "619",
+        "Filtered prefixes @ https://lg.ams-ix.net": "647",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18450",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "248",
+        "Filtered prefixes @ https://lg.ams-ix.net": "349",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4750",
@@ -54,7 +54,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "78",
+        "Filtered prefixes @ https://lg.ams-ix.net": "74",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "6",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "70",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "241",
@@ -99,15 +108,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "38",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "6",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
         "ASN": "328316",
         "AS-NAME": "Point-Atterissement-AS",
@@ -117,7 +117,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328316"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "18",
+        "Filtered prefixes @ https://lg.ams-ix.net": "12",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
         "AS Rank": "659",
@@ -145,15 +145,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "8",
-        "ASN": "29091",
-        "AS-NAME": "IPNXng",
-        "AS Rank": "2785",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
         "ASN": "149765",
         "AS-NAME": "CORONET3-AS-AP Coronet Corporation Limited",
         "AS Rank": "1214",
@@ -169,6 +160,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "29091",
+        "AS-NAME": "IPNXng",
+        "AS Rank": "2785",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -295,14 +295,5 @@
         "Source": "AFRINIC",
         "Country": "SC",
         "PeeringDB link": "https://www.peeringdb.com/asn/36902"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "137557",
-        "AS-NAME": "IGCL-AS-AP International gateway co.",
-        "AS Rank": "1026",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     }
 ]
