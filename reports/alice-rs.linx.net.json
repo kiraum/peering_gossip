@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "359",
+        "Filtered prefixes @ https://alice-rs.linx.net": "341",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "21",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "140",
+        "Filtered prefixes @ https://alice-rs.linx.net": "139",
         "ASN": "39386",
         "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
         "AS Rank": "306",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "102",
+        "Filtered prefixes @ https://alice-rs.linx.net": "106",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
         "AS Rank": "803",
@@ -117,6 +117,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/327814"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "24",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "13",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN - Nova hf",
@@ -142,15 +151,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13213"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "24",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
@@ -253,15 +253,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "37678",
-        "AS-NAME": "BOFINET",
-        "AS Rank": "1605",
-        "Source": "AFRINIC",
-        "Country": "BW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37678"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
         "ASN": "49505",
         "AS-NAME": "SELECTEL - JSC Selectel",
         "AS Rank": "2561",
@@ -331,15 +322,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/12703"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "12741",
-        "AS-NAME": "AS-NETIA - Netia SA",
-        "AS Rank": "94",
-        "Source": "RIPE",
-        "Country": "PL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/12741"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -622,6 +604,24 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "58715",
+        "AS-NAME": "EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD.",
+        "AS Rank": "355",
+        "Source": "APNIC",
+        "Country": "BD",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58715"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "197000",
+        "AS-NAME": "RIPE-NCC-AUTHDNS-AS - Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+        "AS Rank": "47732",
+        "Source": "RIPE",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/197000"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "197790",
         "AS-NAME": "AS-ACTUS - Actus S.A.",
         "AS Rank": "3942",
@@ -709,6 +709,15 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9381"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "12741",
+        "AS-NAME": "AS-NETIA - Netia SA",
+        "AS Rank": "94",
+        "Source": "RIPE",
+        "Country": "PL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12741"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
@@ -817,15 +826,6 @@
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/57344"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "58715",
-        "AS-NAME": "EARTHTELECOMMUNICATION-AS EARTH TELECOMMUNICATION Pvt LTD.",
-        "AS Rank": "355",
-        "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58715"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
