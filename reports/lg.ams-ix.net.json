@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1338",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1318",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "256",
+        "Filtered prefixes @ https://lg.ams-ix.net": "238",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "4750",
@@ -54,15 +54,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "108",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE",
-        "AS Rank": "6",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "94",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
@@ -70,6 +61,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "84",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE",
+        "AS Rank": "6",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "72",
@@ -126,7 +126,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "10",
+        "Filtered prefixes @ https://lg.ams-ix.net": "14",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
         "AS Rank": "405",
@@ -187,6 +187,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/17665"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "134858",
+        "AS-NAME": "IFORENETWORKS-AS-IN iForce Networks",
+        "AS Rank": "22741",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134858"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
