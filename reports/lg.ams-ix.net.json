@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1310",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1312",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "99",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "644",
+        "Filtered prefixes @ https://lg.ams-ix.net": "645",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18450",
@@ -63,15 +63,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "72",
-        "ASN": "16637",
-        "AS-NAME": "MTNNS-AS",
-        "AS Rank": "241",
-        "Source": "AFRINIC",
-        "Country": "ZA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "68",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
@@ -97,6 +88,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "54",
+        "ASN": "16637",
+        "AS-NAME": "MTNNS-AS",
+        "AS Rank": "241",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "48",
@@ -200,7 +200,7 @@
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "3",
         "ASN": "272996",
-        "AS-NAME": "SINCERE NETWORKS B.V.",
+        "AS-NAME": "NA",
         "AS Rank": "49727",
         "Source": "LACNIC",
         "Country": "CW",
@@ -209,7 +209,7 @@
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP Viettel Group",
+        "AS-NAME": "NA",
         "AS Rank": "188",
         "Source": "APNIC",
         "Country": "VN",
