@@ -181,6 +181,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "102",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "45430",
         "AS-NAME": "SBN-AWN-IIG-AS-AP SBN-IIGAWN-IIG transit provider",
         "AS Rank": "225",
@@ -191,7 +200,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS-NAME": "NA",
         "AS Rank": "77613",
         "Source": "RIPE",
         "Country": "BG",
@@ -200,7 +209,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "3213",
-        "AS-NAME": "BOGONS-ASN - Bogons Ltd",
+        "AS-NAME": "NA",
         "AS Rank": "8491",
         "Source": "RIPE",
         "Country": "GB",
@@ -208,17 +217,8 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "102",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "51561",
-        "AS-NAME": "AS-ICUK - ICUK Computing Services Limited",
+        "AS-NAME": "NA",
         "AS Rank": "5931",
         "Source": "RIPE",
         "Country": "GB",
@@ -297,15 +297,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "56595",
-        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
-        "AS Rank": "1456",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "3462",
         "AS-NAME": "HINET Data Communication Business Group",
@@ -322,15 +313,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/7155"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "12703",
-        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
-        "AS Rank": "1480",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -358,6 +340,15 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "12703",
+        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
+        "AS Rank": "1480",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -405,6 +396,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "56595",
+        "AS-NAME": "FLUENCY - Fluency Communications Ltd",
+        "AS Rank": "1456",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/56595"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "4651",
         "AS-NAME": "THAI-GATEWAY The Communications Authority of ThailandCAT",
@@ -416,7 +416,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP Viettel Group",
+        "AS-NAME": "NA",
         "AS Rank": "188",
         "Source": "APNIC",
         "Country": "VN",
