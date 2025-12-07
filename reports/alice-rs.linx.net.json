@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "159",
+        "Filtered prefixes @ https://alice-rs.linx.net": "156",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "27",
+        "Filtered prefixes @ https://alice-rs.linx.net": "26",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031",
         "AS Rank": "25",
@@ -334,15 +334,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "23",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "12713",
         "AS-NAME": "OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation)",
         "AS Rank": "551",
@@ -502,6 +493,15 @@
         "Source": "RIPE",
         "Country": "CY",
         "PeeringDB link": "https://www.peeringdb.com/asn/6866"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "7195",
+        "AS-NAME": "EDGEUNO S.A.S",
+        "AS Rank": "23",
+        "Source": "LACNIC",
+        "Country": "CO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
