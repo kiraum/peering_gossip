@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1292",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1288",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "119",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "685",
+        "Filtered prefixes @ https://lg.ams-ix.net": "660",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18491",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "68",
+        "Filtered prefixes @ https://lg.ams-ix.net": "66",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "256",
@@ -79,15 +79,6 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "56",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "106",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "51",
@@ -126,15 +117,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "20",
-        "ASN": "328316",
-        "AS-NAME": "Point-Atterissement-AS",
-        "AS Rank": "2084",
-        "Source": "AFRINIC",
-        "Country": "BF",
-        "PeeringDB link": "https://www.peeringdb.com/asn/328316"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "10",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
@@ -171,6 +153,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "29091",
+        "AS-NAME": "IPNXng",
+        "AS Rank": "2602",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "5",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
@@ -187,24 +178,6 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "17665",
-        "AS-NAME": "ONEBROADBAND ONEOTT INTERTAINMENT LIMITED",
-        "AS Rank": "609",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/17665"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "29091",
-        "AS-NAME": "IPNXng",
-        "AS Rank": "2602",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -250,15 +223,6 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/24482"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "64567",
-        "AS-NAME": "AMS-IX",
-        "AS Rank": "NA",
-        "Source": "NA",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/64567"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -322,5 +286,14 @@
         "Source": "AFRINIC",
         "Country": "GH",
         "PeeringDB link": "https://www.peeringdb.com/asn/37030"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "64567",
+        "AS-NAME": "AMS-IX",
+        "AS Rank": "NA",
+        "Source": "NA",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/64567"
     }
 ]
