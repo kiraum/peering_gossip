@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "344",
+        "Filtered prefixes @ https://alice-rs.linx.net": "345",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "200",
+        "Filtered prefixes @ https://alice-rs.linx.net": "196",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
@@ -352,6 +352,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "37100",
+        "AS-NAME": "SEACOM-AS",
+        "AS Rank": "97",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "47631",
         "AS-NAME": "SIPCOM-NET1 - SIP COMMUNICATIONS LIMITED",
         "AS Rank": "24857",
@@ -460,15 +469,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "271253",
-        "AS-NAME": "LINK BRASIL TELECOMUNICACOES LTDA",
-        "AS Rank": "115",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/271253"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "22925",
         "AS-NAME": "ALLIED-TELECOM",
         "AS Rank": "1252",
@@ -574,15 +574,6 @@
         "Source": "RIPE",
         "Country": "FR",
         "PeeringDB link": "https://www.peeringdb.com/asn/34177"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "37100",
-        "AS-NAME": "SEACOM-AS",
-        "AS Rank": "97",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -745,15 +736,6 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/45437"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "48362",
-        "AS-NAME": "TKSWF-AS - Stadtwerke Feldkirch",
-        "AS Rank": "1658",
-        "Source": "RIPE",
-        "Country": "AT",
-        "PeeringDB link": "https://www.peeringdb.com/asn/48362"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
