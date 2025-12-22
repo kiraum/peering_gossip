@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1285",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1286",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "119",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "156",
+        "Filtered prefixes @ https://lg.ams-ix.net": "152",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5765",
@@ -162,15 +162,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "5",
-        "ASN": "152565",
-        "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
-        "AS Rank": "1992",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "20940",
         "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
@@ -178,6 +169,15 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "152565",
+        "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
+        "AS Rank": "1992",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
