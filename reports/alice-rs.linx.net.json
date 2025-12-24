@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "148",
+        "Filtered prefixes @ https://alice-rs.linx.net": "149",
         "ASN": "39386",
         "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
         "AS Rank": "289",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "102",
+        "Filtered prefixes @ https://alice-rs.linx.net": "106",
         "ASN": "36994",
         "AS-NAME": "Vodacom-VB",
         "AS Rank": "644",
@@ -154,6 +154,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "106",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN - Nova hf",
         "AS Rank": "935",
@@ -169,15 +178,6 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/23764"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "106",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -388,6 +388,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
+        "ASN": "7552",
+        "AS-NAME": "VIETEL-AS-AP Viettel Group",
+        "AS Rank": "198",
+        "Source": "APNIC",
+        "Country": "VN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "9050",
         "AS-NAME": "RTD - Orange Romania S.A.",
         "AS Rank": "177",
@@ -487,21 +496,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP Viettel Group",
-        "AS Rank": "198",
-        "Source": "APNIC",
-        "Country": "VN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "8220",
         "AS-NAME": "COLT - COLT Technology Services Group Limited",
         "AS Rank": "44",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/8220"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "12703",
+        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
+        "AS Rank": "1565",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -664,15 +673,6 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9381"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "12703",
-        "AS-NAME": "PULSANT-AS - Pulsant (Scotland) Ltd",
-        "AS Rank": "1565",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
