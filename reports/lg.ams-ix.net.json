@@ -37,15 +37,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "136",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
-        "AS Rank": "5765",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "136",
         "ASN": "329099",
         "AS-NAME": "MITL1-AS",
         "AS Rank": "48189",
@@ -54,7 +45,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "98",
+        "Filtered prefixes @ https://lg.ams-ix.net": "134",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
+        "AS Rank": "5765",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "110",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
