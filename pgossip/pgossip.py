@@ -1,4 +1,4 @@
-""" Peering Gossip """
+"""Peering Gossip"""
 
 import asyncio
 import json
