@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "347",
+        "Filtered prefixes @ https://alice-rs.linx.net": "348",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
@@ -27,22 +27,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "192",
+        "Filtered prefixes @ https://alice-rs.linx.net": "208",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "143",
-        "ASN": "39386",
-        "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
-        "AS Rank": "289",
-        "Source": "RIPE",
-        "Country": "SA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "106",
@@ -52,6 +43,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "98",
+        "ASN": "39386",
+        "AS-NAME": "STC-IGW-AS - Saudi Telecom Company JSC",
+        "AS Rank": "289",
+        "Source": "RIPE",
+        "Country": "SA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "54",
@@ -90,7 +90,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/327814"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "17",
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "106",
@@ -117,7 +117,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "57463",
         "AS-NAME": "NETIX - NetIX Communications JSC",
         "AS Rank": "77903",
@@ -244,6 +244,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "15412",
+        "AS-NAME": "FLAG-AS - FLAG TELECOM UK LIMITED",
+        "AS Rank": "43",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "15802",
         "AS-NAME": "DU-AS1 - Emirates Integrated Telecommunications Company PJSC",
         "AS Rank": "640",
@@ -331,15 +340,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13037"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "15412",
-        "AS-NAME": "FLAG-AS - FLAG TELECOM UK LIMITED",
-        "AS Rank": "43",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -604,6 +604,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "64049",
+        "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
+        "AS Rank": "1043",
+        "Source": "APNIC",
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "197790",
         "AS-NAME": "AS-ACTUS - Actus S.A.",
         "AS Rank": "3928",
@@ -790,15 +799,6 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/59624"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "64049",
-        "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
-        "AS Rank": "1043",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
