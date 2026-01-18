@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "86",
+        "Filtered prefixes @ https://lg.ams-ix.net": "98",
         "ASN": "6939",
         "AS-NAME": "HURRICANE",
         "AS Rank": "7",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "72",
+        "Filtered prefixes @ https://lg.ams-ix.net": "75",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5765",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "58",
+        "Filtered prefixes @ https://lg.ams-ix.net": "56",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
         "AS Rank": "84",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "52",
+        "Filtered prefixes @ https://lg.ams-ix.net": "56",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "256",
@@ -136,15 +136,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "55352",
-        "AS-NAME": "FIVENET-IN Microscan Internet Limited",
-        "AS Rank": "925",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55352"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
         "AS Rank": "2602",
@@ -169,6 +160,15 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "55352",
+        "AS-NAME": "FIVENET-IN Microscan Internet Limited",
+        "AS Rank": "925",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55352"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
