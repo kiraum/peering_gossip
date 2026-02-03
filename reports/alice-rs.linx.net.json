@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "224",
+        "Filtered prefixes @ https://alice-rs.linx.net": "220",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "27",
+        "Filtered prefixes @ https://alice-rs.linx.net": "29",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS - Liquid Telecommunications Ltd",
         "AS Rank": "123",
@@ -91,21 +91,30 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "25",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN - Nova hf",
         "AS Rank": "935",
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "77903",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "13",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "25",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "13",
@@ -115,15 +124,6 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "77903",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -144,7 +144,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/13213"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "23764",
         "AS-NAME": "CTGNET CTGNet",
         "AS Rank": "46",
@@ -306,15 +306,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
-        "AS Rank": "131",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "12713",
         "AS-NAME": "OTEGLOBE - Ote SA (Hellenic Telecommunications Organisation)",
@@ -358,6 +349,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS Rank": "131",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -520,15 +520,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/13237"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "17639",
-        "AS-NAME": "CONVERGE-AS Converge ICT Solutions Inc.",
-        "AS Rank": "518",
-        "Source": "APNIC",
-        "Country": "PH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/17639"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -739,15 +730,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "43350",
-        "AS-NAME": "NFORCE - NForce Entertainment B.V.",
-        "AS Rank": "1530",
-        "Source": "RIPE",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/43350"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "45437",
         "AS-NAME": "RWTS-AS-AP Real World - The Core",
         "AS Rank": "1171",
@@ -763,15 +745,6 @@
         "Source": "RIPE",
         "Country": "SA",
         "PeeringDB link": "https://www.peeringdb.com/asn/48237"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "49600",
-        "AS-NAME": "NEARIP - NEAR IP, S.L.",
-        "AS Rank": "576",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/49600"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
