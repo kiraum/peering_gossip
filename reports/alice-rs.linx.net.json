@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "938",
+        "Filtered prefixes @ https://alice-rs.linx.net": "935",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "76",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60439"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "192",
+        "Filtered prefixes @ https://alice-rs.linx.net": "200",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "30",
+        "Filtered prefixes @ https://alice-rs.linx.net": "31",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "106",
@@ -117,6 +117,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/23764"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "15",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "77903",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN - Nova hf",
@@ -135,13 +144,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "77903",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "25",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -205,15 +214,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/51561"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "25",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
@@ -295,15 +295,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/15412"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "37678",
-        "AS-NAME": "BOFINET",
-        "AS Rank": "1765",
-        "Source": "AFRINIC",
-        "Country": "BW",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37678"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -488,7 +479,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "4800",
-        "AS-NAME": "LINTASARTA-AS-AP PT Aplikanusa Lintasarta",
+        "AS-NAME": "NA",
         "AS Rank": "127",
         "Source": "APNIC",
         "Country": "ID",
@@ -601,6 +592,15 @@
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/41313"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS Rank": "131",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -739,6 +739,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "43350",
+        "AS-NAME": "NFORCE - NForce Entertainment B.V.",
+        "AS Rank": "1530",
+        "Source": "RIPE",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/43350"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "45437",
         "AS-NAME": "RWTS-AS-AP Real World - The Core",
         "AS Rank": "1171",
@@ -763,6 +772,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/53427"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28852",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
@@ -799,15 +817,6 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/64049"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
-        "AS Rank": "131",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
