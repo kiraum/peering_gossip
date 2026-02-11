@@ -2,25 +2,25 @@
 #    uv pip compile pyproject.toml
 aiohappyeyeballs==2.6.1
     # via aiohttp
-aiohttp==3.13.2
+aiohttp==3.13.3
     # via peering-gossip (pyproject.toml)
 aiosignal==1.4.0
     # via aiohttp
-astroid==4.0.2
+astroid==4.0.4
     # via pylint
 attrs==25.4.0
     # via aiohttp
 backoff==2.2.1
     # via peering-gossip (pyproject.toml)
-black==25.12.0
+black==26.1.0
     # via peering-gossip (pyproject.toml)
-certifi==2025.11.12
+certifi==2026.1.4
     # via requests
 charset-normalizer==3.4.4
     # via requests
 click==8.3.1
     # via black
-dill==0.4.0
+dill==0.4.1
     # via pylint
 flake8==7.3.0
     # via peering-gossip (pyproject.toml)
@@ -42,17 +42,17 @@ mccabe==0.7.0
     # via
     #   flake8
     #   pylint
-multidict==6.7.0
+multidict==6.7.1
     # via
     #   aiohttp
     #   yarl
 mypy-extensions==1.1.0
     # via black
-packaging==25.0
+packaging==26.0
     # via
     #   black
     #   pytest
-pathspec==0.12.1
+pathspec==1.0.4
     # via
     #   black
     #   yamllint
@@ -76,23 +76,23 @@ pylint==4.0.4
     # via peering-gossip (pyproject.toml)
 pytest==9.0.2
     # via peering-gossip (pyproject.toml)
-pytokens==0.3.0
+pytokens==0.4.1
     # via black
 pyyaml==6.0.3
     # via yamllint
 requests==2.32.5
     # via peering-gossip (pyproject.toml)
-ruff==0.14.10
+ruff==0.15.0
     # via peering-gossip (pyproject.toml)
-tomlkit==0.13.3
+tomlkit==0.14.0
     # via pylint
 typing-extensions==4.15.0
     # via aiosignal
-urllib3==2.6.2
+urllib3==2.6.3
     # via requests
-uv==0.9.21
+uv==0.10.2
     # via peering-gossip (pyproject.toml)
-yamllint==1.37.1
+yamllint==1.38.0
     # via peering-gossip (pyproject.toml)
 yarl==1.22.0
     # via aiohttp
