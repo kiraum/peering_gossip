@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1878",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1892",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "76",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1369",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1373",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18491",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "508",
+        "Filtered prefixes @ https://lg.ams-ix.net": "384",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5765",
@@ -36,13 +36,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "254",
+        "Filtered prefixes @ https://lg.ams-ix.net": "206",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "156",
+        "ASN": "18229",
+        "AS-NAME": "CTRLS-AS-IN CtrlS",
+        "AS Rank": "216",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
@@ -54,24 +63,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "98",
-        "ASN": "18229",
-        "AS-NAME": "CTRLS-AS-IN CtrlS",
-        "AS Rank": "216",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "68",
-        "ASN": "16637",
-        "AS-NAME": "MTNNS-AS",
-        "AS Rank": "256",
-        "Source": "AFRINIC",
-        "Country": "ZA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "58",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
@@ -79,6 +70,15 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "58",
+        "ASN": "16637",
+        "AS-NAME": "MTNNS-AS",
+        "AS Rank": "256",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "48",
@@ -108,7 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37282"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "14",
+        "Filtered prefixes @ https://lg.ams-ix.net": "18",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
         "AS Rank": "2602",
@@ -172,12 +172,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "38040",
-        "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
-        "AS Rank": "764",
+        "ASN": "137996",
+        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
+        "AS Rank": "3231",
         "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/38040"
+        "Country": "PH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137996"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -244,12 +244,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "137996",
-        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
-        "AS Rank": "3231",
+        "ASN": "38040",
+        "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
+        "AS Rank": "764",
         "Source": "APNIC",
-        "Country": "PH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137996"
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38040"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1",
