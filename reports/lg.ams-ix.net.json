@@ -1,21 +1,12 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1916",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1924",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "76",
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1374",
-        "ASN": "328092",
-        "AS-NAME": "SUD-TELCOM-AS",
-        "AS Rank": "18491",
-        "Source": "AFRINIC",
-        "Country": "BJ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1242",
@@ -27,7 +18,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "295",
+        "Filtered prefixes @ https://lg.ams-ix.net": "638",
+        "ASN": "328092",
+        "AS-NAME": "SUD-TELCOM-AS",
+        "AS Rank": "18491",
+        "Source": "AFRINIC",
+        "Country": "BJ",
+        "PeeringDB link": "https://www.peeringdb.com/asn/328092"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "380",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5765",
@@ -54,22 +54,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "134",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE - Hurricane Electric LLC",
-        "AS Rank": "7",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "130",
+        "Filtered prefixes @ https://lg.ams-ix.net": "108",
         "ASN": "329099",
         "AS-NAME": "MITL1-AS",
         "AS Rank": "48189",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "74",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE - Hurricane Electric LLC",
+        "AS Rank": "7",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "66",
@@ -90,7 +90,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "48",
+        "Filtered prefixes @ https://lg.ams-ix.net": "54",
         "ASN": "45629",
         "AS-NAME": "JASTEL-NETWORK-TH-AP JasTel Network International Gateway",
         "AS Rank": "310",
@@ -135,13 +135,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "8",
-        "ASN": "149765",
-        "AS-NAME": "CORONET3-AS-AP Coronet Corporation Limited",
-        "AS Rank": "837",
+        "Filtered prefixes @ https://lg.ams-ix.net": "7",
+        "ASN": "24482",
+        "AS-NAME": "SGGS-AS-AP SG.GS",
+        "AS Rank": "89",
         "Source": "APNIC",
-        "Country": "BD",
-        "PeeringDB link": "https://www.peeringdb.com/asn/149765"
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "7",
@@ -162,22 +162,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "55352",
         "AS-NAME": "FIVENET-IN Microscan Internet Limited",
         "AS Rank": "925",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "24482",
-        "AS-NAME": "SGGS-AS-AP SG.GS",
-        "AS Rank": "89",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
