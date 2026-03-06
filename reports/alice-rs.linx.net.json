@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "957",
+        "Filtered prefixes @ https://alice-rs.linx.net": "961",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "76",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "216",
+        "Filtered prefixes @ https://alice-rs.linx.net": "212",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "22",
+        "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "33763",
         "AS-NAME": "Paratus",
         "AS Rank": "540",
@@ -171,15 +171,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/13213"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "24482",
-        "AS-NAME": "SGGS-AS-AP SG.GS",
-        "AS Rank": "89",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "29119",
         "AS-NAME": "SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
@@ -190,21 +181,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
-        "AS Rank": "21",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "327814",
         "AS-NAME": "Ecoband",
         "AS Rank": "3409",
         "Source": "AFRINIC",
         "Country": "GH",
         "PeeringDB link": "https://www.peeringdb.com/asn/327814"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "37468",
+        "AS-NAME": "ANGOLA-CABLES",
+        "AS Rank": "21",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -325,6 +316,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "24482",
+        "AS-NAME": "SGGS-AS-AP SG.GS",
+        "AS Rank": "89",
+        "Source": "APNIC",
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "28458",
         "AS-NAME": "IENTC S DE RL DE CV",
         "AS Rank": "844",
@@ -358,15 +358,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "4800",
-        "AS-NAME": "LINTASARTA-AS-AP PT Aplikanusa Lintasarta",
-        "AS Rank": "127",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/4800"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -487,12 +478,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "6206",
-        "AS-NAME": "NETROUTING-AS - Netrouting B.V.",
-        "AS Rank": "1355",
-        "Source": "RIPE",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6206"
+        "ASN": "4800",
+        "AS-NAME": "LINTASARTA-AS-AP PT Aplikanusa Lintasarta",
+        "AS Rank": "127",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4800"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -538,6 +529,15 @@
         "Source": "RIPE",
         "Country": "AE",
         "PeeringDB link": "https://www.peeringdb.com/asn/15802"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "20799",
+        "AS-NAME": "DATANET-AS - Datanet.co.uk Ltd",
+        "AS Rank": "5150",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20799"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -721,15 +721,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "20799",
-        "AS-NAME": "DATANET-AS - Datanet.co.uk Ltd",
-        "AS Rank": "5150",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20799"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "24429",
         "AS-NAME": "TAOBAO Zhejiang Taobao Network Co.",
         "AS Rank": "2395",
@@ -835,14 +826,5 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/215638"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "206078",
-        "AS-NAME": "ULTRANETWORKS - UltraNetworks Limited",
-        "AS Rank": "10421",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/206078"
     }
 ]
