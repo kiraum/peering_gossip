@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "504",
+        "Filtered prefixes @ https://alice-rs.linx.net": "528",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -9,13 +9,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "388",
+        "Filtered prefixes @ https://alice-rs.linx.net": "387",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "121",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "106",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "106",
@@ -25,15 +34,6 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "89",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "106",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "68",
@@ -286,6 +286,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/7155"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "9304",
+        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
+        "AS Rank": "84",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -612,6 +621,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/215638"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "15808",
+        "AS-NAME": "ACCESSKENYA-KE",
+        "AS Rank": "1281",
+        "Source": "RIPE",
+        "Country": "KE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15808"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "2635",
         "AS-NAME": "AUTOMATTIC - Automattic",
@@ -862,14 +880,5 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/206078"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "15808",
-        "AS-NAME": "ACCESSKENYA-KE",
-        "AS Rank": "1281",
-        "Source": "RIPE",
-        "Country": "KE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15808"
     }
 ]
