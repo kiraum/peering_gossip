@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "389",
+        "Filtered prefixes @ https://alice-rs.linx.net": "391",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "126",
+        "Filtered prefixes @ https://alice-rs.linx.net": "127",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "106",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "68",
+        "Filtered prefixes @ https://alice-rs.linx.net": "70",
         "ASN": "8560",
         "AS-NAME": "IONOS-AS - IONOS SE",
         "AS Rank": "1935",
@@ -90,15 +90,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "19",
-        "ASN": "20764",
-        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
-        "AS Rank": "29",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
         "ASN": "9145",
         "AS-NAME": "EWETEL - EWE TEL GmbH",
@@ -106,6 +97,15 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/9145"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
+        "ASN": "20764",
+        "AS-NAME": "RASCOM-AS - CJSC RASCOM",
+        "AS Rank": "29",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
@@ -196,6 +196,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/33763"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "61049",
+        "AS-NAME": "EXASCALE - Exascale Ltd",
+        "AS Rank": "384",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/61049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -790,15 +799,6 @@
         "Source": "RIPE",
         "Country": "UA",
         "PeeringDB link": "https://www.peeringdb.com/asn/35297"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "37282",
-        "AS-NAME": "MAINONE",
-        "AS Rank": "314",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37282"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
