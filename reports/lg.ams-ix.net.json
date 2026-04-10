@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "518",
+        "Filtered prefixes @ https://lg.ams-ix.net": "564",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18491",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "436",
+        "Filtered prefixes @ https://lg.ams-ix.net": "424",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5765",
@@ -100,21 +100,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "24",
-        "ASN": "36902",
-        "AS-NAME": "ASINTELVISION",
-        "AS Rank": "6143",
-        "Source": "AFRINIC",
-        "Country": "SC",
-        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
         "AS Rank": "666",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "24",
+        "ASN": "36902",
+        "AS-NAME": "ASINTELVISION",
+        "AS Rank": "6143",
+        "Source": "AFRINIC",
+        "Country": "SC",
+        "PeeringDB link": "https://www.peeringdb.com/asn/36902"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
@@ -135,6 +135,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "16",
+        "ASN": "29091",
+        "AS-NAME": "IPNXng",
+        "AS Rank": "2602",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "12",
         "ASN": "199524",
         "AS-NAME": "GCORE - G-Core Labs S.A.",
@@ -142,15 +151,6 @@
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "12",
-        "ASN": "29091",
-        "AS-NAME": "IPNXng",
-        "AS Rank": "2602",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
@@ -181,12 +181,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "137996",
-        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
-        "AS Rank": "3231",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "28852",
         "Source": "APNIC",
-        "Country": "PH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137996"
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -217,15 +217,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "45194",
-        "AS-NAME": "SIPL-AS Syscon Infoway Pvt. Ltd.",
-        "AS Rank": "2072",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/45194"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "133271",
         "AS-NAME": "WILLOPL-AS-IN Willaegis Online Private Limited",
         "AS Rank": "10868",
@@ -244,6 +235,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "137996",
+        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
+        "AS Rank": "3231",
+        "Source": "APNIC",
+        "Country": "PH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137996"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "38040",
         "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
         "AS Rank": "764",
@@ -259,5 +259,23 @@
         "Source": "NA",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/64567"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "45194",
+        "AS-NAME": "SIPL-AS Syscon Infoway Pvt. Ltd.",
+        "AS Rank": "2072",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/45194"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "1",
+        "ASN": "137557",
+        "AS-NAME": "IGCL-AS-AP International gateway co.",
+        "AS Rank": "990",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     }
 ]
