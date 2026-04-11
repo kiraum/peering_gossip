@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "722",
+        "Filtered prefixes @ https://lg.ams-ix.net": "716",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "564",
+        "Filtered prefixes @ https://lg.ams-ix.net": "563",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "18491",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "424",
+        "Filtered prefixes @ https://lg.ams-ix.net": "544",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5765",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "45",
+        "Filtered prefixes @ https://lg.ams-ix.net": "44",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
         "AS Rank": "1992",
@@ -189,6 +189,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "137996",
+        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
+        "AS Rank": "3231",
+        "Source": "APNIC",
+        "Country": "PH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137996"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "9299",
         "AS-NAME": "IPG-AS-AP Philippine Long Distance Telephone Company",
@@ -235,21 +244,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "137996",
-        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
-        "AS Rank": "3231",
-        "Source": "APNIC",
-        "Country": "PH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137996"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "38040",
         "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
         "AS Rank": "764",
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/38040"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "137557",
+        "AS-NAME": "IGCL-AS-AP International gateway co.",
+        "AS Rank": "990",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1",
@@ -268,14 +277,5 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/45194"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1",
-        "ASN": "137557",
-        "AS-NAME": "IGCL-AS-AP International gateway co.",
-        "AS Rank": "990",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     }
 ]
