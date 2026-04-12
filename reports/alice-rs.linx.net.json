@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "513",
+        "Filtered prefixes @ https://alice-rs.linx.net": "524",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "406",
+        "Filtered prefixes @ https://alice-rs.linx.net": "398",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "22",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "124",
+        "Filtered prefixes @ https://alice-rs.linx.net": "122",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "106",
@@ -99,15 +99,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "22",
-        "ASN": "57463",
-        "AS-NAME": "NETIX - NetIX Communications JSC",
-        "AS Rank": "77903",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "24482",
         "AS-NAME": "SGGS-AS-AP SG.GS",
@@ -115,6 +106,15 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/24482"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "20",
+        "ASN": "57463",
+        "AS-NAME": "NETIX - NetIX Communications JSC",
+        "AS Rank": "77903",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "19",
@@ -142,6 +142,15 @@
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/23764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "15",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
+        "AS Rank": "265",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
@@ -196,15 +205,6 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS - AFR-IX TELECOM S.A.",
-        "AS Rank": "265",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -307,15 +307,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "9304",
-        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
-        "AS Rank": "84",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "15412",
         "AS-NAME": "FLAG-AS - FLAG TELECOM UK LIMITED",
         "AS Rank": "43",
@@ -403,6 +394,15 @@
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20804"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "3",
+        "ASN": "37100",
+        "AS-NAME": "SEACOM-AS",
+        "AS Rank": "97",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -502,15 +502,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/8220"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "8801",
-        "AS-NAME": "ROCKETFIBRE - Rocket Fibre Ltd",
-        "AS Rank": "5210",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8801"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -763,15 +754,6 @@
         "Source": "RIPE",
         "Country": "UA",
         "PeeringDB link": "https://www.peeringdb.com/asn/35297"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "37100",
-        "AS-NAME": "SEACOM-AS",
-        "AS Rank": "97",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
