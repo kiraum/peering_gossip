@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "508",
+        "Filtered prefixes @ https://alice-rs.linx.net": "504",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "73",
+        "Filtered prefixes @ https://alice-rs.linx.net": "72",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -117,7 +117,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "19",
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
+        "ASN": "9145",
+        "AS-NAME": "EWETEL - EWE TEL GmbH",
+        "AS Rank": "677",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9145"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
         "AS Rank": "256",
@@ -126,13 +135,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "18",
-        "ASN": "9145",
-        "AS-NAME": "EWETEL - EWE TEL GmbH",
-        "AS Rank": "677",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9145"
+        "Filtered prefixes @ https://alice-rs.linx.net": "15",
+        "ASN": "38158",
+        "AS-NAME": "CBN-AS-ID PT. Cyberindo Aditama",
+        "AS Rank": "139",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38158"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
@@ -151,6 +160,15 @@
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
+        "ASN": "328977",
+        "AS-NAME": "WAVEX",
+        "AS Rank": "4247",
+        "Source": "AFRINIC",
+        "Country": "KE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/328977"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "13",
@@ -424,15 +442,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "38158",
-        "AS-NAME": "CBN-AS-ID PT. Cyberindo Aditama",
-        "AS Rank": "139",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/38158"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "38182",
         "AS-NAME": "EXTREMEBB-AS-MY Extreme Broadband - Total Broadband Experience",
         "AS Rank": "975",
@@ -529,6 +538,15 @@
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/9050"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "9304",
+        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
+        "AS Rank": "77",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
