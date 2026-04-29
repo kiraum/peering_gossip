@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "714",
+        "Filtered prefixes @ https://lg.ams-ix.net": "706",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "626",
+        "Filtered prefixes @ https://lg.ams-ix.net": "625",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "9208",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "474",
+        "Filtered prefixes @ https://lg.ams-ix.net": "380",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "52",
+        "Filtered prefixes @ https://lg.ams-ix.net": "46",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
         "AS Rank": "1747",
@@ -108,7 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "24",
+        "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
         "AS Rank": "733",
@@ -137,7 +137,7 @@
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "12",
         "ASN": "199524",
-        "AS-NAME": "GCORE - G-Core Labs S.A.",
+        "AS-NAME": "GCORE G-Core Labs S.A.",
         "AS Rank": "275",
         "Source": "RIPE",
         "Country": "LU",
@@ -146,20 +146,11 @@
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
         "ASN": "20940",
-        "AS-NAME": "AKAMAI-ASN1 - Akamai International B.V.",
+        "AS-NAME": "AKAMAI-ASN1 Akamai International B.V.",
         "AS Rank": "2026",
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "58453",
-        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
-        "AS Rank": "23",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -181,6 +172,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "58453",
+        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
+        "AS Rank": "23",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "55818",
         "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
         "AS Rank": "28971",
@@ -191,7 +191,7 @@
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
         "ASN": "137996",
-        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines",
+        "AS-NAME": "HGCI-AS-AP HGC Global Communications Philippines, Inc.",
         "AS Rank": "2989",
         "Source": "APNIC",
         "Country": "PH",
