@@ -1,21 +1,12 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "500",
+        "Filtered prefixes @ https://alice-rs.linx.net": "324",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "120",
-        "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
-        "AS Rank": "92",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "109",
@@ -34,6 +25,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "72",
+        "ASN": "37662",
+        "AS-NAME": "WIOCC-AS",
+        "AS Rank": "92",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37662"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "71",
@@ -90,13 +90,31 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4651"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "25",
+        "Filtered prefixes @ https://alice-rs.linx.net": "24",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS Liquid Telecommunications Ltd",
         "AS Rank": "115",
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "22",
+        "ASN": "38158",
+        "AS-NAME": "CBN-AS-ID PT. Cyberindo Aditama",
+        "AS Rank": "139",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/38158"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "21",
+        "ASN": "57463",
+        "AS-NAME": "NetIX NetIX Communications JSC",
+        "AS Rank": "78717",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
@@ -133,15 +151,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/9145"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "17",
-        "ASN": "57463",
-        "AS-NAME": "NetIX NetIX Communications JSC",
-        "AS Rank": "78717",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
@@ -316,6 +325,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "28458",
+        "AS-NAME": "IENTC S DE RL DE CV",
+        "AS Rank": "622",
+        "Source": "LACNIC",
+        "Country": "MX",
+        "PeeringDB link": "https://www.peeringdb.com/asn/28458"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "29119",
         "AS-NAME": "SERVIHOSTING-AS AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
         "AS Rank": "175",
@@ -331,6 +349,15 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "7195",
+        "AS-NAME": "EDGEUNO S.A.S",
+        "AS Rank": "16",
+        "Source": "LACNIC",
+        "Country": "CO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -358,15 +385,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13037"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "28458",
-        "AS-NAME": "IENTC S DE RL DE CV",
-        "AS Rank": "622",
-        "Source": "LACNIC",
-        "Country": "MX",
-        "PeeringDB link": "https://www.peeringdb.com/asn/28458"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -460,15 +478,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "55329",
-        "AS-NAME": "TELCOTECH-KH Telcotech Ltd.",
-        "AS Rank": "1124",
-        "Source": "APNIC",
-        "Country": "KH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55329"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "55818",
         "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
         "AS Rank": "28971",
@@ -511,15 +520,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/3214"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "16",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -613,6 +613,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "55329",
+        "AS-NAME": "TELCOTECH-KH Telcotech Ltd.",
+        "AS Rank": "1124",
+        "Source": "APNIC",
+        "Country": "KH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55329"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "136106",
         "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
         "AS Rank": "108",
@@ -673,15 +682,6 @@
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/6204"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "6424",
-        "AS-NAME": "EDGOO EDGOO NETWORKS UNIPESSOAL LDA",
-        "AS Rank": "260",
-        "Source": "RIPE",
-        "Country": "PT",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6424"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
