@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1210",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1214",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN Sify Limited",
         "AS Rank": "97",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "629",
+        "Filtered prefixes @ https://lg.ams-ix.net": "630",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "9208",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "422",
+        "Filtered prefixes @ https://lg.ams-ix.net": "480",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "346",
+        "Filtered prefixes @ https://lg.ams-ix.net": "322",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -81,6 +81,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "40",
+        "ASN": "152565",
+        "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
+        "AS Rank": "1747",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
         "ASN": "16637",
         "AS-NAME": "MTNNS-AS",
@@ -97,15 +106,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "24",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "733",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "24",
@@ -126,6 +126,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37282"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "18",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "733",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
         "ASN": "29091",
         "AS-NAME": "IPNXng",
@@ -142,15 +151,6 @@
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "152565",
-        "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
-        "AS Rank": "1747",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -178,15 +178,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "58453",
-        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
-        "AS Rank": "23",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -244,12 +235,30 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "58453",
+        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
+        "AS Rank": "23",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "38040",
         "AS-NAME": "GLOBAL-TRANSIT-TOT-IIG-TH TOT Public Company Limited",
         "AS Rank": "826",
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/38040"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "137557",
+        "AS-NAME": "IGCL-AS-AP International gateway co., Ltd",
+        "AS Rank": "935",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1",
