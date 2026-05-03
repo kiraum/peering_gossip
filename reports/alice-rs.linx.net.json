@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "320",
+        "Filtered prefixes @ https://alice-rs.linx.net": "308",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "109",
+        "Filtered prefixes @ https://alice-rs.linx.net": "108",
         "ASN": "4800",
         "AS-NAME": "LINTASARTA-AS-AP PT Aplikanusa Lintasarta",
         "AS Rank": "114",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "72",
+        "Filtered prefixes @ https://alice-rs.linx.net": "74",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -135,15 +135,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9145"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "17",
-        "ASN": "20764",
-        "AS-NAME": "RASCOM-AS CJSC RASCOM",
-        "AS Rank": "33",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
         "ASN": "23764",
         "AS-NAME": "CTGNET CTGNet",
@@ -181,15 +172,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "27",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "9930",
         "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia",
         "AS Rank": "399",
@@ -208,6 +190,24 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "27",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "20764",
+        "AS-NAME": "RASCOM-AS CJSC RASCOM",
+        "AS Rank": "33",
+        "Source": "RIPE",
+        "Country": "RU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "137409",
         "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
         "AS Rank": "52",
@@ -216,7 +216,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "8529",
         "AS-NAME": "OMANTEL-AS Zain Omantel International FZ-LLC",
         "AS Rank": "119",
@@ -349,15 +349,6 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
-        "AS Rank": "16",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -520,6 +511,15 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/3214"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "7195",
+        "AS-NAME": "EDGEUNO S.A.S",
+        "AS Rank": "16",
+        "Source": "LACNIC",
+        "Country": "CO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
