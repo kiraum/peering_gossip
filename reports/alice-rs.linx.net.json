@@ -27,15 +27,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "74",
-        "ASN": "9498",
-        "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
-        "AS Rank": "20",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9498"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "72",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
@@ -52,6 +43,15 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "68",
+        "ASN": "9498",
+        "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
+        "AS Rank": "20",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "64",
@@ -135,24 +135,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9145"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "15",
-        "ASN": "57463",
-        "AS-NAME": "NetIX NetIX Communications JSC",
-        "AS Rank": "78717",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "15",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
-        "AS Rank": "199",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "23764",
         "AS-NAME": "CTGNET CTGNet",
@@ -169,6 +151,15 @@
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
+        "AS Rank": "199",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -205,6 +196,15 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "57463",
+        "AS-NAME": "NetIX NetIX Communications JSC",
+        "AS Rank": "78717",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
@@ -317,7 +317,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "15412",
-        "AS-NAME": "FLAG-AS FLAG TELECOM UK LIMITED",
+        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
         "AS Rank": "46",
         "Source": "RIPE",
         "Country": "GB",
@@ -349,6 +349,15 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "9304",
+        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
+        "AS Rank": "77",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -578,7 +587,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "34177",
-        "AS-NAME": "CELESTE-AS CELESTE SAS",
+        "AS-NAME": "CELESTE-AS Celeste SAS",
         "AS Rank": "1336",
         "Source": "RIPE",
         "Country": "FR",
@@ -664,15 +673,6 @@
         "Source": "RIPE",
         "Country": "NO",
         "PeeringDB link": "https://www.peeringdb.com/asn/5377"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "5405",
-        "AS-NAME": "INTERDOTLINK Inter.link GmbH",
-        "AS Rank": "43",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/5405"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
