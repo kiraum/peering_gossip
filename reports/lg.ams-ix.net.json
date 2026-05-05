@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "630",
+        "Filtered prefixes @ https://lg.ams-ix.net": "566",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "9208",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "456",
+        "Filtered prefixes @ https://lg.ams-ix.net": "408",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "314",
+        "Filtered prefixes @ https://lg.ams-ix.net": "322",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "58",
+        "Filtered prefixes @ https://lg.ams-ix.net": "56",
         "ASN": "9304",
         "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
         "AS Rank": "77",
@@ -81,31 +81,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "36",
+        "Filtered prefixes @ https://lg.ams-ix.net": "35",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
         "AS Rank": "1747",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/152565"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "30",
-        "ASN": "16637",
-        "AS-NAME": "MTNNS-AS",
-        "AS Rank": "256",
-        "Source": "AFRINIC",
-        "Country": "ZA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "26",
-        "ASN": "18229",
-        "AS-NAME": "CTRLS-AS-IN CtrlS",
-        "AS Rank": "189",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "24",
@@ -124,6 +106,24 @@
         "Source": "AFRINIC",
         "Country": "SC",
         "PeeringDB link": "https://www.peeringdb.com/asn/36902"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "22",
+        "ASN": "18229",
+        "AS-NAME": "CTRLS-AS-IN CtrlS",
+        "AS Rank": "189",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "22",
+        "ASN": "16637",
+        "AS-NAME": "MTNNS-AS",
+        "AS Rank": "256",
+        "Source": "AFRINIC",
+        "Country": "ZA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
@@ -250,15 +250,6 @@
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/38040"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "137557",
-        "AS-NAME": "IGCL-AS-AP International gateway co., Ltd",
-        "AS Rank": "935",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137557"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1",
