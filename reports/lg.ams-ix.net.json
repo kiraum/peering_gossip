@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "614",
+        "Filtered prefixes @ https://lg.ams-ix.net": "611",
         "ASN": "328092",
         "AS-NAME": "SUD-TELCOM-AS",
         "AS Rank": "9208",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "556",
+        "Filtered prefixes @ https://lg.ams-ix.net": "468",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
@@ -64,21 +64,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "54",
-        "ASN": "45629",
-        "AS-NAME": "JASTEL-NETWORK-TH-AP JasTel Network International Gateway",
-        "AS Rank": "396",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/45629"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "39",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
         "AS Rank": "1747",
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/152565"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "54",
+        "ASN": "45629",
+        "AS-NAME": "JASTEL-NETWORK-TH-AP JasTel Network International Gateway",
+        "AS Rank": "396",
+        "Source": "APNIC",
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/45629"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
@@ -109,6 +109,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
+        "AS Rank": "733",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "37282",
         "AS-NAME": "MAINONE",
         "AS Rank": "269",
@@ -117,13 +126,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37282"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "21",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS Vortex Netsol Private Limited",
-        "AS Rank": "733",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+        "Filtered prefixes @ https://lg.ams-ix.net": "16",
+        "ASN": "29091",
+        "AS-NAME": "IPNXng",
+        "AS Rank": "3085",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "12",
@@ -133,15 +142,6 @@
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "10",
-        "ASN": "29091",
-        "AS-NAME": "IPNXng",
-        "AS Rank": "3085",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -169,6 +169,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/55352"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "58453",
+        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
+        "AS Rank": "23",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -223,15 +232,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133296"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "58453",
-        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
-        "AS Rank": "23",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
