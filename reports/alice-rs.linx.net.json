@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "213",
+        "Filtered prefixes @ https://alice-rs.linx.net": "204",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -108,15 +108,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "17",
-        "ASN": "9145",
-        "AS-NAME": "EWETEL EWE TEL GmbH",
-        "AS Rank": "677",
-        "Source": "RIPE",
-        "Country": "DE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9145"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "51561",
         "AS-NAME": "AS-ICUK ICUK Computing Services Limited",
@@ -160,24 +151,6 @@
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "27",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "20764",
-        "AS-NAME": "RASCOM-AS CJSC RASCOM",
-        "AS Rank": "33",
-        "Source": "RIPE",
-        "Country": "RU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -234,6 +207,24 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37678"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS Rank": "108",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "27",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "3741",
         "AS-NAME": "NTT-DATA-Inc",
@@ -268,15 +259,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
-        "AS Rank": "108",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -322,6 +304,15 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "9304",
+        "AS-NAME": "HUTCHISON-AS-AP HGC Global Communications Limited",
+        "AS Rank": "77",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -421,6 +412,15 @@
         "Source": "APNIC",
         "Country": "TW",
         "PeeringDB link": "https://www.peeringdb.com/asn/9505"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "3",
+        "ASN": "12703",
+        "AS-NAME": "PULSANT-AS Pulsant (Scotland) Ltd",
+        "AS Rank": "1378",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/12703"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -817,6 +817,15 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/45474"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS Telehouse EAD",
+        "AS Rank": "279",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
