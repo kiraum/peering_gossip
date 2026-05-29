@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "216",
+        "Filtered prefixes @ https://alice-rs.linx.net": "212",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/36994"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "74",
+        "Filtered prefixes @ https://alice-rs.linx.net": "71",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -135,16 +135,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "64049",
-        "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
-        "AS Rank": "68",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "9930",
         "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia",
         "AS Rank": "399",
@@ -169,6 +160,15 @@
         "Source": "AFRINIC",
         "Country": "MU",
         "PeeringDB link": "https://www.peeringdb.com/asn/33763"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "64049",
+        "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
+        "AS Rank": "68",
+        "Source": "APNIC",
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
@@ -277,15 +277,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "327814",
-        "AS-NAME": "Ecoband",
-        "AS Rank": "3155",
-        "Source": "AFRINIC",
-        "Country": "GH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/327814"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -412,6 +403,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "327814",
+        "AS-NAME": "Ecoband",
+        "AS Rank": "3155",
+        "Source": "AFRINIC",
+        "Country": "GH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/327814"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -673,6 +673,15 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/3214"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "3223",
+        "AS-NAME": "VOXILITY Voxility LLP",
+        "AS Rank": "102",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/3223"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
