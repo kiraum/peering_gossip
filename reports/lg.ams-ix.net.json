@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "314",
+        "Filtered prefixes @ https://lg.ams-ix.net": "306",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "116",
+        "Filtered prefixes @ https://lg.ams-ix.net": "112",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "85",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "94",
+        "Filtered prefixes @ https://lg.ams-ix.net": "99",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN JOY SERVICES",
         "AS Rank": "1747",
@@ -79,6 +79,15 @@
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/45629"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "36",
+        "ASN": "199524",
+        "AS-NAME": "GCORE G-Core Labs S.A.",
+        "AS Rank": "275",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "30",
@@ -118,15 +127,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
-        "ASN": "199524",
-        "AS-NAME": "GCORE G-Core Labs S.A.",
-        "AS Rank": "275",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "18",
         "ASN": "18229",
         "AS-NAME": "CTRLS-AS-IN CtrlS",
         "AS Rank": "189",
