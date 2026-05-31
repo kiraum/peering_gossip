@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "56",
+        "Filtered prefixes @ https://alice-rs.linx.net": "54",
         "ASN": "7713",
         "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
         "AS Rank": "85",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "30",
+        "Filtered prefixes @ https://alice-rs.linx.net": "29",
         "ASN": "37662",
         "AS-NAME": "WIOCC-AS",
         "AS Rank": "92",
@@ -108,7 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/24482"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "19",
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
         "ASN": "57463",
         "AS-NAME": "NetIX NetIX Communications JSC",
         "AS Rank": "78717",
@@ -187,6 +187,15 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
+        "AS Rank": "52",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
@@ -658,6 +667,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "3214",
+        "AS-NAME": "XTOM xTom GmbH",
+        "AS Rank": "455",
+        "Source": "RIPE",
+        "Country": "DE",
+        "PeeringDB link": "https://www.peeringdb.com/asn/3214"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "3223",
         "AS-NAME": "VOXILITY Voxility LLP",
         "AS Rank": "102",
@@ -826,15 +844,6 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/59624"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "52",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
