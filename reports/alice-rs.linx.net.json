@@ -11,7 +11,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "110",
         "ASN": "4800",
-        "AS-NAME": "LINTASARTA-AS-AP PT Aplikanusa Lintasarta",
+        "AS-NAME": "LINTASARTA-AS-AP - PT Aplikanusa Lintasarta",
         "AS Rank": "114",
         "Source": "APNIC",
         "Country": "ID",
@@ -20,7 +20,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "98",
         "ASN": "36994",
-        "AS-NAME": "Vodacom-VB",
+        "AS-NAME": "Vodacom - Vodacom",
         "AS Rank": "651",
         "Source": "AFRINIC",
         "Country": "ZA",
@@ -29,7 +29,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "73",
         "ASN": "9498",
-        "AS-NAME": "BBIL-AP BHARTI Airtel Ltd.",
+        "AS-NAME": "BBIL-AP - BHARTI Airtel Ltd.",
         "AS Rank": "20",
         "Source": "APNIC",
         "Country": "IN",
@@ -45,9 +45,9 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "54",
+        "Filtered prefixes @ https://alice-rs.linx.net": "56",
         "ASN": "7713",
-        "AS-NAME": "TELKOMNET-AS-AP PT Telekomunikasi Indonesia",
+        "AS-NAME": "telkomnet-as-ap - PT Telekomunikasi Indonesia",
         "AS Rank": "85",
         "Source": "APNIC",
         "Country": "ID",
@@ -65,16 +65,16 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "34",
         "ASN": "2018",
-        "AS-NAME": "TENET-1",
+        "AS-NAME": "TENET (The UNINET Project) - TENET (The UNINET Project)",
         "AS Rank": "3003",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "29",
+        "Filtered prefixes @ https://alice-rs.linx.net": "27",
         "ASN": "37662",
-        "AS-NAME": "WIOCC-AS",
+        "AS-NAME": "West Indian Ocean Cable Company - West Indian Ocean Cable Company",
         "AS Rank": "92",
         "Source": "AFRINIC",
         "Country": "MU",
@@ -83,7 +83,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "25",
         "ASN": "4651",
-        "AS-NAME": "NTPCL-AS-AP National Telecom Public Company Limited",
+        "AS-NAME": "NTPCL-AS-AP - National Telecom Public Company Limited",
         "AS Rank": "208",
         "Source": "APNIC",
         "Country": "TH",
@@ -101,7 +101,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "20",
         "ASN": "24482",
-        "AS-NAME": "SGGS-AS-AP SG.GS",
+        "AS-NAME": "SGGS-AS-AP - SG.GS",
         "AS Rank": "249",
         "Source": "APNIC",
         "Country": "SG",
@@ -137,7 +137,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "9930",
-        "AS-NAME": "TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia",
+        "AS-NAME": "TTNET-MY - TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia",
         "AS Rank": "399",
         "Source": "APNIC",
         "Country": "MY",
@@ -155,7 +155,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "33763",
-        "AS-NAME": "Paratus",
+        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
         "AS Rank": "461",
         "Source": "AFRINIC",
         "Country": "MU",
@@ -164,7 +164,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "64049",
-        "AS-NAME": "RJIPL-SG Reliance Jio Infocomm Pte Ltd Singapore",
+        "AS-NAME": "RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore",
         "AS Rank": "68",
         "Source": "APNIC",
         "Country": "SG",
@@ -173,7 +173,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "16637",
-        "AS-NAME": "MTNNS-AS",
+        "AS-NAME": "MTN SA - MTN SA",
         "AS Rank": "256",
         "Source": "AFRINIC",
         "Country": "ZA",
@@ -187,15 +187,6 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP GSL Networks Pty LTD",
-        "AS Rank": "52",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
@@ -216,6 +207,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8529"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
+        "AS Rank": "52",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "3213",
         "AS-NAME": "BOGONS-ASN Bogons Ltd",
@@ -227,7 +227,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "37678",
-        "AS-NAME": "BOFINET",
+        "AS-NAME": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited - BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
         "AS Rank": "1484",
         "Source": "AFRINIC",
         "Country": "BW",
@@ -236,7 +236,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID PT. Mega Akses Persada",
+        "AS-NAME": "FIBERSTAR-AS-ID - PT. Mega Akses Persada",
         "AS Rank": "108",
         "Source": "APNIC",
         "Country": "ID",
@@ -245,7 +245,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "3741",
-        "AS-NAME": "NTT-DATA-Inc",
+        "AS-NAME": "Dimension Data - Dimension Data",
         "AS Rank": "194",
         "Source": "AFRINIC",
         "Country": "ZA",
@@ -272,7 +272,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "56595",
-        "AS-NAME": "FLUENCY Fluency Communications Ltd",
+        "AS-NAME": "FLUENCY Commsworld Ltd",
         "AS Rank": "1282",
         "Source": "RIPE",
         "Country": "GB",
@@ -281,7 +281,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "3462",
-        "AS-NAME": "HINET Data Communication Business Group",
+        "AS-NAME": "HINET - Data Communication Business Group",
         "AS Rank": "411",
         "Source": "APNIC",
         "Country": "TW",
@@ -317,7 +317,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "37148",
-        "AS-NAME": "globacom-as",
+        "AS-NAME": "Globacom Limited - Globacom Limited",
         "AS Rank": "1147",
         "Source": "AFRINIC",
         "Country": "NG",
@@ -326,7 +326,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "38880",
-        "AS-NAME": "M21-AS-AP Micron21 Datacentre Pty Ltd",
+        "AS-NAME": "M21-AS-AP - Micron21 Datacentre Pty Ltd",
         "AS Rank": "2873",
         "Source": "APNIC",
         "Country": "AU",
@@ -353,7 +353,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "17494",
-        "AS-NAME": "BTTB-AS-AP Telecom Operator & Internet Service Provider as well",
+        "AS-NAME": "BTTB-AS-AP - Telecom Operator & Internet Service Provider as well",
         "AS Rank": "200",
         "Source": "APNIC",
         "Country": "BD",
@@ -362,7 +362,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "23764",
-        "AS-NAME": "CTGNET CTGNet",
+        "AS-NAME": "CTGNet - CTGNet",
         "AS Rank": "32",
         "Source": "APNIC",
         "Country": "HK",
@@ -380,7 +380,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "37100",
-        "AS-NAME": "SEACOM-AS",
+        "AS-NAME": "SEACOM Limited - SEACOM Limited",
         "AS Rank": "91",
         "Source": "AFRINIC",
         "Country": "MU",
@@ -389,7 +389,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "37468",
-        "AS-NAME": "ANGOLA-CABLES",
+        "AS-NAME": "Angola Cables - Angola Cables",
         "AS Rank": "24",
         "Source": "AFRINIC",
         "Country": "AO",
@@ -407,7 +407,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "327814",
-        "AS-NAME": "Ecoband",
+        "AS-NAME": "Ecoband Ltd - Ecoband Ltd",
         "AS Rank": "3155",
         "Source": "AFRINIC",
         "Country": "GH",
@@ -425,7 +425,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP Viettel Group",
+        "AS-NAME": "VIETEL-AS-AP - Viettel Group",
         "AS Rank": "192",
         "Source": "APNIC",
         "Country": "VN",
@@ -434,7 +434,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "9505",
-        "AS-NAME": "TWGATE-AP Taiwan Internet Gateway",
+        "AS-NAME": "TWGATE-AP - Taiwan Internet Gateway",
         "AS Rank": "539",
         "Source": "APNIC",
         "Country": "TW",
@@ -461,7 +461,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "28458",
-        "AS-NAME": "IENTC S DE RL DE CV",
+        "AS-NAME": "AS28458 - IENTC S DE RL DE CV",
         "AS Rank": "622",
         "Source": "LACNIC",
         "Country": "MX",
@@ -470,7 +470,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "38182",
-        "AS-NAME": "EXTREMEBB-AS-MY Extreme Broadband - Total Broadband Experience",
+        "AS-NAME": "EXTREMEBB-AS-MY - Extreme Broadband - Total Broadband Experience",
         "AS Rank": "975",
         "Source": "APNIC",
         "Country": "MY",
@@ -488,7 +488,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP MC-IX Matrix Internet Exchange RS-1",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
         "AS Rank": "28971",
         "Source": "APNIC",
         "Country": "ID",
@@ -497,7 +497,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "271253",
-        "AS-NAME": "LINK BRASIL TELECOMUNICACOES LTDA",
+        "AS-NAME": "AS271253 - LINK BRASIL TELECOMUNICACOES LTDA",
         "AS Rank": "106",
         "Source": "LACNIC",
         "Country": "BR",
@@ -524,7 +524,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "7195",
-        "AS-NAME": "EDGEUNO S.A.S",
+        "AS-NAME": "AS7195 - EDGEUNO S.A.S",
         "AS Rank": "16",
         "Source": "LACNIC",
         "Country": "CO",
@@ -578,7 +578,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "24691",
-        "AS-NAME": "TOGOTEL-AS TogoTelecom, Togo",
+        "AS-NAME": "TOGOTEL-AS - IDDQD-AS",
         "AS Rank": "4801",
         "Source": "RIPE",
         "Country": "TG",
@@ -623,7 +623,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "55329",
-        "AS-NAME": "TELCOTECH-KH Telcotech Ltd.",
+        "AS-NAME": "TELCOTECH-KH - Telcotech Ltd.",
         "AS Rank": "1124",
         "Source": "APNIC",
         "Country": "KH",
@@ -722,7 +722,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "8452",
-        "AS-NAME": "TE-AS TE-AS",
+        "AS-NAME": "TE-AS - IDDQD-AS",
         "AS Rank": "404",
         "Source": "RIPE",
         "Country": "EG",
@@ -749,7 +749,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "18106",
-        "AS-NAME": "VIEWQWEST-SG-AP Viewqwest Pte Ltd",
+        "AS-NAME": "VIEWQWEST-SG-AP - Viewqwest Pte Ltd",
         "AS Rank": "486",
         "Source": "APNIC",
         "Country": "SG",
@@ -758,7 +758,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "19711",
-        "AS-NAME": "SWAZINET",
+        "AS-NAME": "SWAZILAND PTC - SWAZILAND PTC",
         "AS Rank": "2261",
         "Source": "AFRINIC",
         "Country": "SZ",
@@ -767,7 +767,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "24429",
-        "AS-NAME": "TAOBAO Zhejiang Taobao Network Co.,Ltd",
+        "AS-NAME": "Taobao - Zhejiang Taobao Network Co.,Ltd",
         "AS Rank": "2436",
         "Source": "APNIC",
         "Country": "CN",
@@ -785,7 +785,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "36944",
-        "AS-NAME": "UBUNTU-UNICAST-AS",
+        "AS-NAME": "Ubuntunet Alliance For Research and Education Networking - Ubuntunet Alliance For Research and Education Networking",
         "AS Rank": "1792",
         "Source": "AFRINIC",
         "Country": "MW",
@@ -794,7 +794,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "37497",
-        "AS-NAME": "Network-Platforms",
+        "AS-NAME": "Network Platforms (PTY) LTD - Network Platforms (PTY) LTD",
         "AS Rank": "656",
         "Source": "AFRINIC",
         "Country": "ZA",
@@ -803,7 +803,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "45474",
-        "AS-NAME": "NEXUSGUARD-AS-AP Nexusguard Pte. Ltd.",
+        "AS-NAME": "NEXUSGUARD-AS-AP - Nexusguard Pte. Ltd.",
         "AS Rank": "995",
         "Source": "APNIC",
         "Country": "SG",
@@ -830,7 +830,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "58453",
-        "AS-NAME": "CMI-INT-HK China Mobile International Limited",
+        "AS-NAME": "CMI-INT-HK - China Mobile International Limited",
         "AS Rank": "23",
         "Source": "APNIC",
         "Country": "HK",
