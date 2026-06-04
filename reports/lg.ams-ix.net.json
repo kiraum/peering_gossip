@@ -9,13 +9,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "244",
+        "Filtered prefixes @ https://lg.ams-ix.net": "240",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "152",
+        "ASN": "152565",
+        "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
+        "AS Rank": "1747",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
@@ -43,15 +52,6 @@
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "93",
-        "ASN": "152565",
-        "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
-        "AS Rank": "1747",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "90",
@@ -100,6 +100,15 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
+        "ASN": "199524",
+        "AS-NAME": "GCORE G-Core Labs S.A.",
+        "AS Rank": "275",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS - Vortex Netsol Private Limited",
         "AS Rank": "733",
@@ -124,15 +133,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "16",
-        "ASN": "199524",
-        "AS-NAME": "GCORE G-Core Labs S.A.",
-        "AS Rank": "275",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
