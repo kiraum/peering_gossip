@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "196",
+        "Filtered prefixes @ https://alice-rs.linx.net": "208",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4800"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "98",
+        "Filtered prefixes @ https://alice-rs.linx.net": "94",
         "ASN": "36994",
         "AS-NAME": "Vodacom - Vodacom",
         "AS Rank": "651",
@@ -90,15 +90,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4651"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "25",
-        "ASN": "57463",
-        "AS-NAME": "NetIX NetIX Communications JSC",
-        "AS Rank": "78717",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "22",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS Liquid Telecommunications Ltd",
@@ -153,6 +144,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "57463",
+        "AS-NAME": "NetIX NetIX Communications JSC",
+        "AS Rank": "78717",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "33763",
         "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
@@ -205,15 +205,6 @@
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/136106"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "64049",
-        "AS-NAME": "RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore",
-        "AS Rank": "68",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
@@ -331,6 +322,15 @@
         "Source": "APNIC",
         "Country": "AU",
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "64049",
+        "AS-NAME": "RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore",
+        "AS Rank": "68",
+        "Source": "APNIC",
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -712,6 +712,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "17639",
+        "AS-NAME": "CONVERGE-AS - Converge ICT Solutions Inc.",
+        "AS Rank": "515",
+        "Source": "APNIC",
+        "Country": "PH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/17639"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "18106",
         "AS-NAME": "VIEWQWEST-SG-AP - Viewqwest Pte Ltd",
         "AS Rank": "486",
@@ -808,6 +817,15 @@
         "Source": "RIPE",
         "Country": "UA",
         "PeeringDB link": "https://www.peeringdb.com/asn/199995"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "200612",
+        "AS-NAME": "GulfBridgeInternational Gulf Bridge International Inc.",
+        "AS Rank": "104",
+        "Source": "RIPE",
+        "Country": "VG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/200612"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
