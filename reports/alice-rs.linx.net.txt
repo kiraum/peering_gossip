@@ -1,5 +1,5 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-208 | 6939 | HURRICANE - Hurricane Electric LLC | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
+200 | 6939 | HURRICANE - Hurricane Electric LLC | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 111 | 4800 | LINTASARTA-AS-AP - PT Aplikanusa Lintasarta | 114 | APNIC | ID | https://www.peeringdb.com/asn/4800
 94 | 36994 | Vodacom - Vodacom | 651 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 70 | 8560 | IONOS-AS IONOS SE | 2270 | RIPE | DE | https://www.peeringdb.com/asn/8560
@@ -14,11 +14,11 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 16 | 51561 | AS-ICUK ICUK Computing Services Limited | 5962 | RIPE | GB | https://www.peeringdb.com/asn/51561
 14 | 1031 | PEER1-1031 - PEER 1031 LLC | 27 | ARIN | US | https://www.peeringdb.com/asn/1031
 14 | 44735 | SIP-ASN Nova hf | 973 | RIPE | IS | https://www.peeringdb.com/asn/44735
+13 | 57463 | NetIX NetIX Communications JSC | 78717 | RIPE | BG | https://www.peeringdb.com/asn/57463
 12 | 9930 | TTNET-MY - TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia | 399 | APNIC | MY | https://www.peeringdb.com/asn/9930
-12 | 57463 | NetIX NetIX Communications JSC | 78717 | RIPE | BG | https://www.peeringdb.com/asn/57463
 11 | 33763 | Paratus Telecommunications Limited - Paratus Telecommunications Limited | 461 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
-10 | 16637 | MTN SA - MTN SA | 256 | AFRINIC | ZA | https://www.peeringdb.com/asn/16637
 10 | 60171 | AFRIX-AS AFR-IX TELECOM S.A. | 199 | RIPE | ES | https://www.peeringdb.com/asn/60171
+9 | 16637 | MTN SA - MTN SA | 256 | AFRINIC | ZA | https://www.peeringdb.com/asn/16637
 8 | 3213 | BOGONS-ASN Bogons Ltd | 8685 | RIPE | GB | https://www.peeringdb.com/asn/3213
 8 | 37678 | BOTSWANA FIBRE NETWORKS (Proprietary) Limited - BOTSWANA FIBRE NETWORKS (Proprietary) Limited | 1484 | AFRINIC | BW | https://www.peeringdb.com/asn/37678
 8 | 136106 | FIBERSTAR-AS-ID - PT. Mega Akses Persada | 108 | APNIC | ID | https://www.peeringdb.com/asn/136106
@@ -32,13 +32,13 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 5 | 3462 | HINET - Data Communication Business Group | 411 | APNIC | TW | https://www.peeringdb.com/asn/3462
 5 | 7155 | VIASAT-SP-BACKBONE - ViaSat,Inc. | 4112 | ARIN | US | https://www.peeringdb.com/asn/7155
 5 | 15412 | FLAG-AS Flag Telecom UK Limited | 46 | RIPE | GB | https://www.peeringdb.com/asn/15412
+5 | 23764 | CTGNet - CTGNet | 32 | APNIC | HK | https://www.peeringdb.com/asn/23764
 5 | 29119 | SERVIHOSTING-AS AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL | 175 | RIPE | ES | https://www.peeringdb.com/asn/29119
 5 | 37468 | Angola Cables - Angola Cables | 24 | AFRINIC | AO | https://www.peeringdb.com/asn/37468
 5 | 38880 | M21-AS-AP - Micron21 Datacentre Pty Ltd | 2873 | APNIC | AU | https://www.peeringdb.com/asn/38880
 5 | 64049 | RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore | 68 | APNIC | SG | https://www.peeringdb.com/asn/64049
 4 | 12713 | OTEGlobe Ote SA (Hellenic Telecommunications Organisation) | 513 | RIPE | GR | https://www.peeringdb.com/asn/12713
 4 | 13037 | ZEN-AS Zen Internet Ltd | 4789 | RIPE | GB | https://www.peeringdb.com/asn/13037
-4 | 23764 | CTGNet - CTGNet | 32 | APNIC | HK | https://www.peeringdb.com/asn/23764
 4 | 28458 | AS28458 - IENTC S DE RL DE CV | 622 | LACNIC | MX | https://www.peeringdb.com/asn/28458
 4 | 36351 | SOFTLAYER - IBM Cloud | 2031 | ARIN | US | https://www.peeringdb.com/asn/36351
 4 | 37100 | SEACOM Limited - SEACOM Limited | 91 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
@@ -85,6 +85,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 1 | 35297 | DATALINE-AS Dataline LLC | 123 | RIPE | UA | https://www.peeringdb.com/asn/35297
 1 | 36944 | Ubuntunet Alliance For Research and Education Networking - Ubuntunet Alliance For Research and Education Networking | 1792 | AFRINIC | MW | https://www.peeringdb.com/asn/36944
 1 | 37497 | Network Platforms (PTY) LTD - Network Platforms (PTY) LTD | 656 | AFRINIC | ZA | https://www.peeringdb.com/asn/37497
+1 | 38158 | CBN-AS-ID - PT. Cyberindo Aditama | 139 | APNIC | ID | https://www.peeringdb.com/asn/38158
 1 | 45474 | NEXUSGUARD-AS-AP - Nexusguard Pte. Ltd. | 995 | APNIC | SG | https://www.peeringdb.com/asn/45474
 1 | 58188 | SHARPSTREAM Sharpstream Ltd | 33138 | RIPE | GB | https://www.peeringdb.com/asn/58188
 1 | 58453 | CMI-INT-HK - China Mobile International Limited | 23 | APNIC | HK | https://www.peeringdb.com/asn/58453
