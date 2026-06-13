@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "200",
+        "Filtered prefixes @ https://alice-rs.linx.net": "216",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -36,7 +36,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "64",
+        "Filtered prefixes @ https://alice-rs.linx.net": "63",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP - BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -72,7 +72,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "28",
+        "Filtered prefixes @ https://alice-rs.linx.net": "31",
         "ASN": "37662",
         "AS-NAME": "West Indian Ocean Cable Company - West Indian Ocean Cable Company",
         "AS Rank": "92",
@@ -118,21 +118,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "27",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN Nova hf",
         "AS Rank": "973",
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "13",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "27",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "13",
@@ -153,7 +153,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "33763",
         "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
         "AS Rank": "461",
@@ -163,21 +163,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "10",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
-        "AS Rank": "199",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "16637",
         "AS-NAME": "MTN SA - MTN SA",
         "AS Rank": "256",
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
+        "AS Rank": "199",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -205,15 +205,6 @@
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/136106"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
-        "AS Rank": "52",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -244,6 +235,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "15412",
+        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
+        "AS Rank": "46",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "16247",
         "AS-NAME": "M247-UK Convergence Group (Wireless) Networks Limited",
         "AS Rank": "2817",
@@ -270,6 +270,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
+        "AS Rank": "52",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
         "ASN": "3462",
         "AS-NAME": "HINET - Data Communication Business Group",
@@ -286,15 +295,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/7155"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "15412",
-        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
-        "AS Rank": "46",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
