@@ -9,24 +9,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "380",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
-        "AS Rank": "5775",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "179",
-        "ASN": "152565",
-        "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
-        "AS Rank": "1747",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
         "ASN": "4775",
         "AS-NAME": "GLOBE-TELECOM-AS - Globe Telecoms",
@@ -34,6 +16,15 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "130",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
+        "AS Rank": "5775",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "130",
@@ -54,7 +45,16 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "106",
+        "Filtered prefixes @ https://lg.ams-ix.net": "109",
+        "ASN": "152565",
+        "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
+        "AS Rank": "1747",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "91",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -100,12 +100,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
-        "ASN": "136334",
-        "AS-NAME": "VNPL-AS - Vortex Netsol Private Limited",
-        "AS Rank": "733",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
+        "ASN": "199524",
+        "AS-NAME": "GCORE G-Core Labs S.A.",
+        "AS Rank": "275",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
@@ -126,13 +126,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "16",
-        "ASN": "199524",
-        "AS-NAME": "GCORE G-Core Labs S.A.",
-        "AS Rank": "275",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+        "Filtered prefixes @ https://lg.ams-ix.net": "20",
+        "ASN": "136334",
+        "AS-NAME": "VNPL-AS - Vortex Netsol Private Limited",
+        "AS Rank": "733",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136334"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
