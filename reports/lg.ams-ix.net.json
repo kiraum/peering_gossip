@@ -9,6 +9,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "154",
+        "ASN": "6939",
+        "AS-NAME": "HURRICANE - Hurricane Electric LLC",
+        "AS Rank": "6",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "150",
         "ASN": "4775",
         "AS-NAME": "GLOBE-TELECOM-AS - Globe Telecoms",
@@ -16,15 +25,6 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "146",
-        "ASN": "6939",
-        "AS-NAME": "HURRICANE - Hurricane Electric LLC",
-        "AS Rank": "6",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "130",
@@ -45,22 +45,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "107",
-        "ASN": "152565",
-        "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
-        "AS Rank": "1747",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "106",
+        "Filtered prefixes @ https://lg.ams-ix.net": "114",
         "ASN": "134548",
         "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
         "AS Rank": "5775",
         "Source": "APNIC",
         "Country": "HK",
         "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "102",
+        "ASN": "152565",
+        "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
+        "AS Rank": "1747",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/152565"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "60",
@@ -126,7 +126,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "18",
+        "Filtered prefixes @ https://lg.ams-ix.net": "16",
         "ASN": "199524",
         "AS-NAME": "GCORE G-Core Labs S.A.",
         "AS Rank": "275",
@@ -145,12 +145,12 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
-        "ASN": "58453",
-        "AS-NAME": "CMI-INT-HK - China Mobile International Limited",
-        "AS Rank": "23",
+        "ASN": "55352",
+        "AS-NAME": "FIVENET-IN - Microscan Internet Limited",
+        "AS Rank": "1130",
         "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55352"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -169,15 +169,6 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/137996"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "9299",
-        "AS-NAME": "IPG-AS-AP - Philippine Long Distance Telephone Company",
-        "AS Rank": "247",
-        "Source": "APNIC",
-        "Country": "PH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9299"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -214,6 +205,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133296"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "58453",
+        "AS-NAME": "CMI-INT-HK - China Mobile International Limited",
+        "AS Rank": "23",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
