@@ -36,6 +36,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "120",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
+        "AS Rank": "5775",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "116",
         "ASN": "7713",
         "AS-NAME": "telkomnet-as-ap - PT Telekomunikasi Indonesia",
@@ -45,16 +54,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "114",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
-        "AS Rank": "5775",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "102",
+        "Filtered prefixes @ https://lg.ams-ix.net": "105",
         "ASN": "152565",
         "AS-NAME": "JOYSVC-AS-IN - JOY SERVICES",
         "AS Rank": "1747",
@@ -118,21 +118,21 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "20",
-        "ASN": "18229",
-        "AS-NAME": "CTRLS-AS-IN - CtrlS",
-        "AS Rank": "189",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "16",
         "ASN": "199524",
         "AS-NAME": "GCORE G-Core Labs S.A.",
         "AS Rank": "275",
         "Source": "RIPE",
         "Country": "LU",
         "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "20",
+        "ASN": "18229",
+        "AS-NAME": "CTRLS-AS-IN - CtrlS",
+        "AS Rank": "189",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
