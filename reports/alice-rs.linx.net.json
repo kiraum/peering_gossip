@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "240",
+        "Filtered prefixes @ https://alice-rs.linx.net": "229",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -16,6 +16,15 @@
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/4800"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "95",
+        "ASN": "9498",
+        "AS-NAME": "BBIL-AP - BHARTI Airtel Ltd.",
+        "AS Rank": "20",
+        "Source": "APNIC",
+        "Country": "IN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "94",
@@ -34,15 +43,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/8560"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "57",
-        "ASN": "9498",
-        "AS-NAME": "BBIL-AP - BHARTI Airtel Ltd.",
-        "AS Rank": "20",
-        "Source": "APNIC",
-        "Country": "IN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/9498"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "56",
@@ -136,21 +136,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "27",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN Nova hf",
         "AS Rank": "973",
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "13",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "27",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -631,15 +631,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "197790",
-        "AS-NAME": "AS-ACTUS Actus P.S.A",
-        "AS Rank": "3912",
-        "Source": "RIPE",
-        "Country": "PL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/197790"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "204050",
         "AS-NAME": "Yoti Yoti Ltd",
         "AS Rank": "44619",
@@ -664,6 +655,15 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/2635"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "4849",
+        "AS-NAME": "S3Company S3 Company Ltd",
+        "AS Rank": "79459",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4849"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
@@ -835,6 +835,15 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/59624"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "197790",
+        "AS-NAME": "AS-ACTUS Actus P.S.A",
+        "AS Rank": "3912",
+        "Source": "RIPE",
+        "Country": "PL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/197790"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
