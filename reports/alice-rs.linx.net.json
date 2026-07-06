@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "246",
+        "Filtered prefixes @ https://alice-rs.linx.net": "256",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "108",
+        "Filtered prefixes @ https://alice-rs.linx.net": "109",
         "ASN": "4800",
         "AS-NAME": "LINTASARTA-AS-AP - PT Aplikanusa Lintasarta",
         "AS Rank": "114",
@@ -99,6 +99,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/30844"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "20",
+        "ASN": "24482",
+        "AS-NAME": "SGGS-AS-AP - SG.GS",
+        "AS Rank": "249",
+        "Source": "APNIC",
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
         "ASN": "9145",
         "AS-NAME": "EWETEL EWE TEL GmbH",
@@ -145,15 +154,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "24482",
-        "AS-NAME": "SGGS-AS-AP - SG.GS",
-        "AS Rank": "249",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/24482"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "33763",
         "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
         "AS Rank": "461",
@@ -189,7 +189,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "136106",
         "AS-NAME": "FIBERSTAR-AS-ID - PT. Mega Akses Persada",
         "AS Rank": "108",
@@ -205,15 +205,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/56595"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
-        "ASN": "64049",
-        "AS-NAME": "RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore",
-        "AS Rank": "68",
-        "Source": "APNIC",
-        "Country": "SG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -250,6 +241,15 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "64049",
+        "AS-NAME": "RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore",
+        "AS Rank": "68",
+        "Source": "APNIC",
+        "Country": "SG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/64049"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -325,12 +325,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
-        "ASN": "38880",
-        "AS-NAME": "M21-AS-AP - Micron21 Datacentre Pty Ltd",
-        "AS Rank": "2873",
+        "ASN": "15412",
+        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
+        "AS Rank": "46",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "5",
+        "ASN": "23764",
+        "AS-NAME": "CTGNet - CTGNet",
+        "AS Rank": "32",
         "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/38880"
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -397,6 +406,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
+        "ASN": "7552",
+        "AS-NAME": "VIETEL-AS-AP - Viettel Group",
+        "AS Rank": "192",
+        "Source": "APNIC",
+        "Country": "VN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "9505",
         "AS-NAME": "TWGATE-AP - Taiwan Internet Gateway",
         "AS Rank": "539",
@@ -415,30 +433,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "15412",
-        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
-        "AS Rank": "46",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "20804",
         "AS-NAME": "ASN-TELENERGO Exatel S.A.",
         "AS Rank": "112",
         "Source": "RIPE",
         "Country": "PL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20804"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "23764",
-        "AS-NAME": "CTGNet - CTGNet",
-        "AS Rank": "32",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -691,15 +691,6 @@
         "Source": "RIPE",
         "Country": "CY",
         "PeeringDB link": "https://www.peeringdb.com/asn/6866"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP - Viettel Group",
-        "AS Rank": "192",
-        "Source": "APNIC",
-        "Country": "VN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
