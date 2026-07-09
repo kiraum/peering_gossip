@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "109",
+        "Filtered prefixes @ https://alice-rs.linx.net": "108",
         "ASN": "4800",
         "AS-NAME": "LINTASARTA-AS-AP - PT Aplikanusa Lintasarta",
         "AS Rank": "114",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/39386"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "44",
+        "Filtered prefixes @ https://alice-rs.linx.net": "43",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP - BHARTI Airtel Ltd.",
         "AS Rank": "20",
@@ -81,7 +81,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "26",
+        "Filtered prefixes @ https://alice-rs.linx.net": "27",
         "ASN": "4651",
         "AS-NAME": "NTPCL-AS-AP - National Telecom Public Company Limited",
         "AS Rank": "208",
@@ -172,15 +172,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "27",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "20764",
         "AS-NAME": "RASCOM-AS CJSC RASCOM",
         "AS Rank": "33",
@@ -196,6 +187,15 @@
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/136106"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "27",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
@@ -217,6 +217,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "37468",
+        "AS-NAME": "Angola Cables - Angola Cables",
+        "AS Rank": "24",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "37678",
         "AS-NAME": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited - BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
         "AS Rank": "1484",
@@ -235,30 +244,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "37468",
-        "AS-NAME": "Angola Cables - Angola Cables",
-        "AS Rank": "24",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
         "ASN": "64049",
         "AS-NAME": "RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore",
         "AS Rank": "68",
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/64049"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
-        "AS Rank": "52",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -313,6 +304,15 @@
         "Source": "RIPE",
         "Country": "ES",
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
+        "AS Rank": "52",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -406,15 +406,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "7552",
-        "AS-NAME": "VIETEL-AS-AP - Viettel Group",
-        "AS Rank": "192",
-        "Source": "APNIC",
-        "Country": "VN",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "9505",
         "AS-NAME": "TWGATE-AP - Taiwan Internet Gateway",
         "AS Rank": "539",
@@ -469,6 +460,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "835",
+        "AS-NAME": "GOCODEIT-EDGE - GoCodeIT Inc",
+        "AS Rank": "508",
+        "Source": "ARIN",
+        "Country": "CA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/835"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "1828",
         "AS-NAME": "UNITAS - Unitas Global",
         "AS Rank": "172",
@@ -484,6 +484,15 @@
         "Source": "LACNIC",
         "Country": "CO",
         "PeeringDB link": "https://www.peeringdb.com/asn/7195"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "7552",
+        "AS-NAME": "VIETEL-AS-AP - Viettel Group",
+        "AS Rank": "192",
+        "Source": "APNIC",
+        "Country": "VN",
+        "PeeringDB link": "https://www.peeringdb.com/asn/7552"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -835,15 +844,6 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/45474"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "49158",
-        "AS-NAME": "WIFINITY WIFINITY NETWORKS LIMITED",
-        "AS Rank": "8332",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/49158"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
