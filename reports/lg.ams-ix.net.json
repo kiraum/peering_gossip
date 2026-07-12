@@ -1,21 +1,12 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1401",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1404",
         "ASN": "328092",
         "AS-NAME": "SUD TELECOM SOLUTIONS - SUD TELECOM SOLUTIONS",
         "AS Rank": "9208",
         "Source": "AFRINIC",
         "Country": "BJ",
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "158",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
-        "AS Rank": "5775",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "154",
@@ -25,6 +16,15 @@
         "Source": "APNIC",
         "Country": "PH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "144",
+        "ASN": "199524",
+        "AS-NAME": "GCORE G-Core Labs S.A.",
+        "AS Rank": "275",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "138",
@@ -52,6 +52,15 @@
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "80",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
+        "AS Rank": "5775",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "63",
@@ -100,15 +109,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
-        "ASN": "199524",
-        "AS-NAME": "GCORE G-Core Labs S.A.",
-        "AS Rank": "275",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "136334",
         "AS-NAME": "VNPL-AS - Vortex Netsol Private Limited",
         "AS Rank": "733",
@@ -135,7 +135,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "16",
+        "Filtered prefixes @ https://lg.ams-ix.net": "12",
         "ASN": "29091",
         "AS-NAME": "ipNX Nigeria Limited - ipNX Nigeria Limited",
         "AS Rank": "3085",
