@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "236",
+        "Filtered prefixes @ https://alice-rs.linx.net": "240",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "6",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "108",
+        "Filtered prefixes @ https://alice-rs.linx.net": "109",
         "ASN": "4800",
         "AS-NAME": "LINTASARTA-AS-AP - PT Aplikanusa Lintasarta",
         "AS Rank": "114",
@@ -99,7 +99,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/35297"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "29",
+        "Filtered prefixes @ https://alice-rs.linx.net": "30",
         "ASN": "30844",
         "AS-NAME": "LIQUID-AS Liquid Telecommunications Ltd",
         "AS Rank": "115",
@@ -252,6 +252,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "7",
+        "ASN": "60171",
+        "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
+        "AS Rank": "199",
+        "Source": "RIPE",
+        "Country": "ES",
+        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "3741",
         "AS-NAME": "Dimension Data - Dimension Data",
@@ -289,21 +298,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
+        "ASN": "37100",
+        "AS-NAME": "SEACOM Limited - SEACOM Limited",
+        "AS Rank": "91",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "6",
         "ASN": "37148",
         "AS-NAME": "Globacom Limited - Globacom Limited",
         "AS Rank": "1147",
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37148"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "6",
-        "ASN": "60171",
-        "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
-        "AS Rank": "199",
-        "Source": "RIPE",
-        "Country": "ES",
-        "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "5",
@@ -361,21 +370,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
+        "ASN": "23764",
+        "AS-NAME": "CTGNet - CTGNet",
+        "AS Rank": "32",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "36351",
         "AS-NAME": "SOFTLAYER - IBM Cloud",
         "AS Rank": "2031",
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/36351"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "37100",
-        "AS-NAME": "SEACOM Limited - SEACOM Limited",
-        "AS Rank": "91",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
@@ -415,15 +424,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "15412",
-        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
-        "AS Rank": "46",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "16637",
         "AS-NAME": "MTN SA - MTN SA",
         "AS Rank": "256",
@@ -442,39 +442,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "23764",
-        "AS-NAME": "CTGNet - CTGNet",
-        "AS Rank": "32",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/23764"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "31500",
-        "AS-NAME": "GNM-AS Global Network Management Inc",
-        "AS Rank": "58",
-        "Source": "RIPE",
-        "Country": "AG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/31500"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
         "ASN": "38182",
         "AS-NAME": "EXTREMEBB-AS-MY - Extreme Broadband - Total Broadband Experience",
         "AS Rank": "975",
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/38182"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "3",
-        "ASN": "58453",
-        "AS-NAME": "CMI-INT-HK - China Mobile International Limited",
-        "AS Rank": "23",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -502,15 +475,6 @@
         "Source": "RIPE",
         "Country": "RO",
         "PeeringDB link": "https://www.peeringdb.com/asn/6204"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "7195",
-        "AS-NAME": "AS7195 - EDGEUNO S.A.S",
-        "AS Rank": "16",
-        "Source": "LACNIC",
-        "Country": "CO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/7195"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -547,6 +511,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/13213"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "15412",
+        "AS-NAME": "FLAG-AS Flag Telecom UK Limited",
+        "AS Rank": "46",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/15412"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -592,6 +565,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/28792"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "31500",
+        "AS-NAME": "GNM-AS Global Network Management Inc",
+        "AS Rank": "58",
+        "Source": "RIPE",
+        "Country": "AG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/31500"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -871,6 +853,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/58188"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "58453",
+        "AS-NAME": "CMI-INT-HK - China Mobile International Limited",
+        "AS Rank": "23",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/58453"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
