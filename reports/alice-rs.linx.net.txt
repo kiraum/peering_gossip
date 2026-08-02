@@ -1,5 +1,5 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
-292 | 6939 | HURRICANE - Hurricane Electric LLC | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
+316 | 6939 | HURRICANE - Hurricane Electric LLC | 6 | ARIN | US | https://www.peeringdb.com/asn/6939
 109 | 4800 | LINTASARTA-AS-AP - PT Aplikanusa Lintasarta | 114 | APNIC | ID | https://www.peeringdb.com/asn/4800
 96 | 36994 | Vodacom - Vodacom | 651 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
 79 | 4775 | GLOBE-TELECOM-AS - Globe Telecoms | 364 | APNIC | PH | https://www.peeringdb.com/asn/4775
@@ -22,8 +22,8 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 12 | 20764 | RASCOM-AS CJSC RASCOM | 33 | RIPE | RU | https://www.peeringdb.com/asn/20764
 12 | 24482 | SGGS-AS-AP - SG.GS | 249 | APNIC | SG | https://www.peeringdb.com/asn/24482
 12 | 136106 | FIBERSTAR-AS-ID - PT. Mega Akses Persada | 108 | APNIC | ID | https://www.peeringdb.com/asn/136106
-11 | 60171 | AFRIX-AS AFR-IX TELECOM S.A. | 199 | RIPE | ES | https://www.peeringdb.com/asn/60171
 10 | 1031 | PEER1-1031 - PEER 1031 LLC | 27 | ARIN | US | https://www.peeringdb.com/asn/1031
+10 | 60171 | AFRIX-AS AFR-IX TELECOM S.A. | 199 | RIPE | ES | https://www.peeringdb.com/asn/60171
 9 | 56595 | FLUENCY Commsworld Ltd | 1282 | RIPE | GB | https://www.peeringdb.com/asn/56595
 8 | 3213 | BOGONS-ASN Bogons Ltd | 8685 | RIPE | GB | https://www.peeringdb.com/asn/3213
 8 | 137409 | GSLNETWORKS-AS-AP - GSL Networks Pty LTD | 52 | APNIC | AU | https://www.peeringdb.com/asn/137409
@@ -52,11 +52,7 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 3 | 16637 | MTN SA - MTN SA | 256 | AFRINIC | ZA | https://www.peeringdb.com/asn/16637
 3 | 20804 | ASN-TELENERGO Exatel S.A. | 112 | RIPE | PL | https://www.peeringdb.com/asn/20804
 3 | 38182 | EXTREMEBB-AS-MY - Extreme Broadband - Total Broadband Experience | 975 | APNIC | MY | https://www.peeringdb.com/asn/38182
-3 | 42831 | UKSERVERS-AS UK Dedicated Servers Limited | 821 | RIPE | GB | https://www.peeringdb.com/asn/42831
-3 | 48070 | DSM DSM (GB) Limited | 1034 | RIPE | GB | https://www.peeringdb.com/asn/48070
-3 | 52025 | PARADOXNETWORKS-LIMITED ParadoxNetworks Limited | 428 | RIPE | GB | https://www.peeringdb.com/asn/52025
 3 | 58453 | CMI-INT-HK - China Mobile International Limited | 23 | APNIC | HK | https://www.peeringdb.com/asn/58453
-3 | 61049 | EXASCALE Exascale Ltd | 395 | RIPE | GB | https://www.peeringdb.com/asn/61049
 3 | 271253 | AS271253 - LINK BRASIL TELECOMUNICACOES LTDA | 106 | LACNIC | BR | https://www.peeringdb.com/asn/271253
 2 | 1828 | UNITAS - Unitas Global | 172 | ARIN | US | https://www.peeringdb.com/asn/1828
 2 | 7195 | AS7195 - EDGEUNO S.A.S | 16 | LACNIC | CO | https://www.peeringdb.com/asn/7195
@@ -74,7 +70,6 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 2 | 55329 | TELCOTECH-KH - Telcotech Ltd. | 1124 | APNIC | KH | https://www.peeringdb.com/asn/55329
 2 | 197790 | AS-ACTUS Actus P.S.A | 3912 | RIPE | PL | https://www.peeringdb.com/asn/197790
 2 | 204050 | Yoti Yoti Ltd | 44619 | RIPE | GB | https://www.peeringdb.com/asn/204050
-2 | 215638 | AS-CILIX-LIMITED Cilix Limited | 1854 | RIPE | GB | https://www.peeringdb.com/asn/215638
 2 | 328748 | Agile Solutions Provider (PTY) LTD - Agile Solutions Provider (PTY) LTD | 932 | AFRINIC | ZA | https://www.peeringdb.com/asn/328748
 2 | 22925 | ALLIED-TELECOM - Allied Telecom Group, LLC | 1301 | ARIN | US | https://www.peeringdb.com/asn/22925
 1 | 2635 | AUTOMATTIC - Automattic, Inc | 14871 | ARIN | US | https://www.peeringdb.com/asn/2635
@@ -87,14 +82,12 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 1 | 8220 | COLT COLT Technology Services Group Limited | 45 | RIPE | GB | https://www.peeringdb.com/asn/8220
 1 | 8452 | TE-AS - IDDQD-AS | 404 | RIPE | EG | https://www.peeringdb.com/asn/8452
 1 | 8757 | NSFOCUS NSFOCUS, Inc. | 3007 | RIPE | US | https://www.peeringdb.com/asn/8757
-1 | 9002 | RETN-AS RETN Limited | 11 | RIPE | GB | https://www.peeringdb.com/asn/9002
 1 | 12496 | IDNET Infinity Developments Limited | 6241 | RIPE | GB | https://www.peeringdb.com/asn/12496
 1 | 12552 | GlobalConnect-AS12552 GlobalConnect AB | 95 | RIPE | SE | https://www.peeringdb.com/asn/12552
 1 | 12969 | Vodafone_Iceland Ljosleidarinn ehf | 1589 | RIPE | IS | https://www.peeringdb.com/asn/12969
 1 | 17639 | CONVERGE-AS - Converge ICT Solutions Inc. | 515 | APNIC | PH | https://www.peeringdb.com/asn/17639
 1 | 18106 | VIEWQWEST-SG-AP - Viewqwest Pte Ltd | 486 | APNIC | SG | https://www.peeringdb.com/asn/18106
 1 | 19711 | SWAZILAND PTC - SWAZILAND PTC | 2261 | AFRINIC | SZ | https://www.peeringdb.com/asn/19711
-1 | 20473 | AS-VULTR - The Constant Company, LLC | 90 | ARIN | US | https://www.peeringdb.com/asn/20473
 1 | 24429 | Taobao - Zhejiang Taobao Network Co.,Ltd | 2436 | APNIC | CN | https://www.peeringdb.com/asn/24429
 1 | 36944 | Ubuntunet Alliance For Research and Education Networking - Ubuntunet Alliance For Research and Education Networking | 1792 | AFRINIC | MW | https://www.peeringdb.com/asn/36944
 1 | 37119 | UNITEL SA - UNITEL SA | 2036 | AFRINIC | AO | https://www.peeringdb.com/asn/37119
