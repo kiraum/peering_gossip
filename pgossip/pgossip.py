@@ -110,15 +110,14 @@ class PGossip(metaclass=RetryMeta):
         ]
         asn_details = await asyncio.gather(*asn_details_tasks)
 
-        for detail in asn_details:
-            text.append(detail)
+        text.extend(asn_details)
 
         print("\n".join(map(str, text)))
-        report_link = await self.create_report("\n".join(map(str, text)))
+        report_link = self.create_report("\n".join(map(str, text)))
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
-        await self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
-        await self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
+        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
+        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
 
     async def process_route_server(self, url, route_server, filtered_routes_sum):
         """
@@ -207,7 +206,7 @@ class PGossip(metaclass=RetryMeta):
             json_data.append(entry)
         return json_data
 
-    async def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
+    def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
         """
         Write data to a file, creating the necessary directories if they do not exist.
         The data can be written as plain text or as JSON.
@@ -243,16 +242,15 @@ class PGossip(metaclass=RetryMeta):
             list: List of alive route servers.
         """
         url = f"{url}/api/v1/routeservers"
-        async with aiohttp.ClientSession() as session:
-            async with session.get(url) as response:
-                if response.status == 200:
-                    rs_list = []
-                    data = await response.json()
-                    for rserver in data["routeservers"]:
-                        rs_list.append(rserver["id"])
-                else:
-                    print("ERROR | HTTP status != 200 - alice_rs")
-                    sys.exit(1)
+        async with aiohttp.ClientSession() as session, session.get(url) as response:
+            if response.status == 200:
+                rs_list = []
+                data = await response.json()
+                for rserver in data["routeservers"]:
+                    rs_list.append(rserver["id"])
+            else:
+                print("ERROR | HTTP status != 200 - alice_rs")
+                sys.exit(1)
         return rs_list
 
     async def alice_neighbours(self, url, route_server):
@@ -366,7 +364,7 @@ class PGossip(metaclass=RetryMeta):
             print(f"ERROR | fetch_json - {url}: {exc}")
             return None
 
-    async def create_report(self, data):
+    def create_report(self, data):
         """
         Create a pastebin-like report using glot.io API.
 
