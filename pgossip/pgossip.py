@@ -113,11 +113,11 @@ class PGossip(metaclass=RetryMeta):
         text.extend(asn_details)
 
         print("\n".join(map(str, text)))
-        report_link = self.create_report("\n".join(map(str, text)))
+        report_link = await self.create_report("\n".join(map(str, text)))
         print("=" * 80)
         print(f"We created a sharable report link, enjoy => {report_link}")
-        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
-        self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
+        await self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=False)
+        await self.write_report_to_file(fname, "\n".join(map(str, text)), as_json=True)
 
     async def process_route_server(self, url, route_server, filtered_routes_sum):
         """
@@ -206,7 +206,7 @@ class PGossip(metaclass=RetryMeta):
             json_data.append(entry)
         return json_data
 
-    def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
+    async def write_report_to_file(self, fname: str, data: list, as_json: bool = False):
         """
         Write data to a file, creating the necessary directories if they do not exist.
         The data can be written as plain text or as JSON.
@@ -224,12 +224,14 @@ class PGossip(metaclass=RetryMeta):
 
         os.makedirs(os.path.dirname(fwrite), exist_ok=True)
 
-        with open(fwrite, "w", encoding="utf8") as tfile:
-            if as_json:
-                data = self.parse_text_to_json(data)
-                json.dump(data, tfile, indent=4)
-            else:
-                tfile.write(data)
+        def _write():
+            with open(fwrite, "w", encoding="utf8") as tfile:
+                if as_json:
+                    json.dump(self.parse_text_to_json(data), tfile, indent=4)
+                else:
+                    tfile.write(data)
+
+        await asyncio.to_thread(_write)
 
     async def alice_rs(self, url):
         """
@@ -364,7 +366,7 @@ class PGossip(metaclass=RetryMeta):
             print(f"ERROR | fetch_json - {url}: {exc}")
             return None
 
-    def create_report(self, data):
+    async def create_report(self, data):
         """
         Create a pastebin-like report using glot.io API.
 
@@ -385,7 +387,9 @@ class PGossip(metaclass=RetryMeta):
         }
 
         try:
-            response = requests.post(url, headers=headers, json=payload, timeout=10)
+            response = await asyncio.to_thread(
+                requests.post, url, headers=headers, json=payload, timeout=10
+            )
             response.raise_for_status()
             report_url = f"https://glot.io/snippets/{response.json()['id']}"
         except (requests.exceptions.RequestException, KeyError) as exc:
