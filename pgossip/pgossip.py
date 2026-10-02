@@ -330,29 +330,9 @@ class PGossip(metaclass=RetryMeta):
 
         Returns:
             dict: WHOIS information if the request is successful, None otherwise.
-
-        Raises:
-            KeyError: If expected data keys are missing in the response.
-            SystemExit: If the API response is not successful (non-200 status code).
         """
         url = f"https://api.asrank.caida.org/v2/restful/asns/{asn}"
-        result = None
-        with requests.Session() as session:
-            response = session.get(url)
-        if response.status_code == 200:
-            data = response.json()
-            try:
-                result = data["data"]["asn"]
-            except KeyError:
-                print(f"ASN {asn} has no data at whois!")
-                raise
-        else:
-            print(
-                "ERROR | HTTP status != 200 - caida_asn_whois"
-                f" - Error {response.status_code}: {asn}"
-            )
-            sys.exit(1)
-        return result
+        return ((self.fetch_json(url) or {}).get("data") or {}).get("asn")
 
     async def ripe_asn_name(self, asn):
         """
@@ -363,28 +343,28 @@ class PGossip(metaclass=RetryMeta):
 
         Returns:
             str or None: The holder name of the ASN if available, otherwise None.
-
-        Raises:
-            KeyError: If the ASN data is missing in the API response.
-            SystemExit: If the API response status is not 200.
         """
         url = f"https://stat.ripe.net/data/as-overview/data.json?resource={asn}"
-        result = None
-        with requests.Session() as session:
-            response = session.get(url)
-        if response.status_code == 200:
-            try:
-                result = response.json()["data"]["holder"]
-            except KeyError:
-                print(f"ASN {asn} has no data at whois!")
-                raise
-        else:
-            print(
-                "ERROR | HTTP status != 200 - ripe_asn_name"
-                f" - Error {response.status_code}: {asn}"
-            )
-            sys.exit(1)
-        return result
+        return ((self.fetch_json(url) or {}).get("data") or {}).get("holder")
+
+    def fetch_json(self, url):
+        """
+        GET a JSON document from a best-effort enrichment API.
+
+        Args:
+            url (str): The URL to fetch.
+
+        Returns:
+            dict or None: The parsed JSON, or None on any failure, so an outage
+            of an enrichment source degrades the report to "NA" instead of killing it.
+        """
+        try:
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as exc:
+            print(f"ERROR | fetch_json - {url}: {exc}")
+            return None
 
     async def create_report(self, data):
         """
@@ -394,7 +374,7 @@ class PGossip(metaclass=RetryMeta):
             data (str): The data to include in the report.
 
         Returns:
-            str: URL of the created report.
+            str or None: URL of the created report, None if glot.io is unavailable.
         """
         url = "https://glot.io/api/snippets"
         report_url = None
@@ -406,12 +386,12 @@ class PGossip(metaclass=RetryMeta):
             "files": [{"name": "report.txt", "content": data}],
         }
 
-        response = requests.post(url, headers=headers, json=payload, timeout=10)
-        if response.status_code == 200:
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=10)
+            response.raise_for_status()
             report_url = f"https://glot.io/snippets/{response.json()['id']}"
-        else:
-            print("ERROR | HTTP status != 200 - create_report")
-            sys.exit(1)
+        except (requests.exceptions.RequestException, KeyError) as exc:
+            print(f"ERROR | create_report - {exc}")
         return report_url
 
     def load_yaml(self):

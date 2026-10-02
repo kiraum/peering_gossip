@@ -13,16 +13,16 @@ jobs:
       matrix:
         python-version: ["3.13"]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install dependencies
         run: |
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
@@ -42,16 +42,16 @@ jobs:
       matrix:
         python-version: ["3.13"]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install dependencies
         run: |
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
@@ -71,16 +71,16 @@ jobs:
       matrix:
         python-version: ["3.13"]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install dependencies
         run: |
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
@@ -100,16 +100,16 @@ jobs:
       matrix:
         python-version: ["3.13"]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install dependencies
         run: |
           pip install --no-cache-dir -U pip uv
           uv pip install --system --break-system-packages -r requirements.txt
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN}}
       - name: Generate reports
