@@ -110,8 +110,7 @@ class PGossip(metaclass=RetryMeta):
         ]
         asn_details = await asyncio.gather(*asn_details_tasks)
 
-        for detail in asn_details:
-            text.append(detail)
+        text.extend(asn_details)
 
         print("\n".join(map(str, text)))
         report_link = await self.create_report("\n".join(map(str, text)))
@@ -225,12 +224,14 @@ class PGossip(metaclass=RetryMeta):
 
         os.makedirs(os.path.dirname(fwrite), exist_ok=True)
 
-        with open(fwrite, "w", encoding="utf8") as tfile:
-            if as_json:
-                data = self.parse_text_to_json(data)
-                json.dump(data, tfile, indent=4)
-            else:
-                tfile.write(data)
+        def _write():
+            with open(fwrite, "w", encoding="utf8") as tfile:
+                if as_json:
+                    json.dump(self.parse_text_to_json(data), tfile, indent=4)
+                else:
+                    tfile.write(data)
+
+        await asyncio.to_thread(_write)
 
     async def alice_rs(self, url):
         """
@@ -243,16 +244,15 @@ class PGossip(metaclass=RetryMeta):
             list: List of alive route servers.
         """
         url = f"{url}/api/v1/routeservers"
-        async with aiohttp.ClientSession() as session:
-            async with session.get(url) as response:
-                if response.status == 200:
-                    rs_list = []
-                    data = await response.json()
-                    for rserver in data["routeservers"]:
-                        rs_list.append(rserver["id"])
-                else:
-                    print("ERROR | HTTP status != 200 - alice_rs")
-                    sys.exit(1)
+        async with aiohttp.ClientSession() as session, session.get(url) as response:
+            if response.status == 200:
+                rs_list = []
+                data = await response.json()
+                for rserver in data["routeservers"]:
+                    rs_list.append(rserver["id"])
+            else:
+                print("ERROR | HTTP status != 200 - alice_rs")
+                sys.exit(1)
         return rs_list
 
     async def alice_neighbours(self, url, route_server):
@@ -387,7 +387,9 @@ class PGossip(metaclass=RetryMeta):
         }
 
         try:
-            response = requests.post(url, headers=headers, json=payload, timeout=10)
+            response = await asyncio.to_thread(
+                requests.post, url, headers=headers, json=payload, timeout=10
+            )
             response.raise_for_status()
             report_url = f"https://glot.io/snippets/{response.json()['id']}"
         except (requests.exceptions.RequestException, KeyError) as exc:

@@ -41,10 +41,9 @@ async def main():
         ixps = pgossip.load_yaml()
         await pgossip.process_all_ixps_concurrently(ixps)
 
-    if not options:
-        if len(sys.argv) == 1:
-            parser.print_help(sys.stderr)
-            sys.exit(0)
+    if not options and len(sys.argv) == 1:
+        parser.print_help(sys.stderr)
+        sys.exit(0)
 
 
 if __name__ == "__main__":
