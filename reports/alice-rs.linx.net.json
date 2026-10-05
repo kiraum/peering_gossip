@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "312",
+        "Filtered prefixes @ https://alice-rs.linx.net": "304",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "57",
+        "Filtered prefixes @ https://alice-rs.linx.net": "56",
         "ASN": "37662",
         "AS-NAME": "West Indian Ocean Cable Company - West Indian Ocean Cable Company",
         "AS Rank": "93",
@@ -97,6 +97,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "32",
+        "ASN": "57463",
+        "AS-NAME": "NetIX NetIX Communications JSC",
+        "AS Rank": "79845",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "31",
@@ -163,15 +172,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "19",
-        "ASN": "57463",
-        "AS-NAME": "NetIX NetIX Communications JSC",
-        "AS Rank": "79845",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "19",
         "ASN": "60171",
         "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
         "AS Rank": "167",
@@ -207,6 +207,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/51561"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "29323",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
         "ASN": "16247",
         "AS-NAME": "M247-UK Convergence Group (Wireless) Networks Limited",
@@ -216,16 +225,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16247"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "15",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "29323",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "3213",
         "AS-NAME": "BOGONS-ASN Bogons Ltd",
         "AS Rank": "5327",
@@ -388,15 +388,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "38880",
-        "AS-NAME": "M21-AS-AP - Micron21 Datacentre Pty Ltd",
-        "AS Rank": "2925",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/38880"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "47631",
         "AS-NAME": "sipcom-net1 SIP COMMUNICATIONS LIMITED",
         "AS Rank": "25298",
@@ -406,12 +397,12 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "203462",
-        "AS-NAME": "asnovaconn NOVACONN SRL",
-        "AS Rank": "4714",
-        "Source": "RIPE",
-        "Country": "IT",
-        "PeeringDB link": "https://www.peeringdb.com/asn/203462"
+        "ASN": "271253",
+        "AS-NAME": "AS271253 - LINK BRASIL TELECOMUNICACOES LTDA",
+        "AS Rank": "98",
+        "Source": "LACNIC",
+        "Country": "BR",
+        "PeeringDB link": "https://www.peeringdb.com/asn/271253"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -594,15 +585,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/204050"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "271253",
-        "AS-NAME": "AS271253 - LINK BRASIL TELECOMUNICACOES LTDA",
-        "AS Rank": "98",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/271253"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
@@ -682,15 +664,6 @@
         "Source": "RIPE",
         "Country": "EG",
         "PeeringDB link": "https://www.peeringdb.com/asn/8452"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "8757",
-        "AS-NAME": "NSFOCUS NSFOCUS, Inc.",
-        "AS Rank": "2623",
-        "Source": "RIPE",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/8757"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
