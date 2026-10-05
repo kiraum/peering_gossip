@@ -74,7 +74,7 @@ pyflakes==4.0.1
     # via flake8
 pygments==2.21.0
     # via pytest
-pylint==4.1.1
+pylint==4.1.2
     # via peering-gossip (pyproject.toml)
 pytest==9.1.1
     # via peering-gossip (pyproject.toml)
