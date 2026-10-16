@@ -12,7 +12,7 @@ attrs==26.1.0
     # via aiohttp
 backoff==2.2.1
     # via peering-gossip (pyproject.toml)
-black==26.5.1
+black==26.10.1
     # via peering-gossip (pyproject.toml)
 certifi==2026.7.22
     # via requests
