@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "287",
+        "Filtered prefixes @ https://alice-rs.linx.net": "307",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/6939"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "234",
+        "Filtered prefixes @ https://alice-rs.linx.net": "232",
         "ASN": "37100",
         "AS-NAME": "SEACOM Limited - SEACOM Limited",
         "AS Rank": "90",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/37100"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "108",
+        "Filtered prefixes @ https://alice-rs.linx.net": "107",
         "ASN": "203649",
         "AS-NAME": "goInternet GO INTERNET LTD",
         "AS Rank": "26044",
@@ -81,6 +81,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "37",
+        "ASN": "137409",
+        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
+        "AS Rank": "47",
+        "Source": "APNIC",
+        "Country": "AU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "34",
         "ASN": "2018",
         "AS-NAME": "Tertiary Education and Research Network of South Africa - Tertiary Education and Research Network of South Africa",
@@ -88,15 +97,6 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/2018"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "34",
-        "ASN": "137409",
-        "AS-NAME": "GSLNETWORKS-AS-AP - GSL Networks Pty LTD",
-        "AS Rank": "47",
-        "Source": "APNIC",
-        "Country": "AU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/137409"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "33",
@@ -180,6 +180,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9145"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "18",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "29447",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "16",
         "ASN": "51561",
         "AS-NAME": "AS-ICUK ICUK Computing Services Limited",
@@ -207,15 +216,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "15",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "29447",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "14",
         "ASN": "3213",
         "AS-NAME": "BOGONS-ASN Bogons Ltd",
@@ -223,6 +223,15 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/3213"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "14",
+        "ASN": "33763",
+        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
+        "AS Rank": "437",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "13",
@@ -252,24 +261,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/29119"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "33763",
-        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
-        "AS Rank": "437",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "12",
-        "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID - PT. Mega Akses Persada",
-        "AS Rank": "102",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "37468",
         "AS-NAME": "Angola Cables - Angola Cables",
@@ -280,6 +271,15 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "136106",
+        "AS-NAME": "FIBERSTAR-AS-ID - PT. Mega Akses Persada",
+        "AS Rank": "102",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/136106"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
         "ASN": "60171",
         "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
         "AS Rank": "164",
@@ -559,15 +559,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
-        "ASN": "20562",
-        "AS-NAME": "OPEN-PEERING-AS Broadband Hosting B.V.",
-        "AS Rank": "114",
-        "Source": "RIPE",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20562"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "2",
         "ASN": "24691",
         "AS-NAME": "TOGOTEL-AS - IDDQD-AS",
         "AS Rank": "6065",
@@ -754,6 +745,15 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/18106"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "20562",
+        "AS-NAME": "OPEN-PEERING-AS Broadband Hosting B.V.",
+        "AS Rank": "114",
+        "Source": "RIPE",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20562"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
