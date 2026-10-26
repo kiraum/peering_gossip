@@ -1,13 +1,13 @@
 Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source | Country | PeeringDB link
 965 | 203649 | goInternet GO INTERNET LTD | 26047 | RIPE | GB | https://www.peeringdb.com/asn/203649
-276 | 6939 | HURRICANE - Hurricane Electric LLC | 7 | ARIN | US | https://www.peeringdb.com/asn/6939
+277 | 6939 | HURRICANE - Hurricane Electric LLC | 7 | ARIN | US | https://www.peeringdb.com/asn/6939
 232 | 37100 | SEACOM Limited - SEACOM Limited | 91 | AFRINIC | MU | https://www.peeringdb.com/asn/37100
 106 | 36994 | Vodacom - Vodacom | 688 | AFRINIC | ZA | https://www.peeringdb.com/asn/36994
-99 | 4800 | LINTASARTA-AS-AP - PT Aplikanusa Lintasarta | 112 | APNIC | ID | https://www.peeringdb.com/asn/4800
+98 | 4800 | LINTASARTA-AS-AP - PT Aplikanusa Lintasarta | 112 | APNIC | ID | https://www.peeringdb.com/asn/4800
 79 | 4775 | GLOBE-TELECOM-AS - Globe Telecoms | 343 | APNIC | PH | https://www.peeringdb.com/asn/4775
-57 | 37662 | West Indian Ocean Cable Company - West Indian Ocean Cable Company | 88 | AFRINIC | MU | https://www.peeringdb.com/asn/37662
 55 | 39386 | STC-IGW-AS Saudi Telecom Company JSC | 304 | RIPE | SA | https://www.peeringdb.com/asn/39386
 53 | 7713 | telkomnet-as-ap - PT Telekomunikasi Indonesia | 60 | APNIC | ID | https://www.peeringdb.com/asn/7713
+52 | 37662 | West Indian Ocean Cable Company - West Indian Ocean Cable Company | 88 | AFRINIC | MU | https://www.peeringdb.com/asn/37662
 34 | 2018 | Tertiary Education and Research Network of South Africa - Tertiary Education and Research Network of South Africa | 3084 | AFRINIC | ZA | https://www.peeringdb.com/asn/2018
 33 | 37119 | UNITEL SA - UNITEL SA | 1240 | AFRINIC | AO | https://www.peeringdb.com/asn/37119
 31 | 35297 | DATALINE-AS Dataline LLC | 120 | RIPE | UA | https://www.peeringdb.com/asn/35297
@@ -18,17 +18,17 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 24 | 9145 | EWETEL EWE TEL GmbH | 673 | RIPE | DE | https://www.peeringdb.com/asn/9145
 23 | 30844 | LIQUID-AS Liquid Telecommunications Ltd | 117 | RIPE | GB | https://www.peeringdb.com/asn/30844
 18 | 57463 | NetIX NetIX Communications JSC | 80230 | RIPE | BG | https://www.peeringdb.com/asn/57463
-16 | 51561 | AS-ICUK ICUK Computing Services Limited | 6207 | RIPE | GB | https://www.peeringdb.com/asn/51561
 15 | 16247 | M247-UK Convergence Group (Wireless) Networks Limited | 2890 | RIPE | GB | https://www.peeringdb.com/asn/16247
 15 | 29119 | SERVIHOSTING-AS AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL | 154 | RIPE | ES | https://www.peeringdb.com/asn/29119
 15 | 44735 | SIP-ASN Nova hf | 1013 | RIPE | IS | https://www.peeringdb.com/asn/44735
-15 | 55818 | MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1 | 29450 | APNIC | ID | https://www.peeringdb.com/asn/55818
 14 | 3213 | BOGONS-ASN Bogons Ltd | 5366 | RIPE | GB | https://www.peeringdb.com/asn/3213
+14 | 51561 | AS-ICUK ICUK Computing Services Limited | 6207 | RIPE | GB | https://www.peeringdb.com/asn/51561
+14 | 55818 | MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1 | 29450 | APNIC | ID | https://www.peeringdb.com/asn/55818
 13 | 9498 | BBIL-AP - BHARTI Airtel Ltd. | 23 | APNIC | IN | https://www.peeringdb.com/asn/9498
 13 | 9930 | TTNET-MY - TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia | 410 | APNIC | MY | https://www.peeringdb.com/asn/9930
 13 | 33763 | Paratus Telecommunications Limited - Paratus Telecommunications Limited | 437 | AFRINIC | MU | https://www.peeringdb.com/asn/33763
+11 | 136106 | FIBERSTAR-AS-ID - PT. Mega Akses Persada | 102 | APNIC | ID | https://www.peeringdb.com/asn/136106
 10 | 60171 | AFRIX-AS AFR-IX TELECOM S.A. | 164 | RIPE | ES | https://www.peeringdb.com/asn/60171
-10 | 136106 | FIBERSTAR-AS-ID - PT. Mega Akses Persada | 102 | APNIC | ID | https://www.peeringdb.com/asn/136106
 9 | 13237 | LAMBDANET-AS euNetworks GmbH | 198 | RIPE | DE | https://www.peeringdb.com/asn/13237
 9 | 37468 | Angola Cables - Angola Cables | 24 | AFRINIC | AO | https://www.peeringdb.com/asn/37468
 9 | 64049 | RJIPL-SG - Reliance Jio Infocomm Pte Ltd Singapore | 94 | APNIC | SG | https://www.peeringdb.com/asn/64049
@@ -90,3 +90,4 @@ Filtered prefixes @ https://alice-rs.linx.net | ASN | AS-NAME | AS Rank | Source
 1 | 204208 | Peravix Peravix Group LTD | 1728 | RIPE | GB | https://www.peeringdb.com/asn/204208
 1 | 205847 | BORDERLINK GoFibre Holdings Limited | 30317 | RIPE | GB | https://www.peeringdb.com/asn/205847
 1 | 206078 | UltraNetworks UltraNetworks Limited | 37026 | RIPE | GB | https://www.peeringdb.com/asn/206078
+1 | 33765 | TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD | 1033 | AFRINIC | TZ | https://www.peeringdb.com/asn/33765
