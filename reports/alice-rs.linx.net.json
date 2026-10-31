@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "271",
+        "Filtered prefixes @ https://alice-rs.linx.net": "279",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -108,7 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4788"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "27",
+        "Filtered prefixes @ https://alice-rs.linx.net": "28",
         "ASN": "6204",
         "AS-NAME": "ZET-NET INTERKVM HOST SRL",
         "AS Rank": "85",
@@ -154,21 +154,21 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "18",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "29450",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "18",
         "ASN": "57463",
         "AS-NAME": "NetIX NetIX Communications JSC",
         "AS Rank": "80230",
         "Source": "RIPE",
         "Country": "BG",
         "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "16",
+        "ASN": "51561",
+        "AS-NAME": "AS-ICUK ICUK Computing Services Limited",
+        "AS Rank": "6207",
+        "Source": "RIPE",
+        "Country": "GB",
+        "PeeringDB link": "https://www.peeringdb.com/asn/51561"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "15",
@@ -207,15 +207,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3213"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "14",
-        "ASN": "51561",
-        "AS-NAME": "AS-ICUK ICUK Computing Services Limited",
-        "AS Rank": "6207",
-        "Source": "RIPE",
-        "Country": "GB",
-        "PeeringDB link": "https://www.peeringdb.com/asn/51561"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "13",
         "ASN": "9498",
         "AS-NAME": "BBIL-AP - BHARTI Airtel Ltd.",
@@ -223,15 +214,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/9498"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
-        "ASN": "33763",
-        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
-        "AS Rank": "437",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -244,6 +226,24 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "33763",
+        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
+        "AS Rank": "437",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "29450",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "11",
         "ASN": "60171",
         "AS-NAME": "AFRIX-AS AFR-IX TELECOM S.A.",
         "AS Rank": "164",
@@ -389,7 +389,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "4",
         "ASN": "24691",
-        "AS-NAME": "TOGOTEL-AS - IDDQD-AS",
+        "AS-NAME": "NA",
         "AS Rank": "6065",
         "Source": "RIPE",
         "Country": "TG",
@@ -808,14 +808,5 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/206078"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "33765",
-        "AS-NAME": "TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD",
-        "AS Rank": "1033",
-        "Source": "AFRINIC",
-        "Country": "TZ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33765"
     }
 ]
