@@ -70,7 +70,7 @@ propcache==0.5.4
     #   yarl
 pycodestyle==2.15.0
     # via flake8
-pyflakes==4.0.3
+pyflakes==4.1.0
     # via flake8
 pygments==2.21.0
     # via pytest
