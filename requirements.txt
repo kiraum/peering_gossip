@@ -84,7 +84,7 @@ pyyaml==6.0.3
     # via yamllint
 requests==2.34.2
     # via peering-gossip (pyproject.toml)
-ruff==0.17.2
+ruff==0.17.3
     # via peering-gossip (pyproject.toml)
 tomlkit==0.15.2
     # via pylint
