@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1360",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1364",
         "ASN": "328092",
         "AS-NAME": "SUD TELECOM SOLUTIONS - SUD TELECOM SOLUTIONS",
         "AS Rank": "9580",
@@ -9,7 +9,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/328092"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "772",
+        "Filtered prefixes @ https://lg.ams-ix.net": "768",
         "ASN": "4761",
         "AS-NAME": "INDOSAT-INP-AP - INDOSAT Internet Network Provider",
         "AS Rank": "365",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4761"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "760",
+        "Filtered prefixes @ https://lg.ams-ix.net": "754",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN - Sify Limited",
         "AS Rank": "94",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "722",
+        "Filtered prefixes @ https://lg.ams-ix.net": "720",
         "ASN": "4230",
         "AS-NAME": "AS4230 - CLARO S.A.",
         "AS Rank": "51",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/47794"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "490",
+        "Filtered prefixes @ https://lg.ams-ix.net": "506",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3216"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "344",
+        "Filtered prefixes @ https://lg.ams-ix.net": "350",
         "ASN": "35598",
         "AS-NAME": "INETCOM INETCOM CARRIER LLC",
         "AS Rank": "48",
@@ -108,7 +108,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/12695"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "170",
+        "Filtered prefixes @ https://lg.ams-ix.net": "186",
         "ASN": "6204",
         "AS-NAME": "ZET-NET INTERKVM HOST SRL",
         "AS Rank": "79",
@@ -252,13 +252,22 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "53",
+        "Filtered prefixes @ https://lg.ams-ix.net": "54",
         "ASN": "55818",
         "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
         "AS Rank": "29633",
         "Source": "APNIC",
         "Country": "ID",
         "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "53",
+        "ASN": "1103",
+        "AS-NAME": "SURFNET-NL SURF B.V.",
+        "AS Rank": "1212",
+        "Source": "RIPE",
+        "Country": "NL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1103"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "52",
@@ -268,15 +277,6 @@
         "Source": "APNIC",
         "Country": "TH",
         "PeeringDB link": "https://www.peeringdb.com/asn/4651"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "45",
-        "ASN": "1103",
-        "AS-NAME": "SURFNET-NL SURF B.V.",
-        "AS Rank": "1212",
-        "Source": "RIPE",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1103"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "44",
@@ -297,6 +297,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/13194"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "42",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
+        "AS Rank": "4289",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "36",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN Nova hf",
@@ -313,15 +322,6 @@
         "Source": "ARIN",
         "Country": "US",
         "PeeringDB link": "https://www.peeringdb.com/asn/40850"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "34",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
-        "AS Rank": "4289",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "32",
@@ -468,6 +468,24 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/57043"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "18",
+        "ASN": "37282",
+        "AS-NAME": "Main one Cable Company Nigeria Limited - Main one Cable Company Nigeria Limited",
+        "AS Rank": "270",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37282"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "16",
+        "ASN": "1031",
+        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
+        "AS Rank": "21",
+        "Source": "ARIN",
+        "Country": "US",
+        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "16",
         "ASN": "12859",
         "AS-NAME": "NL-BIT BIT BV",
@@ -484,24 +502,6 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20562"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "16",
-        "ASN": "37282",
-        "AS-NAME": "Main one Cable Company Nigeria Limited - Main one Cable Company Nigeria Limited",
-        "AS Rank": "270",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37282"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "14",
-        "ASN": "1031",
-        "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
-        "AS Rank": "21",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1031"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "14",
@@ -882,13 +882,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/329099"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "3333",
-        "AS-NAME": "RIPE-NCC-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
-        "AS Rank": "6775",
+        "Filtered prefixes @ https://lg.ams-ix.net": "3",
+        "ASN": "57344",
+        "AS-NAME": "TELEHOUSE-AS Telehouse AD",
+        "AS Rank": "246",
         "Source": "RIPE",
-        "Country": "NL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/3333"
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57344"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -1141,15 +1141,6 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/204805"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "210890",
-        "AS-NAME": "AS-ROKRSERVICES ROKR Services BV",
-        "AS Rank": "48800",
-        "Source": "RIPE",
-        "Country": "BE",
-        "PeeringDB link": "https://www.peeringdb.com/asn/210890"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
