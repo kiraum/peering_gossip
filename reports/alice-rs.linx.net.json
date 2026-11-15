@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "355",
+        "Filtered prefixes @ https://alice-rs.linx.net": "375",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -106,15 +106,6 @@
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/4788"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "27",
-        "ASN": "6204",
-        "AS-NAME": "ZET-NET INTERKVM HOST SRL",
-        "AS Rank": "79",
-        "Source": "RIPE",
-        "Country": "RO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/6204"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "25",
@@ -225,15 +216,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3213"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "13",
-        "ASN": "33763",
-        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
-        "AS Rank": "443",
-        "Source": "AFRINIC",
-        "Country": "MU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
-    },
-    {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
         "ASN": "9930",
         "AS-NAME": "TTNET-MY - TIME dotCom Berhad No. 14, Jalan Majistret U1/26 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia",
@@ -241,6 +223,15 @@
         "Source": "APNIC",
         "Country": "MY",
         "PeeringDB link": "https://www.peeringdb.com/asn/9930"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "12",
+        "ASN": "33763",
+        "AS-NAME": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
+        "AS Rank": "443",
+        "Source": "AFRINIC",
+        "Country": "MU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/33763"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "12",
@@ -252,6 +243,15 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "10",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "29633",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "9",
         "ASN": "13237",
         "AS-NAME": "LAMBDANET-AS euNetworks GmbH",
@@ -259,15 +259,6 @@
         "Source": "RIPE",
         "Country": "DE",
         "PeeringDB link": "https://www.peeringdb.com/asn/13237"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "9",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "29633",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
@@ -475,6 +466,15 @@
         "Source": "AFRINIC",
         "Country": "ZA",
         "PeeringDB link": "https://www.peeringdb.com/asn/3741"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "2",
+        "ASN": "9304",
+        "AS-NAME": "HUTCHISON-AS-AP - HGC Global Communications Limited",
+        "AS Rank": "71",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/9304"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "2",
@@ -712,15 +712,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "53427",
-        "AS-NAME": "TGLOBAL-NETWORKS - TGLOBAL NETWORKS",
-        "AS Rank": "280",
-        "Source": "ARIN",
-        "Country": "US",
-        "PeeringDB link": "https://www.peeringdb.com/asn/53427"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "58717",
         "AS-NAME": "SUMMITCOMMUNICATIONS-BD - Summit Communications Ltd",
         "AS Rank": "83",
@@ -740,7 +731,7 @@
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "136106",
-        "AS-NAME": "FIBERSTAR-AS-ID - PT. Mega Akses Persada",
+        "AS-NAME": "NA",
         "AS Rank": "101",
         "Source": "APNIC",
         "Country": "ID",
