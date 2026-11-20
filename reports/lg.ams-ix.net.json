@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "1378",
+        "Filtered prefixes @ https://lg.ams-ix.net": "1718",
         "ASN": "328092",
         "AS-NAME": "SUD TELECOM SOLUTIONS - SUD TELECOM SOLUTIONS",
         "AS Rank": "9580",
@@ -18,7 +18,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4761"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "760",
+        "Filtered prefixes @ https://lg.ams-ix.net": "757",
         "ASN": "9583",
         "AS-NAME": "SIFY-AS-IN - Sify Limited",
         "AS Rank": "94",
@@ -27,7 +27,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/9583"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "722",
+        "Filtered prefixes @ https://lg.ams-ix.net": "719",
         "ASN": "4230",
         "AS-NAME": "AS4230 - CLARO S.A.",
         "AS Rank": "51",
@@ -63,7 +63,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/3216"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "360",
+        "Filtered prefixes @ https://lg.ams-ix.net": "348",
         "ASN": "35598",
         "AS-NAME": "INETCOM INETCOM CARRIER LLC",
         "AS Rank": "48",
@@ -126,15 +126,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/196844"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "118",
-        "ASN": "20804",
-        "AS-NAME": "ASN-TELENERGO Exatel S.A.",
-        "AS Rank": "90",
-        "Source": "RIPE",
-        "Country": "PL",
-        "PeeringDB link": "https://www.peeringdb.com/asn/20804"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "116",
         "ASN": "4657",
         "AS-NAME": "STARHUB-INTERNET - StarHub Ltd",
@@ -142,6 +133,15 @@
         "Source": "APNIC",
         "Country": "SG",
         "PeeringDB link": "https://www.peeringdb.com/asn/4657"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "116",
+        "ASN": "20804",
+        "AS-NAME": "ASN-TELENERGO Exatel S.A.",
+        "AS Rank": "90",
+        "Source": "RIPE",
+        "Country": "PL",
+        "PeeringDB link": "https://www.peeringdb.com/asn/20804"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "116",
@@ -162,7 +162,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/7713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "106",
+        "Filtered prefixes @ https://lg.ams-ix.net": "102",
         "ASN": "36994",
         "AS-NAME": "Vodacom - Vodacom",
         "AS Rank": "694",
@@ -225,7 +225,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/23947"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "57",
+        "Filtered prefixes @ https://lg.ams-ix.net": "56",
         "ASN": "1103",
         "AS-NAME": "SURFNET-NL SURF B.V.",
         "AS Rank": "1212",
@@ -243,25 +243,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/5713"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "50",
-        "ASN": "4651",
-        "AS-NAME": "NTPCL-AS-AP - National Telecom Public Company Limited",
-        "AS Rank": "210",
-        "Source": "APNIC",
-        "Country": "TH",
-        "PeeringDB link": "https://www.peeringdb.com/asn/4651"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "48",
-        "ASN": "57463",
-        "AS-NAME": "NetIX NetIX Communications JSC",
-        "AS Rank": "80790",
-        "Source": "RIPE",
-        "Country": "BG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "46",
+        "Filtered prefixes @ https://lg.ams-ix.net": "54",
         "ASN": "16637",
         "AS-NAME": "MTN SA - MTN SA",
         "AS Rank": "216",
@@ -270,13 +252,13 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/16637"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "43",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "29633",
+        "Filtered prefixes @ https://lg.ams-ix.net": "52",
+        "ASN": "4651",
+        "AS-NAME": "NTPCL-AS-AP - National Telecom Public Company Limited",
+        "AS Rank": "210",
         "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+        "Country": "TH",
+        "PeeringDB link": "https://www.peeringdb.com/asn/4651"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "42",
@@ -288,22 +270,31 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/13194"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "36",
+        "Filtered prefixes @ https://lg.ams-ix.net": "41",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "29633",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "40",
+        "ASN": "57463",
+        "AS-NAME": "NetIX NetIX Communications JSC",
+        "AS Rank": "80790",
+        "Source": "RIPE",
+        "Country": "BG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/57463"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "38",
         "ASN": "44735",
         "AS-NAME": "SIP-ASN Nova hf",
         "AS Rank": "984",
         "Source": "RIPE",
         "Country": "IS",
         "PeeringDB link": "https://www.peeringdb.com/asn/44735"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "36",
-        "ASN": "199524",
-        "AS-NAME": "GCORE G-Core Labs S.A.",
-        "AS Rank": "363",
-        "Source": "RIPE",
-        "Country": "LU",
-        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "34",
@@ -342,15 +333,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/18229"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "28",
-        "ASN": "37468",
-        "AS-NAME": "Angola Cables - Angola Cables",
-        "AS Rank": "22",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "24",
         "ASN": "8732",
         "AS-NAME": "COMCOR-AS JSC Comcor",
@@ -369,6 +351,24 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/20764"
     },
     {
+        "Filtered prefixes @ https://lg.ams-ix.net": "24",
+        "ASN": "37468",
+        "AS-NAME": "Angola Cables - Angola Cables",
+        "AS Rank": "22",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "24",
+        "ASN": "199524",
+        "AS-NAME": "GCORE G-Core Labs S.A.",
+        "AS Rank": "363",
+        "Source": "RIPE",
+        "Country": "LU",
+        "PeeringDB link": "https://www.peeringdb.com/asn/199524"
+    },
+    {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
         "ASN": "1031",
         "AS-NAME": "PEER1-1031 - PEER 1031 LLC",
@@ -385,6 +385,15 @@
         "Source": "RIPE",
         "Country": "RU",
         "PeeringDB link": "https://www.peeringdb.com/asn/57304"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "22",
+        "ASN": "29091",
+        "AS-NAME": "ipNX Nigeria Limited - ipNX Nigeria Limited",
+        "AS Rank": "2579",
+        "Source": "AFRINIC",
+        "Country": "NG",
+        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "22",
@@ -412,15 +421,6 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/136334"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "20",
-        "ASN": "29091",
-        "AS-NAME": "ipNX Nigeria Limited - ipNX Nigeria Limited",
-        "AS Rank": "2579",
-        "Source": "AFRINIC",
-        "Country": "NG",
-        "PeeringDB link": "https://www.peeringdb.com/asn/29091"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "18",
@@ -513,15 +513,6 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/38880"
     },
     {
-        "Filtered prefixes @ https://lg.ams-ix.net": "9",
-        "ASN": "328316",
-        "AS-NAME": "Point d'Atterissement Virtuel - Burkina Faso - Point d'Atterissement Virtuel - Burkina Faso",
-        "AS Rank": "3226",
-        "Source": "AFRINIC",
-        "Country": "BF",
-        "PeeringDB link": "https://www.peeringdb.com/asn/328316"
-    },
-    {
         "Filtered prefixes @ https://lg.ams-ix.net": "8",
         "ASN": "2854",
         "AS-NAME": "ROSPRINT-AS LLC Orange Business Services",
@@ -538,15 +529,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/4455"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "7",
-        "ASN": "134548",
-        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
-        "AS Rank": "4289",
-        "Source": "APNIC",
-        "Country": "HK",
-        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
@@ -649,15 +631,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
-        "ASN": "44600",
-        "AS-NAME": "GT-AS \"GIGATRANS UKRAINE\", LLC",
-        "AS Rank": "523",
-        "Source": "RIPE",
-        "Country": "UA",
-        "PeeringDB link": "https://www.peeringdb.com/asn/44600"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "6",
         "ASN": "50384",
         "AS-NAME": "W-IX_LTD iHome LLC",
         "AS Rank": "81711",
@@ -673,6 +646,15 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/207176"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "6",
+        "ASN": "134548",
+        "AS-NAME": "DXTL-HK - DXTL Tseung Kwan O Service",
+        "AS Rank": "4289",
+        "Source": "APNIC",
+        "Country": "HK",
+        "PeeringDB link": "https://www.peeringdb.com/asn/134548"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "6",
@@ -808,6 +790,15 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/43414"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "4",
+        "ASN": "44600",
+        "AS-NAME": "GT-AS \"GIGATRANS UKRAINE\", LLC",
+        "AS Rank": "523",
+        "Source": "RIPE",
+        "Country": "UA",
+        "PeeringDB link": "https://www.peeringdb.com/asn/44600"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "4",
@@ -961,15 +952,6 @@
         "Source": "RIPE",
         "Country": "NL",
         "PeeringDB link": "https://www.peeringdb.com/asn/20940"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "22356",
-        "AS-NAME": "AS22356 - Durand do Brasil Ltda",
-        "AS Rank": "23",
-        "Source": "LACNIC",
-        "Country": "BR",
-        "PeeringDB link": "https://www.peeringdb.com/asn/22356"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
@@ -1135,15 +1117,6 @@
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "2",
-        "ASN": "214757",
-        "AS-NAME": "Jakub-Krsa Jakub Krsa",
-        "AS Rank": "1102",
-        "Source": "RIPE",
-        "Country": "CZ",
-        "PeeringDB link": "https://www.peeringdb.com/asn/214757"
-    },
-    {
-        "Filtered prefixes @ https://lg.ams-ix.net": "2",
         "ASN": "272996",
         "AS-NAME": "AS272996 - SINCERE NETWORKS B.V.",
         "AS Rank": "8930",
@@ -1159,6 +1132,15 @@
         "Source": "APNIC",
         "Country": "IN",
         "PeeringDB link": "https://www.peeringdb.com/asn/133296"
+    },
+    {
+        "Filtered prefixes @ https://lg.ams-ix.net": "2",
+        "ASN": "37577",
+        "AS-NAME": "Orange Burkina Faso - Orange Burkina Faso",
+        "AS Rank": "8127",
+        "Source": "AFRINIC",
+        "Country": "BF",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37577"
     },
     {
         "Filtered prefixes @ https://lg.ams-ix.net": "1",
