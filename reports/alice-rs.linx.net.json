@@ -1,6 +1,6 @@
 [
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "343",
+        "Filtered prefixes @ https://alice-rs.linx.net": "359",
         "ASN": "6939",
         "AS-NAME": "HURRICANE - Hurricane Electric LLC",
         "AS Rank": "7",
@@ -45,7 +45,7 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/4775"
     },
     {
-        "Filtered prefixes @ https://alice-rs.linx.net": "60",
+        "Filtered prefixes @ https://alice-rs.linx.net": "58",
         "ASN": "37662",
         "AS-NAME": "West Indian Ocean Cable Company - West Indian Ocean Cable Company",
         "AS Rank": "89",
@@ -234,6 +234,24 @@
         "PeeringDB link": "https://www.peeringdb.com/asn/60171"
     },
     {
+        "Filtered prefixes @ https://alice-rs.linx.net": "9",
+        "ASN": "37468",
+        "AS-NAME": "Angola Cables - Angola Cables",
+        "AS Rank": "22",
+        "Source": "AFRINIC",
+        "Country": "AO",
+        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "8",
+        "ASN": "55818",
+        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
+        "AS Rank": "29633",
+        "Source": "APNIC",
+        "Country": "ID",
+        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
+    },
+    {
         "Filtered prefixes @ https://alice-rs.linx.net": "8",
         "ASN": "56595",
         "AS-NAME": "FLUENCY Commsworld Ltd",
@@ -268,15 +286,6 @@
         "Source": "AFRINIC",
         "Country": "NG",
         "PeeringDB link": "https://www.peeringdb.com/asn/37148"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "7",
-        "ASN": "37468",
-        "AS-NAME": "Angola Cables - Angola Cables",
-        "AS Rank": "22",
-        "Source": "AFRINIC",
-        "Country": "AO",
-        "PeeringDB link": "https://www.peeringdb.com/asn/37468"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "6",
@@ -385,15 +394,6 @@
         "Source": "RIPE",
         "Country": "GB",
         "PeeringDB link": "https://www.peeringdb.com/asn/47631"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "4",
-        "ASN": "55818",
-        "AS-NAME": "MCIX-AS-AP - MC-IX Matrix Internet Exchange RS-1",
-        "AS Rank": "29633",
-        "Source": "APNIC",
-        "Country": "ID",
-        "PeeringDB link": "https://www.peeringdb.com/asn/55818"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "3",
@@ -550,15 +550,6 @@
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
-        "ASN": "1267",
-        "AS-NAME": "ASN-WINDTRE WIND TRE S.P.A.",
-        "AS Rank": "452",
-        "Source": "RIPE",
-        "Country": "IT",
-        "PeeringDB link": "https://www.peeringdb.com/asn/1267"
-    },
-    {
-        "Filtered prefixes @ https://alice-rs.linx.net": "1",
         "ASN": "2635",
         "AS-NAME": "AUTOMATTIC - Automattic, Inc",
         "AS Rank": "15368",
@@ -574,6 +565,15 @@
         "Source": "RIPE",
         "Country": "NO",
         "PeeringDB link": "https://www.peeringdb.com/asn/5377"
+    },
+    {
+        "Filtered prefixes @ https://alice-rs.linx.net": "1",
+        "ASN": "6866",
+        "AS-NAME": "CYTA-NETWORK Cyprus Telecommunications Authority",
+        "AS Rank": "1047",
+        "Source": "RIPE",
+        "Country": "CY",
+        "PeeringDB link": "https://www.peeringdb.com/asn/6866"
     },
     {
         "Filtered prefixes @ https://alice-rs.linx.net": "1",
