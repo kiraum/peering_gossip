@@ -94,7 +94,7 @@ typing-extensions==4.16.0
     #   aiosignal
 urllib3==2.8.0
     # via requests
-uv==0.13.8
+uv==0.13.9
     # via peering-gossip (pyproject.toml)
 yamllint==1.38.0
     # via peering-gossip (pyproject.toml)
