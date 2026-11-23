@@ -80,7 +80,7 @@ pytest==9.2.0
     # via peering-gossip (pyproject.toml)
 pytokens==0.4.1
     # via black
-pyyaml==6.0.3
+pyyaml==6.0.4
     # via yamllint
 requests==2.34.2
     # via peering-gossip (pyproject.toml)
